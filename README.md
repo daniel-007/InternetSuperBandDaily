@@ -16,6 +16,7 @@
 * [4年9亿用户，它也许是移动互联网最后的野蛮生长](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650064180&idx=1&sn=1f5a0c0648ed792f11a8e9202461e02d&chksm=bec1c79789b64e81f747f5c5b9cd849ecedc74ad9e8109b722d9c699ba16c1b33b18b0fdf711&mpshare=1&scene=1&srcid=0524IqJrB9dpmm5eeFggqeZZ&pass_ticket=jGO4%2BQwAdYxz2CupACfeKzdn67fcXQ%2FH%2FzjQboNnbMKtjmjkRnc6q2vic%2BWFhjPg#rd)
 * [傅盛：再谈认知、产品经理与创业（首次回顾认知思考历程）](https://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=2653646331&idx=1&sn=ec5ec071afe76b2113883e3d16729bcc&chksm=bd3cf2f98a4b7bef01206dd5e9287ea604923c52988455b5b4b1d2ae276190b37e8f13814a0d&mpshare=1&scene=1&srcid=0524i0ZRee2uUZpPyqBCva8V&pass_ticket=jGO4%2BQwAdYxz2CupACfeKzdn67fcXQ%2FH%2FzjQboNnbMKtjmjkRnc6q2vic%2BWFhjPg#rd)
 * [因为打价格战，我搞死同行，害死自己！](https://mp.weixin.qq.com/s?__biz=MzA3MTAyMzk0MA==&mid=2667288683&idx=2&sn=c1592e2816b0a9673d7fe23331d84ff0&chksm=843cd440b34b5d56a160eb4ce5b41626d117a2c1ddb9bb25e578574d974d0ba8daa8c0acf429&mpshare=1&scene=1&srcid=0524i7zur3NaodqKGwZU0Ezt&pass_ticket=jGO4%2BQwAdYxz2CupACfeKzdn67fcXQ%2FH%2FzjQboNnbMKtjmjkRnc6q2vic%2BWFhjPg#rd)
+* [滴滴：2000万人口的大北京，上下班原来是这样的](http://info.3g.qq.com/g/s?sid=&aid=tech_ss&id=tech_20170524A09RQE&pos=&lpid=1&pid=1&day=&rt=2&fr=&icfa=home_touch&iarea=252)
 
 > Github Repo
 
