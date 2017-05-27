@@ -4,8 +4,51 @@
 
 ## 述言 
 
-每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
+每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。ßßßß
 
+
+## 2017-05-27
+
+> News
+* [语言分析发现：WannaCry勒索软件背后的开发者可能是中国人？](http://www.freebuf.com/articles/system/135758.html)
+* [乐视体育融资了还要建小镇 这已是房地产开发商的思维](https://news.cnblogs.com/n/570293/)
+* [Chrome成桌面浏览器市场霸主 火狐东山再起希望渺茫](https://news.cnblogs.com/n/570292/)
+* [网曝12306将推同名支付：不能帮别人火车票付款了？](https://news.cnblogs.com/n/570290/)
+* [莫博士的最后专栏：正在消失的计算机](https://news.cnblogs.com/n/570287/)
+* [傅盛：当莫博士和我聊起他的朋友们](https://news.cnblogs.com/n/517375/)
+* [莫博士：科技行业“五人帮”阴影笼罩硅谷 阻碍创新](https://news.cnblogs.com/n/564610/)
+
+
+> Github Repo
+* [hosts](https://github.com/racaljk/hosts) - 最新国外知名网站服务器ip地址列表，翻墙神器。Star: 13224. Lang: Markdown + yaml.
+* [superset](https://github.com/airbnb/superset) - 可视化数据挖掘平台。Star: 14122. Lang: Python.
+* [goxiang](http://git.oschina.net/justinchou/goxiang) - 周治雨的网络游戏服务端框架。Star: 1. Lang: Golang.
+* [toxiproxy](https://github.com/Shopify/toxiproxy) - 一个tcp中间代理，可以用于模拟各种网络情况。Star: 1874. Lang: Golang.
+* * [go-grpc-interceptor](https://github.com/mercari/go-grpc-interceptor) - grpc学习样例。Star: 19. Lang: Golang.
+* * [go-grpc-example](https://github.com/Jergoo/go-grpc-example) - 另一个简介的grpc使用样例。Star: 14. Lang: Golang.
+* * [worpc](https://github.com/wothing/worpc) - wothing出品的基于grpc的网络中间件。Star: 26. Lang: Golang.
+* * [gonet](https://github.com/xtaci/gonet) - 网络游戏服务端框架。Star: 799. Lang: Golang.
+* [kcp-go](https://github.com/xtaci/kcp-go) - 基于UDP实现的借鉴tcp的网络库。Star: 581. Lang: Golang.
+* [appium](https://github.com/appium/appium) - 跨平台终端自动化测试工具。Star: 5319. Lang: js.
+* * [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器。Star: 688. Lang: js+CSS.
+* [ABPlayer](https://github.com/jabbany/ABPlayer) - 一个基于Flex的在线弹幕播放器。Star: 111. Lang: ActionScript.
+* [knProxy](https://github.com/jabbany/knProxy) - KnProxy是一个轻量级的，基于PHP的网页代理。采用cURL或者PHP Sockets来将HTTP/HTTPS流量重新导流。KnProxy的设计意在实现最高的兼容性和最简单 的架设。KnProxy可用于临时快速架设一个穿越G-F-W的安全的网络代理。Star: 99. Lang: php+js.
+* [ctable](https://github.com/cloudwu/ctable) - Lua table深度拷贝。Star: 0. Lang: C+Lua.
+* [Full-Emoji-List](https://github.com/J3QQ4/Full-Emoji-List) - Emoji表情列表。Star: 5. Lang: C#/.NET.
+
+
+> Blog
+* [Life in a Redis Cluster: Meet and Gossip with your neighbors](http://cristian.regolo.cc/2015/09/05/life-in-a-redis-cluster.html) - Redis Gossip协议详细说明。
+* [Linux内核ROP姿势详解（二）](http://www.freebuf.com/articles/system/135402.html)
+* [2017年第一季度安卓系统安全性生态环境研究](http://www.freebuf.com/articles/terminal/135351.html)
+* [zetcd：脱离ZooKeeper运行ZooKeeper应用程序](http://geek.csdn.net/news/detail/199488)
+* [Facebook的图片搜索技术揭秘](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599283&idx=1&sn=e37bb67e80378fc64db019efecf195be&chksm=8be996a1bc9e1fb70293280b1dd330d3e5daaeda935e76ad8308d51a08ca8d1f845d6d1a9373&mpshare=1&scene=1&srcid=0527ZFeoSCpl0kXKXkuejJah&pass_ticket=pFtgXOnZL3buu7VSt80P5rO5rQEeXvcgTVyxpXEM1J7IIUi4RpN4nmtOBiQFURY8#rd)
+* [Windows挂载NFS文件系统](https://mp.weixin.qq.com/s?__biz=MzAxOTAzMDEwMA==&mid=2652502931&idx=1&sn=f3bc5b0258652f7f514da945412b07a2&chksm=802012a8b7579bbef57a9a9f0febd38b47581df6dfbf7d83b45a900056fc1581bbec5e7a02de&mpshare=1&scene=1&srcid=0526jDeDUlIwKGJ6YMjyXZK8&pass_ticket=pFtgXOnZL3buu7VSt80P5rO5rQEeXvcgTVyxpXEM1J7IIUi4RpN4nmtOBiQFURY8#rd) 
+* [百度无人车和天工物联网都使用了时序数据库，但是你有多了解时序数据库？](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162430&idx=1&sn=0afcdbbcf3aec3ed39880eee695e8e08&chksm=8b4936d0bc3ebfc68c8cd3f36695d6f3c6d87f74e5ad153cc98b0956aae2212092979f61a61c&mpshare=1&scene=1&srcid=0526CqsQ8751YaiMCdUTbIOf&pass_ticket=pFtgXOnZL3buu7VSt80P5rO5rQEeXvcgTVyxpXEM1J7IIUi4RpN4nmtOBiQFURY8#rd) 
+* [时序数据库如何支持秒级上亿数据的查询分组和聚合运算](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162499&idx=1&sn=ca43c74ef541bd16a1d2450db6479c63&chksm=8b49316dbc3eb87b9b1b8049429c820ed557fd2b735c5a486350db3ef0d0c7735f8171ba28a9&mpshare=1&scene=1&srcid=05261rMgo8GWi3JciPW1vPAH&pass_ticket=pFtgXOnZL3buu7VSt80P5rO5rQEeXvcgTVyxpXEM1J7IIUi4RpN4nmtOBiQFURY8#rd) 
+* [WannaCry深度详细分析报告(偏重策略)](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458283075&idx=2&sn=f34b3415519c129a9f829d5fe1673134&chksm=b1815cc986f6d5df43c4d7cdb4be3e16e498f13d4cb60c7e1b41349fee9b4ba5b5d176b0713f&mpshare=1&scene=1&srcid=0526hCegj1uC1x84iH473Q8E&pass_ticket=pFtgXOnZL3buu7VSt80P5rO5rQEeXvcgTVyxpXEM1J7IIUi4RpN4nmtOBiQFURY8#rd) 
+* [小程序是鸡肋还是新的宇宙观？](https://mp.weixin.qq.com/s?__biz=MTA3NDM1MzUwMQ==&mid=2651940213&idx=1&sn=29b9ff6b2d7bdd0ee94bb50986fce939&chksm=73d3674744a4ee5182a09bdfebfac3377aadfe0ebd46772d0c340fa224edb8d4835059a1d955&mpshare=1&scene=1&srcid=0525lZ8mBMvDuhmyiPKOb96r&pass_ticket=pFtgXOnZL3buu7VSt80P5rO5rQEeXvcgTVyxpXEM1J7IIUi4RpN4nmtOBiQFURY8#rd) 
+* [Google、IBM和Lyft开源其大型微服务系统管理工具Istio](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599282&idx=1&sn=74ae4d88d9081c59164324d6cf4a15e6&chksm=8be996a0bc9e1fb6d735e4d0fcff643a9e37a22f5816991fa8a4aa14c461ba3716d3aee2a797&mpshare=1&scene=1&srcid=05274fPpnwPzFJHkqzpDJz8V&pass_ticket=pFtgXOnZL3buu7VSt80P5rO5rQEeXvcgTVyxpXEM1J7IIUi4RpN4nmtOBiQFURY8#rd) 
 
 ## 2017-05-26
 
