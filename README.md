@@ -6,9 +6,56 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。ßßßß
 
-# InternetSuperBandDaily
----
-*互联网纵贯线每日推荐*
+
+## 2017-05-28
+
+> News
+* [62岁的Java之父PHP之父成同事](http://bbs.chinaunix.net/thread-4262601-1-1.html)
+* [RocketMQ开源二三事](http://geek.csdn.net/news/detail/199736)
+* [Apache Kylin 深入Cube和查询优化](http://geek.csdn.net/news/detail/199615)
+* [唯有简单易用，才能真正发掘容器云的潜力](http://geek.csdn.net/news/detail/199349)
+* [从充电宝到雨伞，"花式共享"靠谱吗？](https://news.cnblogs.com/n/570372/)
+* [公有云IaaS上半场已结束](https://news.cnblogs.com/n/570362/)
+* [傅盛分享：这次Alphago2.0让我有些失望](https://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=2653646335&idx=1&sn=381575d6bc91f38e0af8692d83f2e757&chksm=bd3cf2fd8a4b7beb49508eb074537aa762f31c1bf3dad5ce400333247f21befabefbccab0f0d&mpshare=1&scene=1&srcid=0527tUsq9CX3maRYGePLPCma&pass_ticket=Vyy4%2B%2BRx0tnkHpkItNIro4ub%2BR9nq3UX6YSRJByQ%2FHQJqyqIQyKxe5hoSxPVHweO#rd)
+* [滴滴章文嵩：技术改变生活，用大数据“治堵”](http://www.toutiao.com/i6423137465724305922/?tt_from=weixin_moments&utm_campaign=client_share&from=timeline&app=news_article&utm_source=weixin_moments&iid=10623108171&utm_medium=toutiao_android&wxshare_count=2&pbid=1492618968)
+
+> Github Repo
+* [acl](https://github.com/acl-dev/acl) - 群里郑树新老师的一个跨平台（Linux/Mac/FreeBSD/Solaris(x86)/Windows/Android/IOS）的包罗万象的基础库。Star: 599. Lang: C/C++/Golang.
+* [NOPaxos](https://github.com/UWSysLab/NOPaxos) - Network-Ordered Paxos算法实现。Star: 55. Lang: C++.
+* [Apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的配置管理平台，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性。Star: 1200. Lang: Java.
+* [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) - 记录主线程中执行的所有方法和它们的执行时间，当app卡顿时，将所有耗时方法直接展示给开发者，节省开发者定位卡顿问题的时间。 此项目基于 BlockCanary。Star: 1212. Lang: Java.
+* [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB. Star: 2044. Lang: Java.
+* [sample-code](https://github.com/appium/sample-code) - appium使用示例。Star: 779. Lang: .net/Java/perl/node.js.
+* [VeryNginx](https://github.com/alexazhou/VeryNginx) - 基于 lua_nginx_module(openrestry) 开发，实现了高级的防火墙、访问统计和其他的一些功能以及一个Dashboard。Star: 3200. Lang: Lua + Js.
+* [](https://github.com/sumory/orange) - Orange是一个基于OpenResty的API网关。除Nginx的基本功能外，它还可用于API监控、访问控制(鉴权、WAF)、流量筛选、访问限速、AB测试、动态分流等。Star: 544. Lang: Lua.
+* [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - 一个基于grpc的网络中间件，实现了interceptor chaining, auth, logging, retries等模块。Star: 339. Lang: Golang.
+* [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - 利用proto文件迅速生成基于HTTP+JSON的Restful Gateway。Star: 1969. Lang: Golang.
+* [kedge](https://github.com/mwitkow/kedge) - 基于grpc的k8s的一个微服务代理。Star: 4. Lang: Golang.
+* [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go Web安全编程代码示例。Star: 2022. Lang: Golang.
+* [dgraph](https://github.com/dgraph-io/dgraph) - 一个Golang实现的图形化数据库。Star: 3226. Lang: Golang.
+* [zap](https://github.com/uber-go/zap) - 最快速的golang log lib。Star: 2423. Lang: Golang.
+* [timer](https://github.com/uber-go/timer) - Uber实现的golang timer的替代库。Star: 24. Lang: Golang.
+* [superset](https://github.com/airbnb/superset) - 工业级BIweb引擎。Star: 14142. Lang: Python.
+* [TinyPinyin.Net](https://github.com/hstarorg/TinyPinyin.Net) - 适用于.Net平台的快速、低内存占用的汉字转拼音库。核心算法来自TinyPinyin(https://github.com/promeG/TinyPinyin)。Star: 3. Lang: C#.
+* [awesome-ios](https://github.com/vsouza/awesome-ios/tree/miguelarauj1o-patch-1) - IOS优秀工程精编。Star: 1. Lang: Markdown.
+* [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - raft算法中英文翻译。Star: 439. Lang: Markdown.
+* [Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译。Star: 104. Lang: Markdown.
+
+
+> Blog
+* [理解HTTP幂等性](http://blog.chinaunix.net/uid-29773962-id-5764703.html)
+* [ELK部署参考文档](http://blog.chinaunix.net/uid-23916356-id-5764256.html)
+* [挂YY，游戏等挂机服务器为何选择香港多ip服务器租用](http://wenku.it168.com/d_001716591.shtml)
+* [linux破解版confluence](http://blog.chinaunix.net/uid-29967890-id-5762291.html)
+* [天河二号副总设计师访谈](http://server.it168.com/a2013/0719/1510/000001510205.shtml) 
+* [快速将MySQL数据导入到Redis的Hash结构中](http://tech.it168.com/a2013/0806/1517/000001517449.shtml)
+* [史上八大MySQL宕机事故](http://tech.it168.com/a2013/0625/1499/000001499210.shtml)
+* [Linux I/O](http://blog.chinaunix.net/uid-7728585-id-5765352.html) 
+* [袖珍式分布式系统](http://www.jianshu.com/c/0cf64976a481)
+* [深入浅出聊聊企业级API网关](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599286&idx=1&sn=f41c9dc7f9f2027eab97889b1b01a391&chksm=8be996a4bc9e1fb29ea77d0941bedb60714c6a7ae94edd44bf705a0910979e18e631210ab326&mpshare=1&scene=1&srcid=0527DoLQWakvj3TQJtGYVhri&pass_ticket=Vyy4%2B%2BRx0tnkHpkItNIro4ub%2BR9nq3UX6YSRJByQ%2FHQJqyqIQyKxe5hoSxPVHweO#rd)
+* [消息队列的对比调研](http://www.jianshu.com/p/f056a74d77a4)
+* [王垠谈DSL](http://qbview.url.cn/getResourceInfo?appid=31&url=http%3A%2F%2Fwww.yinwang.org%2Fblog-cn%2F2017%2F05%2F25%2Fdsl%3Fnsukey%3De2BtAtiA6Q1otWJmxHZ0Iff%252FbJSKPX2yhRI8dyn9O7bxREKELxJ%252FcM039RifVEiGxUoetsTZ5nFfH%252FlNxPnQppOMuOafOJykv0BbjZHMSoYnsC%252FwL2M0GMEf59HMtlp9%252B3UKy6xKN2MDN38FRswROabTKGKN8MTukjFe3wPj3RNZNfqPTKWwUNNgk7yV3kgB&version=10000&doview=1&ua=Mozilla%2F5.0+(Macintosh%3B+Intel+Mac+OS+X+10_12_2)+AppleWebKit%2F602.3.12+(KHTML%2C+like+Gecko)+Version%2F10.0.2+Safari%2F602.3.12&keeplink=0&reformat=0)
+
 
 ## 2017-05-27
 
@@ -20,6 +67,10 @@
 * [莫博士的最后专栏：正在消失的计算机](https://news.cnblogs.com/n/570287/)
 * [傅盛：当莫博士和我聊起他的朋友们](https://news.cnblogs.com/n/517375/)
 * [莫博士：科技行业“五人帮”阴影笼罩硅谷 阻碍创新](https://news.cnblogs.com/n/564610/)
+* []()
+* []()
+* []()
+* []()
 
 
 > Github Repo
