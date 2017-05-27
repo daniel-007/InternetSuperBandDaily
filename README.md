@@ -6,6 +6,9 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。ßßßß
 
+# InternetSuperBandDaily
+---
+*互联网纵贯线每日推荐*
 
 ## 2017-05-27
 
@@ -24,13 +27,13 @@
 * [superset](https://github.com/airbnb/superset) - 可视化数据挖掘平台。Star: 14122. Lang: Python.
 * [goxiang](http://git.oschina.net/justinchou/goxiang) - 周治雨的网络游戏服务端框架。Star: 1. Lang: Golang.
 * [toxiproxy](https://github.com/Shopify/toxiproxy) - 一个tcp中间代理，可以用于模拟各种网络情况。Star: 1874. Lang: Golang.
-* * [go-grpc-interceptor](https://github.com/mercari/go-grpc-interceptor) - grpc学习样例。Star: 19. Lang: Golang.
-* * [go-grpc-example](https://github.com/Jergoo/go-grpc-example) - 另一个简介的grpc使用样例。Star: 14. Lang: Golang.
-* * [worpc](https://github.com/wothing/worpc) - wothing出品的基于grpc的网络中间件。Star: 26. Lang: Golang.
-* * [gonet](https://github.com/xtaci/gonet) - 网络游戏服务端框架。Star: 799. Lang: Golang.
+* [go-grpc-interceptor](https://github.com/mercari/go-grpc-interceptor) - grpc学习样例。Star: 19. Lang: Golang.
+* [go-grpc-example](https://github.com/Jergoo/go-grpc-example) - 另一个简介的grpc使用样例。Star: 14. Lang: Golang.
+* [worpc](https://github.com/wothing/worpc) - wothing出品的基于grpc的网络中间件。Star: 26. Lang: Golang.
+* [gonet](https://github.com/xtaci/gonet) - 网络游戏服务端框架。Star: 799. Lang: Golang.
 * [kcp-go](https://github.com/xtaci/kcp-go) - 基于UDP实现的借鉴tcp的网络库。Star: 581. Lang: Golang.
 * [appium](https://github.com/appium/appium) - 跨平台终端自动化测试工具。Star: 5319. Lang: js.
-* * [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器。Star: 688. Lang: js+CSS.
+* [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器。Star: 688. Lang: js+CSS.
 * [ABPlayer](https://github.com/jabbany/ABPlayer) - 一个基于Flex的在线弹幕播放器。Star: 111. Lang: ActionScript.
 * [knProxy](https://github.com/jabbany/knProxy) - KnProxy是一个轻量级的，基于PHP的网页代理。采用cURL或者PHP Sockets来将HTTP/HTTPS流量重新导流。KnProxy的设计意在实现最高的兼容性和最简单 的架设。KnProxy可用于临时快速架设一个穿越G-F-W的安全的网络代理。Star: 99. Lang: php+js.
 * [ctable](https://github.com/cloudwu/ctable) - Lua table深度拷贝。Star: 0. Lang: C+Lua.
