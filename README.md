@@ -21,7 +21,7 @@
 * [Hoard](https://github.com/emeryberger/Hoard) - 一种快速、可扩展且节省内存的内存分配算法C++实现，尤适用于多线程编程。Star: 304. Lang: C/C++.
 * [Heap-Layers](https://github.com/emeryberger/Heap-Layers) - 一种堆Allocator实现，然个人觉得比较适合作为C++多线程编程的学习样例。Star: 76. Lang: C/C++.
 * [dthreads](https://github.com/emeryberger/dthreads) - Prof Emery Berger基于pthreads库封装的C++多线程相关操作库。Star: 23. Lang: C/C++.
-* [git命令简介中文Ω](http://dwz.cn/61XNKl) - git命令中文版。Star: 1056. Lang: Markdown.
+* [git命令简介中文](http://dwz.cn/61XNKl) - git命令中文版。Star: 1056. Lang: Markdown.
 
 > Blog
 * [并行总线与串行总线](http://dwz.cn/61SwQ3) 
