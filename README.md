@@ -7,10 +7,35 @@
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。ßßßß
 
 
+## 2017-05-29
+
+> News
+* [Python进入浙江省新高中信息技术教材](http://dwz.cn/61Sv6S)
+* [澜起津逮CPU，中国X86 CPU？还是披了马甲后的intel x86？](http://dwz.cn/61T5Nv)
+* [谁是自动驾驶的潜在消费者？](http://dwz.cn/61Tb65)
+* [语音识别领域四大前沿问题亟待研究](http://tech.qq.com/a/20170528/017297.htm)
+* [人类输的不只是围棋 华尔街在机器面前也节节败退](http://dwz.cn/61XWEN)
+
+> Github Repo
+* [Malloc-Implementation](http://dwz.cn/61XP1S) - Prof Emery Berger各种内存分配算法实现，相关论文请查看Blog里面给出的Prof Emery Berge的论文链接，感兴趣的话也请移步 https://github.com/emeryberger 看下这位神人的其他代码程序。Star: 101. Lang: C/C++.
+* [Hoard](https://github.com/emeryberger/Hoard) - 一种快速、可扩展且节省内存的内存分配算法C++实现，尤适用于多线程编程。Star: 304. Lang: C/C++.
+* [Heap-Layers](https://github.com/emeryberger/Heap-Layers) - 一种堆Allocator实现，然个人觉得比较适合作为C++多线程编程的学习样例。Star: 76. Lang: C/C++.
+* [git命令简介中文Ω](http://dwz.cn/61XNKl) - git命令中文版。Star: 1056. Lang: Markdown.
+
+> Blog
+* [并行总线与串行总线](http://dwz.cn/61SwQ3) 
+* [在 MAC OS X 安装 ADB](http://dwz.cn/61SxCL) 
+* [微博6年Redis优化历程](http://dwz.cn/61SztV) 
+* [Raft与Paxos算法异同详解](http://dwz.cn/61TpM0)
+* [Raft动画过程](http://thesecretlivesofdata.com/raft/)
+* [前微软研究员马萨诸塞大学Prof Emery Berger关于内存、安全和并行编程的论文集](https://emeryberger.com) - 有些论文是可以点击相关链接下载的。作者关于内存垃圾收集和安全方面的研究成果被Mac OS、Windows等操作系统使用。
+* [Grace: Safe Multithreaded Programming for C/C++](https://people.cs.umass.edu/~emery/pubs/grace-oopsla09.pdf) - Prof Emery Berger文章。
+* [Appium输入慢的原因分析](http://dwz.cn/61XTgu)
+
 ## 2017-05-28
 
 > News
-* [62岁的Java之父PHP之父成同事](http://bbs.chinaunix.net/thread-4262601-1-1.html)
+* [62岁的Java之父与PHP之父成同事](http://bbs.chinaunix.net/thread-4262601-1-1.html)
 * [RocketMQ开源二三事](http://geek.csdn.net/news/detail/199736)
 * [Apache Kylin 深入Cube和查询优化](http://geek.csdn.net/news/detail/199615)
 * [唯有简单易用，才能真正发掘容器云的潜力](http://geek.csdn.net/news/detail/199349)
@@ -41,7 +66,6 @@
 * [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - raft算法中英文翻译。Star: 439. Lang: Markdown.
 * [Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译。Star: 104. Lang: Markdown.
 
-
 > Blog
 * [理解HTTP幂等性](http://blog.chinaunix.net/uid-29773962-id-5764703.html)
 * [ELK部署参考文档](http://blog.chinaunix.net/uid-23916356-id-5764256.html)
@@ -55,7 +79,6 @@
 * [深入浅出聊聊企业级API网关](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599286&idx=1&sn=f41c9dc7f9f2027eab97889b1b01a391&chksm=8be996a4bc9e1fb29ea77d0941bedb60714c6a7ae94edd44bf705a0910979e18e631210ab326&mpshare=1&scene=1&srcid=0527DoLQWakvj3TQJtGYVhri&pass_ticket=Vyy4%2B%2BRx0tnkHpkItNIro4ub%2BR9nq3UX6YSRJByQ%2FHQJqyqIQyKxe5hoSxPVHweO#rd)
 * [消息队列的对比调研](http://www.jianshu.com/p/f056a74d77a4)
 * [王垠谈DSL](http://qbview.url.cn/getResourceInfo?appid=31&url=http%3A%2F%2Fwww.yinwang.org%2Fblog-cn%2F2017%2F05%2F25%2Fdsl%3Fnsukey%3De2BtAtiA6Q1otWJmxHZ0Iff%252FbJSKPX2yhRI8dyn9O7bxREKELxJ%252FcM039RifVEiGxUoetsTZ5nFfH%252FlNxPnQppOMuOafOJykv0BbjZHMSoYnsC%252FwL2M0GMEf59HMtlp9%252B3UKy6xKN2MDN38FRswROabTKGKN8MTukjFe3wPj3RNZNfqPTKWwUNNgk7yV3kgB&version=10000&doview=1&ua=Mozilla%2F5.0+(Macintosh%3B+Intel+Mac+OS+X+10_12_2)+AppleWebKit%2F602.3.12+(KHTML%2C+like+Gecko)+Version%2F10.0.2+Safari%2F602.3.12&keeplink=0&reformat=0)
-
 
 ## 2017-05-27
 
