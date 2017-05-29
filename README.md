@@ -120,11 +120,6 @@
 * [莫博士的最后专栏：正在消失的计算机](https://news.cnblogs.com/n/570287/)
 * [傅盛：当莫博士和我聊起他的朋友们](https://news.cnblogs.com/n/517375/)
 * [莫博士：科技行业“五人帮”阴影笼罩硅谷 阻碍创新](https://news.cnblogs.com/n/564610/)
-* []()
-* []()
-* []()
-* []()
-
 
 > Github Repo
 * [hosts](https://github.com/racaljk/hosts) - 最新国外知名网站服务器ip地址列表，翻墙神器。Star: 13224. Lang: Markdown + yaml.
