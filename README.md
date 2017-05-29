@@ -4,7 +4,31 @@
 
 ## 述言 
 
-每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。ßßßß
+每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
+
+## 2017-05-30
+
+> News
+* [区块链是新的Linux 而非新的互联网](http://dwz.cn/62galU)
+* [安卓之父的Essential人工智能手机明日登场？](http://dwz.cn/62gbip)
+* [斗迈克尔·欧文·乔丹出任蚂蚁金服的技术顾问](http://dwz.cn/62gdWr)
+
+> Github Repo
+* [go-tools](http://dwz.cn/62fZij) - Golang编程IDE辅助工具集。Star: 699. Lang: Golang.
+* [syncthing](http://dwz.cn/62fZfy) - 跨平台文件同步(P2P)系统。Star: 16124. Lang: Golang.
+* [xhamster_analysis](http://dwz.cn/62fYI4) - 从xhamster网站爬喜欢的片子，一个机器学习的很好的参考项目。Star: 196. Lang: Python.
+* [zabbix监控Elasticsearch集群](http://dwz.cn/62g6K3) - 以 zabbix 为例，介绍如何使用监控系统完成 Elasticsearch 的监控报警。Star: 0. Lang: Python.
+
+> Blog
+* [很污的机器学习：从xhamster网站找到喜欢的片子](http://dwz.cn/62g0Bb)
+* [QoS基础理论知识详解](http://dwz.cn/62g11n) - 令牌限流算法详解，推荐大伙关注下公众号，每篇文章干货满满。
+* [77%的Linux运维都不懂的内核问题](http://dwz.cn/62g1W5) - 好文不厌百回读。
+* [DevOps创始人对开发运维的见解](http://dwz.cn/62g2Y9) - 不会写代码的运维不是合格的程序员，事故出则开发和运维共责。推荐CTO读三遍。
+* [【Zookeeper灵魂】一个关于Paxos算法的故事](http://dwz.cn/62g3fQ) - 旧文。
+* [腾讯1300场NBA直播背后的技术力量](http://dwz.cn/62g3Fv) - 旧文。好系统都是踩坑无数和着血泪试错无数次进化来的，不是读一两篇文章就能吹出来的。
+* [PM接手一个新项目后的具体工作流程](http://dwz.cn/62g7z2) 
+* [两台Linux建立GRE隧道](http://dwz.cn/62g8zK) 
+* [陈波：微博近几年的架构演进之路和架构师的技能素养](http://dwz.cn/62ggc9)
 
 
 ## 2017-05-29
