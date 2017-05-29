@@ -12,6 +12,7 @@
 * [区块链是新的Linux 而非新的互联网](http://dwz.cn/62galU)
 * [安卓之父的Essential人工智能手机明日登场？](http://dwz.cn/62gbip)
 * [斗迈克尔·欧文·乔丹出任蚂蚁金服的技术顾问](http://dwz.cn/62gdWr)
+* [马化腾2017数博会演讲全记录](http://dwz.cn/62gBZh)
 
 > Github Repo
 * [go-tools](http://dwz.cn/62fZij) - Golang编程IDE辅助工具集。Star: 699. Lang: Golang.
@@ -31,6 +32,8 @@
 * [PM接手一个新项目后的具体工作流程](http://dwz.cn/62g7z2) 
 * [两台Linux建立GRE隧道](http://dwz.cn/62g8zK) 
 * [陈波：微博近几年的架构演进之路和架构师的技能素养](http://dwz.cn/62ggc9)
+* [How to write a good commit message](http://dwz.cn/62gxgO)
+* [聊聊基于Lucene的搜索引擎核心技术实践](http://dwz.cn/62gBA5)
 
 
 ## 2017-05-29
