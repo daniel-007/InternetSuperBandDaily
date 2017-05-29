@@ -18,6 +18,8 @@
 * [syncthing](http://dwz.cn/62fZfy) - 跨平台文件同步(P2P)系统。Star: 16124. Lang: Golang.
 * [xhamster_analysis](http://dwz.cn/62fYI4) - 从xhamster网站爬喜欢的片子，一个机器学习的很好的参考项目。Star: 196. Lang: Python.
 * [zabbix监控Elasticsearch集群](http://dwz.cn/62g6K3) - 以 zabbix 为例，介绍如何使用监控系统完成 Elasticsearch 的监控报警。Star: 0. Lang: Python.
+* [Apktool](http://dwz.cn/62gq4u) - 逆向apk文件工具。Star: 4505. Lang: Java.
+* [wemall](http://dwz.cn/62gsb3) - 基于vue, react, node.js, go开发的微商城。Star: 84. Lang:Js+Golang.
 
 > Blog
 * [很污的机器学习：从xhamster网站找到喜欢的片子](http://dwz.cn/62g0Bb)
