@@ -11,7 +11,7 @@
 > News
 * [区块链是新的Linux 而非新的互联网](http://dwz.cn/62galU)
 * [安卓之父的Essential人工智能手机明日登场？](http://dwz.cn/62gbip)
-* [斗迈克尔·欧文·乔丹出任蚂蚁金服的技术顾问](http://dwz.cn/62gdWr)
+* [迈克尔·欧文·乔丹出任蚂蚁金服的技术顾问](http://dwz.cn/62gdWr)
 * [马化腾2017数博会演讲全记录](http://dwz.cn/62gBZh)
 
 > Github Repo
