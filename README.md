@@ -6,6 +6,34 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-05-31
+
+> News
+* [中国银联、京东金融和万达三方联手 首个跨境区块链面世](http://dwz.cn/62A1sH)
+* [微软Azure为开发者发行简易型NXT区块链节点]( http://dwz.cn/62zW9q)
+* [金融圈工资被IT业碾压](http://ifinance.ifeng.com/15418598/news.shtml)
+* [郎咸平：比特币就是庞氏骗局](https://www.365yg.com/item/6422428297728098818/)
+* [我为什么一直不看好以太坊](http://dwz.cn/62A3Oa)
+
+> Github Repo
+* [SQLAdvisor](http://dwz.cn/62ArwQ) - SQLAdvisor是由美团点评公司技术工程部DBA团队（北京）开发维护的一个分析SQL给出索引优化建议的工具。它基于MySQL原生态词法解析，结合分析SQL中的where条件、聚合条件、多表Join关系 给出索引优化建议。。Star: 1443. Lang: C.
+* [tars](http://dwz.cn/62Atxg) - 基于名字服务使用Tars协议的高性能RPC开发框架，配套一体化的运营管理平台，并通过伸缩调度，实现运维半托管服务。。Star: 1762. Lang: C++.
+* [WhereHows]( http://dwz.cn/62zMMy) - Linkedin收集metadata、标准化并对其进行建模的工具集，通过这套工具集可以知道数据如何产生以及如何被使用。Star: 505. Lang: Java.
+* [eliasticsearch-lua](http://dwz.cn/62AgAW) - Lua Elasticsearch客户端。Star: 113. Lang: Lua.
+* [DCGAN-tensorflow](http://dwz.cn/62AaFC) - DCGAN神经网络实现。Star: 2096. Lang: Js+Python.
+* [heap-exploitation](http://dwz.cn/62Af3B) - Glibc Heap管理详解。Star: 336. Lang: Markdown.
+* [Linux 内核揭密](http://dwz.cn/62AiOG) - Linux 内核揭密(中文版)。Star: 695. Lang: Markdown.
+
+> Blog
+* [Google和Linkedin的老司机是如何管理海量数据的](http://dwz.cn/62zJ0p) 
+* [漫谈并发编程：用MPI进行分布式内存编程（入门篇）](http://dwz.cn/62zSLJ) - 入门级，慎点击链接。
+* [NXT2.0开发蓝图](http://nxtchina.org/portal.php?mod=view&aid=85)
+* [MapReduce工作原理图文详解 ](http://weixiaolu.iteye.com/blog/1474172) - 入门级，慎点击链接。
+* [Connection reset by peer的常见原因](http://dwz.cn/62zYWy)
+* [Spark源码解析：RDD](http://dwz.cn/62zZI3) - 入门级，慎点击链接。
+* [Goods: Organizing Google's Datasets](https://research.google.com/pubs/pub45390.html) - 需花很大功夫研究，慎点击链接。
+
+
 ## 2017-05-30
 
 > News
