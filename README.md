@@ -6,14 +6,41 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-06-01
+
+> News
+* [安卓之父推出自家首款全面屏旗舰Essential PH-1](http://www.cnbeta.com/articles/tech/617501.htm)
+* [外媒：为何说安卓之父造了一部"反iPhone"手机](http://www.cnbeta.com/articles/tech/617687.htm)
+* [欧洲汽车配件供应商与百度合作 开发自动驾驶汽车](http://www.cnbeta.com/articles/tech/617715.htm)
+* [Google Chrome标识HTTP网站“不安全警告”](http://www.cnbeta.com/articles/tech/607331.htm)
+* [Chrome 将停止支持 PNaCl ，拥抱 WebAssembly](http://dwz.cn/62WzMK)
+
+> Github Repo
+* [unqlite](https://github.com/symisc/unqlite) - 用C实现的可作为lib使用而非独立进程部署的支持事务的NoSQL式的kv文档数据库引擎。Star: 377. Lang: C.
+* [RustIndia](https://github.com/MozillaIndia/RustIndia) - 印度Rust社区给出的一些Rust代码参考。Star: 3. Lang: Rust.
+* [traefik](https://github.com/containous/traefik) - HTTP反向代理，后端可以支持Docker, Swarm, Kubernetes, Marathon, Mesos, Consul, Etcd, Zookeeper, BoltDB, Eureka, Amazon DynamoDB等众多支持REST API的服务，可以保持负载均衡。Star: 8205. Lang: Golang.
+* [tutorials](https://github.com/MorvanZhou/tutorials) - 机器学习相关教程，包括代码和视频资料。Star: 1011. Lang: Python.
+* [utils](https://github.com/juju/utils) - 一个私人golang杂货铺。Star: 74. Lang: Golang.
+* [jwt-go](https://github.com/dgrijalva/jwt-go) - jwt golang实现。Star: 2187. Lang: Golang.
+
+> Blog
+* [深度学习在推荐领域的应用](http://geek.csdn.net/news/detail/200138)
+* [Redis Cluster的基本原理和架构](http://geek.csdn.net/news/detail/200023) - 文章写得马马虎虎，建议很中肯：不要玩Redis Cluster。
+* [Go 原生socket由浅入深](http://dwz.cn/62WwS1) - 好朋友方圆大作。
+
+> Misc
+* [盛大游戏2017全新手游力作，《神无月》6.6幻想首测](http://dwz.cn/62Wx0m) - 好基友兼群友曾意曾爷的大作。
+* [快手背后真实的中国](http://dwz.cn/62Wy4Z) - 快手和wifi万能钥匙的大众用户都是屌丝人群，它们的成功说明在一线城市成为红海的当下要么出海要么别忘了我们还有三四五线城市以及农村的广大基层用户群体。
+* [相比与马云，robin 太缺少坚持](http://dwz.cn/62Ww2B) - 人也许是因为无知无畏所以才能坚持吧？咬咬牙就挺过去了，最近愈发体会到说着轻松做到太难。
+* [炒人永远不嫌早](https://news.cnblogs.com/n/570569/) - 慢速hire，快速fire。
+* [技术人员参与创业公司各种内斗，实在玩不下去了](http://bbs.csdn.net/topics/392141965)
+
 ## 2017-05-31
 
 > News
 * [中国银联、京东金融和万达三方联手 首个跨境区块链面世](http://dwz.cn/62A1sH)
 * [微软Azure为开发者发行简易型NXT区块链节点]( http://dwz.cn/62zW9q)
 * [金融圈工资被IT业碾压](http://ifinance.ifeng.com/15418598/news.shtml)
-* [郎咸平：比特币就是庞氏骗局](https://www.365yg.com/item/6422428297728098818/)
-* [我为什么一直不看好以太坊](http://dwz.cn/62A3Oa)
 
 > Github Repo
 * [SQLAdvisor](http://dwz.cn/62ArwQ) - SQLAdvisor是由美团点评公司技术工程部DBA团队（北京）开发维护的一个分析SQL给出索引优化建议的工具。它基于MySQL原生态词法解析，结合分析SQL中的where条件、聚合条件、多表Join关系 给出索引优化建议。。Star: 1443. Lang: C.
