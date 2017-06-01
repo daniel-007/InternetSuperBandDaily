@@ -6,6 +6,34 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-06-02
+
+> News
+* [WPS Office for Linux项目中止](http://dwz.cn/63ks53) 
+* [王者荣耀是中国最大的约炮平台](http://dwz.cn/63krHp)
+* [微软有意复兴Windows Phone](http://dwz.cn/63kve0)
+
+> Github Repo
+* [Beast](https://github.com/vinniefalco/Beast) - 基于C++11的HTTP & WebSokcet库。Star: 512. Lang: C++.
+* [NuDB](https://github.com/vinniefalco/NuDB) - 只支持添加、KV式、对SSD随机读友好、高吞吐式DB。Star: 138. Lang: C++.
+* [LuaBridge](https://github.com/vinniefalco/LuaBridge) - 轻量无依赖，简便地把Lua嵌入C++之中。Star: 501. Lang: C++.
+* [DSPFilters](https://github.com/vinniefalco/DSPFilters) - 实现DSP C++函数库，中间放置了几个关于dsp的research paper很有参考价值。Star: 583. Lang: C++.
+* [gsf](https://github.com/pojol/gsf) - 组件式游戏服务器框架。Star: 11. Lang: C++.
+* [tinker](https://github.com/Tencent/tinker) - 微信出品android热更新技术。Star: 8907. Lang: Java.
+* [uftrace](https://github.com/namhyung/uftrace) - 用户态trace工具。Star: 324. Lang: Golang.
+* [req](https://github.com/imroc/req) - 简单的发起http请求库。Star: 357. Lang: Golang.
+* [mock](https://github.com/golang/mock) - golang mock库。Star: 643. Lang: Golang.
+
+> Blog
+* [Linux中的GOT和PLT到底是个啥？](http://dwz.cn/63kvxh)
+* [分享一种可关闭大多数杀软的技术](http://dwz.cn/63kvl9) 
+* [跟我学Kafka之NIO通信机制](http://dwz.cn/63kvmO) 
+* [大数据的现在和未来](http://dwz.cn/62DCqN)
+* [Tinker：技术的初心与坚持](http://dwz.cn/63ksdS)
+* [十分钟看懂时序数据库（III）- 压缩](http://dwz.cn/63kt8Q)
+* [Android MessageQueue](http://dwz.cn/63ku2X)
+
+
 ## 2017-06-01
 
 > News
