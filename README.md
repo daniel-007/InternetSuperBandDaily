@@ -6,6 +6,32 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-06-03
+
+> News
+* [腾讯即将推出一款所有稿件都是由机器人撰写智能资讯App“新闻超秘”](http://dwz.cn/63Ewbt)
+* [西数将出新要约竞购东芝芯片，目前博通占优](http://dwz.cn/63EwWN)
+* [菜鸟总裁：菜鸟顺丰应有胸怀达成共识 有人在挑拨](http://dwz.cn/63Eyhs)
+* [圆通内部通知曝光：严禁使用丰巢自提柜](http://dwz.cn/63EyFr)
+* [京东宣布全面接入顺丰旗下丰巢自提柜：因价值观一致](http://dwz.cn/63ExwF)
+* [美团外卖宣布力挺顺丰 继京东后全面接入丰巢](http://dwz.cn/63EyyS)
+* [Visual Studio for Mac正式发布](http://dwz.cn/63EzoB)
+
+> Github Repo
+* [vagga](https://github.com/tailhook/vagga) - Rust实现的用户态容器引擎。Star: 1154. Lang: Rust.
+* [quick-error](https://github.com/tailhook/quick-error) - Rust error宏。Star: 155. Lang: Rust.
+* [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - 。Star: nginx-1.9.2代码理解及详细注释，主要参考书籍为淘宝陶辉先生 的《深入理解Nginx:模块开发与架构解析》，并对书中没有讲到的相关部分功能进行了扩展. Lang: C.
+* [cherami-server](https://github.com/uber/cherami-server) - Uber出品的分布式、可扩展、数据可持久化的高可用消息队列系统。Star: 945. Lang: Golang.
+* [draft](https://github.com/Azure/draft) - 基于k8s的应用构建包。Star: 557. Lang: Golang.
+* [cherami-client-go](https://github.com/uber/cherami-client-go) - cherami客户端sdk。Star: 100. Lang: Golang.
+* [whistle](https://github.com/avwo/whistle) - whistle是跨平台的web调试代理工具，功能类似Windows平台上的Fiddler，主要用于查看或修改HTTP、HTTPS、Websocket的请求或响应或作为HTTP代理服务器。Star: 777. Lang: Js.
+* [chromedp](https://github.com/knq/chromedp) - 不需要额外工具就可以方便快捷的使用Chrome Debugging Protocol控制主流浏览器(Chrome, Edge, Safari, Android)进行各种操作，可用于调试或者其他邪恶目的。Star: 1233. Lang: Golang.
+
+> Blog
+* [在调试器里看Windows 10的Linux子系统](http://dwz.cn/63Etxx)
+* [活用History命令](http://dwz.cn/63EA9r) 
+* [QQ会员亿级Web系统的容错性建设实践](http://dwz.cn/63EBuA) 
+
 ## 2017-06-02
 
 > News
