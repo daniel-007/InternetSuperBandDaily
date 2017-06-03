@@ -6,6 +6,26 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-06-04
+
+> News
+* [BAT海外扩张无作为，更擅窝里斗](http://dwz.cn/63WggU)
+* [谷歌Chrome狠封网页广告](http://dwz.cn/63WppR)
+* [官家(工信部)制定安卓统一推送服务(Unified Push Service，简称UPS)技术标准](http://dwz.cn/63Wu9Q)
+
+> Github Repo
+* [pthreads-win32](https://github.com/GerHobbelt/pthread-win32) - Windows上实现的pthreads库。Star: 、78. Lang: C.
+* [json-iterator/go](https://github.com/json-iterator/go) - 滴滴的陶文写的一个JSON Parser。Star: 500. Lang: Golang.
+* [json-iterator/java](https://github.com/json-iterator/java) - 同一个JSON Parse的Java版。Star: 651. Lang: Java.·
+* [nsq](https://github.com/nsqio/nsq) - 一个Golang语言版的mq。Star: 9431. Lang: Golang.
+* [localstack](https://github.com/atlassian/localstack) - 在本地环境部署一个AWS开发环境。Star: 7605. Lang: Python.
+
+> Blog
+* [前端模块化发展简史](http://dwz.cn/63Wgqj) 
+* [JVM的内存区域划分以及垃圾回收机制详解](http://dwz.cn/63Wi4s) 
+* [用Python把日文译作中文](http://dwz.cn/63WwFI) 
+
+
 ## 2017-06-03
 
 > News
@@ -20,7 +40,7 @@
 > Github Repo
 * [vagga](https://github.com/tailhook/vagga) - Rust实现的用户态容器引擎。Star: 1154. Lang: Rust.
 * [quick-error](https://github.com/tailhook/quick-error) - Rust error宏。Star: 155. Lang: Rust.
-* [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - 。Star: nginx-1.9.2代码理解及详细注释，主要参考书籍为淘宝陶辉先生 的《深入理解Nginx:模块开发与架构解析》，并对书中没有讲到的相关部分功能进行了扩展. Lang: C.
+* [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - 。 nginx-1.9.2代码理解及详细注释，主要参考书籍为淘宝陶辉先生 的《深入理解Nginx:模块开发与架构解析》，并对书中没有讲到的相关部分功能进行了扩展. Star:865. Lang: C.
 * [cherami-server](https://github.com/uber/cherami-server) - Uber出品的分布式、可扩展、数据可持久化的高可用消息队列系统。Star: 945. Lang: Golang.
 * [draft](https://github.com/Azure/draft) - 基于k8s的应用构建包。Star: 557. Lang: Golang.
 * [cherami-client-go](https://github.com/uber/cherami-client-go) - cherami客户端sdk。Star: 100. Lang: Golang.
@@ -31,6 +51,8 @@
 * [在调试器里看Windows 10的Linux子系统](http://dwz.cn/63Etxx)
 * [活用History命令](http://dwz.cn/63EA9r) 
 * [QQ会员亿级Web系统的容错性建设实践](http://dwz.cn/63EBuA) 
+* [YY的Ceph应用与实践](http://dwz.cn/63GMVH)
+* [TalkingData的Ceph应用与实践](http://dwz.cn/63GLXq)
 
 ## 2017-06-02
 
