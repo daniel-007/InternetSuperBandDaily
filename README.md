@@ -12,8 +12,10 @@
 * [CMU研发数据库调优AI，水平超DBA老炮](http://dwz.cn/64aiI0)
 * [国外那些有趣的安全创业公司](http://dwz.cn/64aprV)
 * [俄罗斯海军首次用白鲸在北极执行军事任务](http://dwz.cn/64apBf)
+* [联想版dubbo-Dubbo-G：Dubbo 的升级扩展](http://dwz.cn/64bvMm)
 
 > Github Repo
+* [hiriver](https://github.com/rolandhe/hiriver) - hiriver是纯java开发的、高性能的、基于解析mysql row base binlog技术实现的用于监控mysql数据变化并分发这些变化的框架。Star: 80. Lang: Java.
 * [testify](https://github.com/stretchr/testify) - Golang中的mock&assertion实现。Star: 3261. Lang: Golang.
 * [meshbird](https://github.com/meshbird/meshbird) - 分布式vpn网络。Star: 1926. Lang: Golang.
 * [gocron](https://github.com/jasonlvhit/gocron) - 一个Golang crontab实现。Star: 429. Lang: Golang.
@@ -32,14 +34,20 @@
 * [golang pprof使用](https://lrita.github.io/2017/05/26/golang-memory-pprof/?from=timeline&nsukey=gUGWtoKYJK35dTqFvyBBSJcvuFooBN5QMtix5abXwZi%2FhckKfaipPhOGMs0u0%2Fulf4F7NoT9j2MFyBJPaPG8QhPXsc9CPLGmvxjzVipb6KDRF2KgW8DsP%2B8Ud5RcDXqJpRYcttwtB1wY9qI6W5qb8Y2n3uJ9r0zDUZNIOHwA1VYSy78Go%2FnYmKbTJOCmSUY%2B) 
 * [iostat详解](http://dwz.cn/646ZlU) 
 * [在Spring Cloud中实现降级之权重路由和标签路由](http://dwz.cn/64aiQ1) 
+* [Hiriver：MySQL 数据变化的监控与分发框架](http://dwz.cn/64bwho) - hiriver实现了mysql主从复制协议，把自己伪装成一个mysql的从库，在接收到binlog后按照mysql binlog协议进行解析，由此获取mysql的数据变化。
 * [NSA武器库Esteemaudit技术解析](http://dwz.cn/64alK4) 
 * [Wannacry之t.wnry核心库解密算法完全分析](http://dwz.cn/64aoI3)
+* [GO ：互联网时代的 C 语言！](http://dwz.cn/64bwBo)
+* [用一台设备就能实现王者荣耀5v5对战](http://dwz.cn/64bx7j)
+* [如何迈出 DevOps 第一步？](http://dwz.cn/64bxam)
 
 > Misc
 * [日本工业研究](http://dwz.cn/6478D4)
 * [一家公司最大瓶颈就是CEO](http://dwz.cn/646aOD) 
 * [中国X86 CPU之兆芯](http://dwz.cn/6468Pc) 
 * [联想CISO Richard Rushing谈安全](http://dwz.cn/64amrN)
+* [RethinkDB联合创始人分享的44条工程管理经验](http://dwz.cn/64bwTv)
+
 
 ## 2017-06-04
 
