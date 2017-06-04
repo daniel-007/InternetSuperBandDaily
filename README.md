@@ -6,6 +6,41 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-06-05
+
+> News
+* [CMU研发数据库调优AI，水平超DBA老炮](http://dwz.cn/64aiI0)
+* [国外那些有趣的安全创业公司](http://dwz.cn/64aprV)
+* [俄罗斯海军首次用白鲸在北极执行军事任务](http://dwz.cn/64apBf)
+
+> Github Repo
+* [testify](https://github.com/stretchr/testify) - Golang中的mock&assertion实现。Star: 3261. Lang: Golang.
+* [meshbird](https://github.com/meshbird/meshbird) - 分布式vpn网络。Star: 1926. Lang: Golang.
+* [gocron](https://github.com/jasonlvhit/gocron) - 一个Golang crontab实现。Star: 429. Lang: Golang.
+* [genny](https://github.com/cheekybits/genny) - 一套类似于go generate的工具。Star: 342. Lang: Golang.
+* [kit](https://github.com/go-kit/kit) - 微服务框架。Star: 6853. Lang: Golang.
+* [china_ip_list](https://github.com/17mon/china_ip_list) - ipip.net提供的一分有用的ip地址列表。Star: 741.
+* [blockchain_guide](https://github.com/yeasy/blockchain_guide) - 区块链技术指南。Star: 777. Lang: Markdown.
+* [DevLiveBook](https://github.com/DyncLang/DevLiveBook) - 直播客户端、服务端以及产品形态分析。Star: 383. Lang: Markdown.
+* [CS_Offer](https://github.com/xuelangZF/CS_Offer) - 计算机各种学科基础知识。Star: 680. Lang: Markdown.
+* [php7-internal](https://github.com/pangudashu/php7-internal) - php7内部实现。Star: 777. Lang: Markdown.
+
+> Blog
+* [游戏服务器相关讨论](http://t.cn/RSxYaqQ)
+* [HTTP/2推送技术](ttp://dwz.cn/645Wyf) 
+* [也说文件系统](http://dwz.cn/6467Mn) 
+* [golang pprof使用](https://lrita.github.io/2017/05/26/golang-memory-pprof/?from=timeline&nsukey=gUGWtoKYJK35dTqFvyBBSJcvuFooBN5QMtix5abXwZi%2FhckKfaipPhOGMs0u0%2Fulf4F7NoT9j2MFyBJPaPG8QhPXsc9CPLGmvxjzVipb6KDRF2KgW8DsP%2B8Ud5RcDXqJpRYcttwtB1wY9qI6W5qb8Y2n3uJ9r0zDUZNIOHwA1VYSy78Go%2FnYmKbTJOCmSUY%2B) 
+* [iostat详解](http://dwz.cn/646ZlU) 
+* [在Spring Cloud中实现降级之权重路由和标签路由](http://dwz.cn/64aiQ1) 
+* [NSA武器库Esteemaudit技术解析](http://dwz.cn/64alK4) 
+* [Wannacry之t.wnry核心库解密算法完全分析](http://dwz.cn/64aoI3)
+
+> Misc
+* [日本工业研究](http://dwz.cn/6478D4)
+* [一家公司最大瓶颈就是CEO](http://dwz.cn/646aOD) 
+* [中国X86 CPU之兆芯](http://dwz.cn/6468Pc) 
+* [联想CISO Richard Rushing谈安全](http://dwz.cn/64amrN)
+
 ## 2017-06-04
 
 > News
