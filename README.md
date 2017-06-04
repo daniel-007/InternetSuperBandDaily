@@ -31,7 +31,7 @@
 * [游戏服务器相关讨论](http://t.cn/RSxYaqQ)
 * [HTTP/2推送技术](ttp://dwz.cn/645Wyf) 
 * [也说文件系统](http://dwz.cn/6467Mn) 
-* [golang pprof使用](https://lrita.github.io/2017/05/26/golang-memory-pprof/?from=timeline&nsukey=gUGWtoKYJK35dTqFvyBBSJcvuFooBN5QMtix5abXwZi%2FhckKfaipPhOGMs0u0%2Fulf4F7NoT9j2MFyBJPaPG8QhPXsc9CPLGmvxjzVipb6KDRF2KgW8DsP%2B8Ud5RcDXqJpRYcttwtB1wY9qI6W5qb8Y2n3uJ9r0zDUZNIOHwA1VYSy78Go%2FnYmKbTJOCmSUY%2B) 
+* [golang pprof使用](http://t.cn/RSKw4Bs) 
 * [iostat详解](http://dwz.cn/646ZlU) 
 * [在Spring Cloud中实现降级之权重路由和标签路由](http://dwz.cn/64aiQ1) 
 * [Hiriver：MySQL 数据变化的监控与分发框架](http://dwz.cn/64bwho) - hiriver实现了mysql主从复制协议，把自己伪装成一个mysql的从库，在接收到binlog后按照mysql binlog协议进行解析，由此获取mysql的数据变化。
