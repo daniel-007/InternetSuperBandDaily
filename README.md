@@ -6,6 +6,47 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-06-06
+
+> News
+* [千奇百怪的仿生机器人：灵感来自蟑螂、蛇、鸵鸟等](http://t.cn/RSK0Bkl)
+* [Giant否认被ofo收购](http://t.cn/RSCrjt6)
+* [证书签发机构StartCom也被曝签发假证书](http://t.cn/RS9xuXL) - 是因为被某数字流氓收购了的缘故？
+* [傲游浏览器把全球用户的这些数据偷偷传回了北京服务器……](http://t.cn/Rt7DoZo)
+* [COBOL 语言联合设计师 Jean Sammet 去世，终年 89 岁](http://t.cn/RSNhIEe)
+
+> Github Repo
+* [go-torch](https://github.com/uber/go-torch) - golang程序“火焰图”生成工具。Star: 1891. Lang: Golang.
+* [golang-set](github.com/deckarep/golang-set) - Golang set实现，据说Docker也在使用，从这种库的存在可以看出Golang不提供泛型实在是太坑爹。Star: 545. Lang: Golang.
+* [set](https://github.com/fatih/set) - fatih出品的set，fatih早年出品了大量golang精品库，现在变懒了。Star: 419. Lang: Golang.
+* [diamondb](https://github.com/yuuki/diamondb) - 一个时序数据库。Star: 48. Lang: Golang.
+* [clair](https://github.com/coreos/clair) - coreos出品的容器漏洞静态分析工具。Star: 2243. Lang: Golang.
+* [flannel](https://github.com/coreos/flannel) - coreos出品的针对k8s内的容器网络拓扑分析工具。Star: 2150. Lang: Golang.
+* [torus](https://github.com/coreos/torus) - CoreOS为Kubernetes量身打造分布式存储方案Torus。Star: 1616. Lang: Golang.
+* [go-humanize](https://github.com/dustin/go-humanize) - 把数字变成人可以读懂的输出。Star: 1029. Lang: Golang.
+* [kafka-go](https://github.com/segmentio/kafka-go) - 结合了context的kafka客户端。Star: 62. Lang: Golang.
+* [gods](https://github.com/emirpasic/gods) - Go容器集合。Star: 2710. Lang: Golang.
+* [mq-benchmarking](https://github.com/tylertreat/mq-benchmarking) - 对各种MQ做benchmark测试。Star: 128. Lang: Golang.
+* [indiechain](https://github.com/asutoshpalai/indiechain) - 一个简单的区块链实现。Star: 8. Lang: Python.
+* [crypto-js](https://github.com/brix/crypto-js) - Js加解密库。Star: 2130. Lang: Js.
+* [kg-beijing](https://github.com/memect/kg-beijing) - 北京知识图谱学习小组。Star: 422. Lang: Markdown.
+
+
+> Blog
+* [springboot前后端分离](http://t.cn/RSCERrD) 
+* [SpringData ES中一些底层原理的分析](http://t.cn/RSCEFVk) 
+* [深入浅出 spring-data-elasticsearch 之 ElasticSearch 架构初探](http://t.cn/RSCnJha) 
+* [使用 token 怎么做权限控制的呢？](http://t.cn/RSCnYrB) 
+* [springcloud: 服务网关zuul](http://t.cn/RSKp1Wy) 
+* [业务视角下的微服务架构设计实例](http://t.cn/RSK2MVW) 
+* [Android 卡顿检测方案](http://t.cn/RSKoqbA) 
+* [未来5-10年，自然语言处理(NLP)将走向成熟](http://t.cn/RSKC2Hk) 
+* [Message Queues评测](http://t.cn/RLpYrm9)
+* [iOS 应用支持 IPv6，就那点事儿](http://t.cn/RqPkDB3)
+
+> Misc
+* [如何看待高校计算机老师在码云OSChina上托管学生作业被喷？](http://t.cn/RSNPsnO) - 红薯的广告帖子？
+
 ## 2017-06-05
 
 > News
