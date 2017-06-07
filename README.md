@@ -6,6 +6,36 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-06-08
+
+> News
+* [微软回应卡巴斯基：Windows 10安全功能符合竞争法规](http://dwz.cn/6597sz)
+* [阿里腾讯涨幅已超40%](http://dwz.cn/6597Os)
+* [周鸿祎：不要轻易相信“大学创业故事”](http://dwz.cn/6597v9)
+* [贾跃亭将任乐视汽车全球董事长]( http://dwz.cn/6597Zd)
+* [乐视云宣布停止个人服务](http://dwz.cn/6597xM)
+* [日本一14岁少年因为制造勒索软件被捕](http://thehackernews.com/2017/06/japanese-ransomware-malware.html)
+* [俄政府雇佣黑客组织进行间谍活动的模式正在崩溃](https://www.theregister.co.uk/2017/06/06/russia_cyber_militia_analysis)
+
+> Github Repo
+* [spf13-vim](https://github.com/spf13/spf13-vim) - 跨平台的、完备的、跨多种vim版本的vim以及插件集合。Star: 10484. Lang: bash.
+* [jfr-flame-graph](https://github.com/chrishantha/jfr-flame-graph) - Java火焰图。Star: 88. Lang: Java.
+* [gomega](https://github.com/onsi/gomega) - Golang单测框架。Star: 493. Lang: Golang.
+* [ginkgo](https://github.com/onsi/ginkgo) - Golang自动化测试框架。Star: 1554. Lang: Golang.
+* [badger](https://github.com/dgraph-io/badger) - Go实现的KV db中最快的引擎。Star: 1607. Lang: Golang.
+* [dgraph](https://github.com/dgraph-io/dgraph) - Go实现的Graph DB。Star: 3282. Lang: Golang.
+* [reedsolomon](https://github.com/klauspost/reedsolomon) - Go实现的reedsolomon算法，该算法是百度云、七牛云等云盘文件存储的基础。Star: 537. Lang: Golang.
+* [afero](https://github.com/spf13/afero) - 一个简洁、统一且健全的文件Golang API接口。Star: 1013. Lang: Golang.
+* [qira](https://github.com/BinaryAnalysisPlatform/qira) - 类似于strace和gdb的Qemu交互式runtime分析工具。Star: 1437. Lang: Python.
+* [webassembly](https://github.com/dcodeIO/webassembly) - 一个小而微的webassembly runtime。Star: 108. Lang: C+Js.
+* [awesome-wasm](https://github.com/mbasso/awesome-wasm) - awesome web assembly产品集合。Star: 808. Lang: Markdown.
+
+> Blog
+* [NGINX 开发指南](http://dwz.cn/64QN0F) 
+* [RESTful API设计技巧经验总结](http://dwz.cn/6598Ku) 
+* [快速识别重要威胁：威胁情报与SIEM的结合](http://dwz.cn/65987a) 
+
+
 ## 2017-06-07
 
 > News
