@@ -6,6 +6,50 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-06-07
+
+> News
+* [苹果重磅发布人工智能开发平台，图像识别快谷歌6倍](http://dwz.cn/64LJGc)
+* [从机器学习框架Core ML的发布，反观苹果的AI之路](http://dwz.cn/64LKIo)
+* [华云数据完成超5亿元新一轮融资,冲刺IPO](http://dwz.cn/64MXJL)
+* [卡巴斯基称Windows 10禁用其杀毒软件](http://dwz.cn/64QtMr)
+* [打印机含秘密指纹--能披露文档是在何时何地在哪台打印机打印的](http://dwz.cn/64QtHc)
+* [百度度秘事业部美国团队成立](http://dwz.cn/64QtCb)
+* [比特币价格突破2万元](http://dwz.cn/64Qttq)
+* [“大片微褶皱”制造高导热超柔性石墨烯膜](http://dwz.cn/64Qtr6)
+* [全球第六次物种大灭绝或将到来](http://dwz.cn/64QtaN)
+* [海康威视泊车机器人](http://dwz.cn/64Qtn4)
+* [大脑秘密被揭开](http://dwz.cn/64Qsx2)
+
+> Github Repo
+* [bloomd](https://github.com/armon/bloomd) - bloom filter服务端实现。Star: 937. Lang: C.
+* [fd](https://github.com/sharkdp/fd) - Rust实现的find工具。Star: 100. Lang: Rust.
+* [golang-internals-resources](https://github.com/emluque/golang-internals-resources) - golang深入浅出，个人推荐。Star: 48. Lang: Markdown.
+* [consul](https://github.com/hashicorp/consul) - zookeeper、etcd同类产品之一，然更出类拔萃。Star: 9361. Lang: Golang.
+* [MQTT.js](https://github.com/mqttjs/MQTT.js) - 用js实现的MQTT客户端，浏览器可使用。Star: 2279. Lang: Golang.
+* [raft](https://github.com/hashicorp/raft) - raft的golang实现。Star: 375. Lang: Golang. 
+* [go-metrics](https://github.com/armon/go-metrics) - go运行情况监控。Star: . Lang: Golang.
+* [WAVM](https://github.com/AndrewScheidecker/WAVM) - WebAssembly Virtual Machine。Star: 209. Lang: WebAssembly + C++.
+* [foreman](https://github.com/ddollar/foreman) - 海量应用管理。Star: 4313. Lang: Ruby.
+* [supervisor](https://github.com/Supervisor/supervisor) - supervisor源码。Star: 3396. Lang: Python.
+
+> Blog
+* [日活上百万时，腾讯产品如何提前规避服务器宕机风险？](http://t.cn/RSNlok9) 
+* [Qzone高性能HTTPS实践](http://wetest.qq.com/lab/view/313.html) 
+* [Linux TCP 网络拥塞控制的困境](http://t.cn/RSNj7po) 
+* [唱吧DevOps的落地，微服务CI/CD的范本技术解读](http://dwz.cn/62MQEn) - 好文，有干货。
+* [Zookeeper一致性协议Zab详解](http://dwz.cn/64Qu4L) - 好文。
+* [微服务使用场景](http://dwz.cn/64Oy8c) - 关键在于人。
+* [AliGuard的高性能从何而来？](http://dwz.cn/64OKkC) 
+* [为什么选择Spring Boot作为微服务的入门级微框架](http://dwz.cn/64QxMb) - 配置即编程。
+* [比特币的原理及运作机制](http://dwz.cn/64QxKj)
+* [k8s原理基础](http://dwz.cn/64QygL)
+* [流式计算的系统设计与实现](http://dwz.cn/64QyUz)
+
+> Misc
+* [Yahoo为白帽子们发现的大漏洞付钱](http://www.securityweek.com/yahoo-pays-out-thousands-dollars-serious-flaws) 
+
+
 ## 2017-06-06
 
 > News
@@ -29,8 +73,6 @@
 * [mq-benchmarking](https://github.com/tylertreat/mq-benchmarking) - 对各种MQ做benchmark测试。Star: 128. Lang: Golang.
 * [indiechain](https://github.com/asutoshpalai/indiechain) - 一个简单的区块链实现。Star: 8. Lang: Python.
 * [crypto-js](https://github.com/brix/crypto-js) - Js加解密库。Star: 2130. Lang: Js.
-* [kg-beijing](https://github.com/memect/kg-beijing) - 北京知识图谱学习小组。Star: 422. Lang: Markdown.
-
 
 > Blog
 * [springboot前后端分离](http://t.cn/RSCERrD) 
@@ -46,6 +88,7 @@
 
 > Misc
 * [如何看待高校计算机老师在码云OSChina上托管学生作业被喷？](http://t.cn/RSNPsnO) - 红薯的广告帖子？
+* [王小川论人工智能](http://t.cn/RSN7Svb)
 
 ## 2017-06-05
 
