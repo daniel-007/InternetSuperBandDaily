@@ -34,6 +34,9 @@
 * [NGINX 开发指南](http://dwz.cn/64QN0F) 
 * [RESTful API设计技巧经验总结](http://dwz.cn/6598Ku) 
 * [快速识别重要威胁：威胁情报与SIEM的结合](http://dwz.cn/65987a) 
+* [Golang中string、slice和struct怎样互转](http://dwz.cn/65amZy) - 小朋友不要玩，不要被教坏了。
+* [Go io包](http://dwz.cn/65amKj) - io.Copy，通过阅读底层实现代码，你会发现`io.Copy`不仅仅是简单的从一个`io.Reader`读区数据写入`io.Writer`，当要通过`net.Conn`发送一个文件时，它其实会利用Linux的`SendFile`机制做到零拷贝。
+* [database/sql的错误用法一例](http://dwz.cn/65an1P) - 即事务使用的连接和Prepare使用的连接不一定是同一个连接，达达提供了两个解决方法：stmt.Exec() -> tx.Stmt(stmt).Exec()；像达达一样自己封装一套相关方法。
 
 
 ## 2017-06-07
