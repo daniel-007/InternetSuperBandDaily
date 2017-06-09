@@ -11,8 +11,7 @@
 > News
 * [阿里巴巴称明年收入预期会涨近50%](http://www.cnbeta.com/articles/tech/620573.htm)
 * [创业圈里那些魔性的拒绝史：张朝阳拒绝马化腾、马化腾拒绝马云...](https://news.cnblogs.com/n/571174/)
-* [Linux 仍是 IoT 的主要操作系统](http://geek.csdn.net/news/detail/201440)
-* [倪光南：建议政府停止采购和使用“ Win10 政府版”](https://www.oschina.net/news/85627/recommended-stop-win10-government-edition)
+* [破解了十款路由器之后，我们有话要说](https://mp.weixin.qq.com/s?__biz=MzA3Nzc2MjIxOA==&mid=2650317718&idx=1&sn=282028aa2fe56803bcf001f9f2a92dc0&pass_ticket=dKl6ZblyfQ5hdphBVGiFB7P2TCZwHmQNir%2FVsf11wUIkLmKYmyb5NEouuHmzj9hg)
 
 > Github Repo
 * [kcp](https://github.com/skywind3000/kcp) - KCP是一个快速可靠协议，能以比 TCP浪费10%-20%的带宽的代价，换取平均延迟降低 30%-40%，且最大延迟降低三倍的传输效果。Star: 2703. Lang: C.
@@ -29,7 +28,7 @@
 > Blog
 * [基于时间和地域构建一个网络诈骗形势模型](http://www.freebuf.com/news/136455.html) 
 * [阿里妈妈亿级推广流量仍能精准推荐？解读核心算法的应用实践](http://bigdata.51cto.com/art/201706/541796.htm) 
-* [华为 SCEF 产品软件架构师姚磊：如何成为一名优秀的软件架构师](https://www.oschina.net/question/2928191_2244252) 
+* [Linux 仍是 IoT 的主要操作系统](http://geek.csdn.net/news/detail/201440)
 
 > Misc
 * [国内CDN市场三足鼎立 差异化或是取胜之道](http://network.51cto.com/art/201706/541785.htm)
