@@ -7,14 +7,16 @@
 * [努比亚员工把开源软件申请为国家专利](https://my.oschina.net/xuxueli/blog/918201) - 这还算好的，前年某知名大学的几个教授把wine申请为国家专利。。。
 
 > Github Repo
+* [Mushroom](https://github.com/UncP/Mushroom) - 分布式内存索引。Star: 92. Lang: C++.
+* [seer](https://github.com/dwrensha/seer) - 一个符号执行引擎。Star: 58. Lang: Rust.
 * [redis-trib](https://github.com/soarpenguin/redis-trib) - Golang版本的redis-trib。Star: 2. Lang: Golang.
 * [gotemplate](https://github.com/ncw/gotemplate) - 一套实现了heap、list、ring和set等容器的golang代码模板【Go不提供模板功能，就有了这种奇葩工程】。Star: 170. Lang: Golang.
-* []() - 。Star: 1. Lang: Golang.
-* []() - 。Star: 1. Lang: Golang.
+* [teleconsole](https://github.com/gravitational/teleconsole) - 。Star: 基于SSH的远程终端访问工具. Star: 1842. Lang: Golang.
 * [yavide](https://github.com/JBakamovic/yavide) - 一款C++集成开发环境。Star: 762. Lang: Python.
 * [proxy_pool](https://github.com/jhao104/proxy_pool) - 一个python爬虫代理IP池子，绝世的好东东。Star: 858. Lang: Python.
 * [tushare](https://github.com/waditu/tushare) - TuShare是实现对股票/期货等金融数据从数据采集、清洗加工 到 数据存储过程的工具，满足金融量化分析师和学习数据分析的人在数据获取方面的需求，它的特点是数据覆盖范围广，接口调用简单,响应快速。Star: 3330. Lang: Python.
 * [Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - 通过谷歌地图接口渲染出一个高分辨率的《我的世界》游戏地图。Star: 1627. Lang: Python.
+* [workshop](https://github.com/gravitational/workshop) - Docker & Kubernetes学习材料。Star: 194. Lang: Markdown.
 
 > Blog
 * [Google Guetzli是如何压缩图片的？](http://geek.csdn.net/news/detail/201518) 
