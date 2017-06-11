@@ -8,7 +8,7 @@
 > Github Repo
 * [vscode-rust](https://github.com/editor-rs/vscode-rust) - vscode rust开发环境集成。Star: 225. Lang: typescript.
 * [Sia](https://github.com/NebulousLabs/Sia) - 基于区块链技术的文件存储系统。Star: 918. Lang: Golang.
-* * [ksuid](https://github.com/segmentio/ksuid) - 生成KSUID并分析KSUID。Star: 464. Lang: Golang.
+* [ksuid](https://github.com/segmentio/ksuid) - 生成KSUID并分析KSUID。Star: 464. Lang: Golang.
 * [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - Linux平台提权漏洞集合。Star: 378. Lang: Markdown.
 * [torrent](https://github.com/anacrolix/torrent) - torrent的Golang实现。Star: 1690. Lang: Golang.
 * [utp](https://github.com/anacrolix/utp) - Bittorrent使用的uTP协议的Golang实现。Star: 96. Lang: Golang.
