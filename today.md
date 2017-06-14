@@ -3,6 +3,7 @@
 > News
 * [Firefox 54.0：[下载]多进程终于到来](http://www.cnbeta.com/articles/soft/622415.htm)
 * [顺丰创始人王卫回应“偷客户”事件](http://www.donews.com/news/detail/1/2956557.html)
+* [腾讯云入围杭州华数CDN，阿里云要求废标](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654683206&idx=1&sn=89a45cfb3dd68575fa1babcaaf52f425&chksm=bd5811558a2f9843d6641476c5438cbe23735bedfb2283b06d882b30ba49aa3cc73990865b29&mpshare=1&scene=1&srcid=0614J4eWO8wmW0HcjAyfE1Cv&pass_ticket=J7cGxhmYL072X%2Bksg3nSVuie8L55rJW3Vn7Zl5KlCm757iqpL8v71ZYnAAxfwd%2FL#rd)
 
 > Github Repo
 * [rethinkdb](https://github.com/rethinkdb/rethinkdb) - 高可用的分布式NoSQL数据库。Star: 19138. Lang: C++.
