@@ -1,29 +1,22 @@
-## 2017-06-17
+## 2017-06-18
 
 > News
-* [内存SSD涨价猛：联想戴尔计划上调PC服务器价格](http://server.51cto.com/sOS-542665.htm)
+* [“墨子号”登上《科学》杂志封面](http://tech.sina.com.cn/roll/2017-06-17/doc-ifyhfpat5121584.shtml)
+* [Uber困局让对手Lyft火了：未上市股票遭投资人疯抢](http://tech.qq.com/a/20170617/003615.htm)
+* [摩拜下月就要去日本试试](http://tech.qq.com/a/20170617/018215.htm)
+* [能够运行多个操作系统的微型电脑-UP Core预计8月开始发货](http://bbs.chinaunix.net/thread-4262953-1-1.html)
+* [黄海跳槽百度旗下公司 百度：传闻不实](http://tech.sina.com.cn/i/2017-06-16/doc-ifyhfnqa4366444.shtml)
 
-> Github Repo
-* [pilosa](https://github.com/pilosa/pilosa) - 分布式bitmap索引。Star: 1017. Lang: Golang.
-* [nghttp2](https://github.com/nghttp2/nghttp2) - HTTP/2 C开发库以及相关工具。Star: 1807. Lang: C++.
-* [now](https://github.com/jinzhu/now) - 对time相关函数的进一步封装。Star: 865. Lang: Golang.
-* [blackmagic](https://github.com/blacksphere/blackmagic) - ARM Cortex应用程序debugger工具。Star: 363. Lang: C.
-* [potato](https://github.com/SpruceX/potato) - 一套数据库备份系统，用户只需要在Web配置一些必要的信息，就可以创建对应的备份策略。主要特性：支持mysql数据库全库 & 增量备份、支持数据库备份文件压缩、支持mysql数据库主从网络拓扑实时显示。Star: 18. Lang: Golang.
-* [rook](https://github.com/rook/rook) - 基于ceph的分布式对象存储系统，对外暴露了block、file和对象接口。Star: 1434. Lang: Golang.
-* [vueg](https://github.com/jaweii/vueg) - 为 webApp 提供转场特效的开源 Vue 插件。Star: 150. Lang: Js.
-* [thefuck](https://github.com/nvbn/thefuck) - 命令行自动补全工具。Star: 28467. Lang: Python.
-* [ubackup](https://github.com/lustlost/ubackup) - UBackup 游族统一异地备份系统，此系统解决游族2w+个数据库实例，日均大概40w+个备份文件，40TB+数据量（包括mysql,redis,ssdb）的异地灾备。Star: 81. Lang: Python.
+> Github Repo]
+* [iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - 基于llvm，利用Rust构建一个词法分析器。Star: 236. Lang: Rust.
+* [angel](https://github.com/Tencent/angel) - Angel是一个基于参数服务器（Parameter Server）理念开发的高性能分布式机器学习平台，它基于腾讯内部的海量数据进行了反复的调优，并具有广泛的适用性和稳定性，模型维度越高，优势越明显。Star: 555. Lang: Java & Scala.
+* [tezos](https://github.com/tezos/tezos) - Tezos实质上是一个分布式区块链，也是一个会自动修正的加密分类账。Star: 383. Lang: OCaml.
 
 > Blog
-* [微信终端跨平台组件 Mars 在移动网络的探索和实践](http://blog.csdn.net/byeweiyang/article/details/73296619) 
-* [服务器负载优化技巧](http://geek.csdn.net/news/detail/202676) 
-* [ 微信移动端数据库组件 WCDB 系列（三） — 解析 WINQ 原理](http://blog.csdn.net/Byeweiyang/article/details/73293915) 
-* [如何搭建一个完整的智能家居系统](http://geek.csdn.net/news/detail/202573) 
-
-> Misc
-* [2017年度移动App安全漏洞与数据泄露现状报告](http://image.3001.net/uploads/pdf/2017%E5%B9%B4%E5%BA%A6%E7%A7%BB%E5%8A%A8App%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E7%8E%B0%E7%8A%B6%E6%8A%A5%E5%91%8A%20BY%20FreeBuf.pdf) 
-* [印度是下一个短视频爆发地？](http://www.donews.com/article/detail/4453/9960.html) 
-* [一个卖外挂的传奇](http://www.donews.com/news/detail/3/2956900.html)
-* [科技股暴跌原因分析](http://www.donews.com/article/detail/3861/9955.html)
-* [内容传播的秘诀](http://www.donews.com/article/detail/4089/9954.html)
-* [创业公司的CTO一定要主动规避这些坑](http://news.51cto.com/art/201706/541769.htm)
+* [Instagram 顺利迁移到 Python 3](http://chuansong.me/n/1906556124023) 
+* [如何使用火焰图来降低服务器负载](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548763&idx=1&sn=b88c482a96ad691a2f5b2c01b934ab17&chksm=813a6143b64de8559715fad5e0abece43b64fb1681bfd3f3160ca7ca17c89495cbf64209d026&mpshare=1&scene=1&srcid=0617KGotOH6w1y89OGvZQt5z&pass_ticket=aA7Ml6O5wzEJcPkXGEV2lCRLlr8aHEVXfWDUkIUCAiGHBOSjYOGTqQJq6llY%2FJMG#rd) 
+* [超越 GVFS: 更多 Git 大存储库的优化细节](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650072280&idx=2&sn=98f946f06acf9edb9d5eb517f464b793&chksm=bedb3fb689acb6a0395900ad2f77c35864a53a6d61c1402ae11d2e8eca076e6591df8c4b5e99&mpshare=1&scene=1&srcid=0617JCTuOWzLN38CNAhZiDth&pass_ticket=aA7Ml6O5wzEJcPkXGEV2lCRLlr8aHEVXfWDUkIUCAiGHBOSjYOGTqQJq6llY%2FJMG#rd) 
+* [Rust的一个bug](https://mp.weixin.qq.com/s?__biz=MzI5NjE0MDg4NQ==&mid=2247483771&idx=1&sn=a468c587374654ce8976eb04fbf06e2d&chksm=ec49a841db3e21578cd8cbdd4da9a74bd9c49a8e1d00f15cf43853fa1bac1a838ede3e690579&mpshare=1&scene=1&srcid=0617HHG3vdhxUTATALjEA06P&pass_ticket=aA7Ml6O5wzEJcPkXGEV2lCRLlr8aHEVXfWDUkIUCAiGHBOSjYOGTqQJq6llY%2FJMG#rd) 
+* [从微博崩溃看运维的重要性](https://mp.weixin.qq.com/s?__biz=MzAxOTAzMDEwMA==&mid=210112244&idx=1&sn=7905d15eb7fed359ae9d49e947425499&scene=21#wechat_redirect) 
+* [浅谈CAS在分布式ID生成方案上的应用](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960223&idx=1&sn=121716347174eedd6636b1c2c0b96047&chksm=bd2d06438a5a8f55d35add7dc99940c280264fa7caeacb21f7dc79884d00c050d0367a745f87&mpshare=1&scene=1&srcid=0617FUbgG9SpnC2vPECDUbSp&pass_ticket=WPaco2D4tU67h2T1iwD%2BbM9SqD4Xw9fYc5fvM%2BRyn2eCxhX5eqG7LuWqsSe0DhwP#rd) 
+* [分布式区块链tezos中文白皮书](https://tezos.com/static/papers/white_paper_zh.pdf) 
