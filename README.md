@@ -26,6 +26,7 @@
 
 > Blog
 * [十分钟看懂时序数据库⑷- 分级存储](https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ==&mid=2653054941&idx=1&sn=0aa2aaa30929c68205621834dc53ba0f&chksm=8b684afdbc1fc3eb33d2e46a2920474549f2ea1f532c444b68f92d56cb16b560c1fba24ba648&mpshare=1&scene=1&srcid=0620Xhf12Gd0S2DyIMMDRWIj&pass_ticket=6DV4IYaehQe9PJDoxndHK7QnkgCWr5DZhGErVZMvCKWyD8QoRbP8Ne5s3GkbVQKo#rd) 
+* [eBay如何自建平台，对多达35个Elasticsearch集群进行全生命周期管理](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162573&idx=1&sn=a774a6beb4c9c3ef4f57512f11f28ac6&chksm=8b493123bc3eb8359466109317acf4bcd5cb756c91e1ce1ef21f94d7d07990a2f5b61148fbcc&mpshare=1&scene=1&srcid=0621vLZPw2VEzUgVDmp1fMt9&pass_ticket=LOZ3EgVxZVnS3%2FFGOZF7%2Bcfqf5cOJqpJgSHPg6PGh%2FzZAJG5W%2FXfkBlRKl9%2FjtbR#rd)
 
 > Misc
 * [刘慈欣访谈录（上）：《三体》创作与修改秘闻](http://wemedia.ifeng.com/19271392/wemedia.shtml) 
