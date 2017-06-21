@@ -1,25 +1,26 @@
-## 2017-06-21
+## 2017-06-22
 
 > News
-* [4399拟上市 蔡文胜被举报涉嫌偷逃数亿税款](http://finance.ifeng.com/a/20170620/15470482_0.shtml)
-* [蔡文胜发声明函回击实名举报：不存在任何偷逃税款](http://industry.caijing.com.cn/20170620/4287960.shtml)
-* [宣亚正式宣布将收购映客48.2%股份 价格仍待确定](http://tech.qq.com/a/20170620/047640.htm)
-* [英国人Sean Caffery入侵美军卫星电话和信息系统](https://www.bleepingcomputer.com/news/security/british-hacker-used-home-internet-connection-to-hack-the-dod-in-2014/)
-* [网易20周年 全程在喊爸爸](http://www.bubuko.com/news/detail-171649.html)
+* [携程将购物团全部踢出“5钻”](https://news.cnblogs.com/n/572081/)
+* [罗永浩已从阿里巴巴手中赎回锤子科技质押股权](http://www.donews.com/it/201610/2941172.shtm)
+* [探探完成D轮7000万美元融资](http://www.donews.com/news/detail/1/2957602.html)
+* [举报4399媒体会见闻：一场基金内斗引发的IPO阻击战](http://www.donews.com/news/detail/3/2957491.html)
 
 > Github Repo
-* [rust-algorithms](https://github.com/EbTech/rust-algorithms) - 一个Rust算法库。Star: 918. Lang: Rust.
-* [quic-go](https://github.com/lucas-clemente/quic-go) - QUIC的Golang实现。Star: 800. Lang: Golang.
-* [sqlx](https://github.com/jmoiron/sqlx) - golang database/sql的替代实现。Star: 2937. Lang: Golang.
-* [G.E.R.T](https://github.com/ycoroneos/G.E.R.T) - 能在嵌入式设备上运行的Golang实现。Star: 357. Lang: Golang&Python.
-* [cron](https://github.com/robfig/cron) - 一个Golang cron库。Star: 1511. Lang: Golang.
-* [pyotp](https://github.com/pyotp/pyotp) - 动态密码生成器。Star: 585. Lang: Python.
-* [decode-memcached](https://github.com/daoluan/decode-memcached) - memcached 源码阅读笔记。Star: 485. Lang: Chinese.
+* [srs](https://github.com/ossrs/srs) - SRS定位是运营级的互联网直播服务器集群，追求更好的概念完整性和最简单实现的代码。Star: 2296. Lang: C++.
+* [emscripten](https://github.com/kripken/emscripten) - 一个新的基于LLVM的编译器，可以把C/C++代码转换为Js代码。Star: 12417. Lang: Python+Js.
+* [gsync](https://github.com/c4milo/gsync) - golang实现的增量数据复制工具。Star: 74. Lang: Golang.
+* [centrifugo](https://github.com/centrifugal/centrifugo) - centrifugo是一个实时消息传递系统。Star: 1916. Lang: Golang.
+* [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 龙果支付系统是国内首款开源的互联网支付系统，其核心目标是汇聚所有主流支付渠道，打造一款轻量、便捷、易用，且集支付、资金对账、资金清结算于一体的支付系统，满足互联网业务系统的收款和业务资金管理需求。。Star: 928. Lang: Java.
+* [Sia](https://github.com/NebulousLabs/Sia) - 基于区块链的文件存储系统。Star: 1116. Lang: Golang.
+* [superset](https://github.com/airbnb/superset) - 一款工业级健壮的WEB BI系统。Star: 14592. Lang: Python.
 
 > Blog
-* [十分钟看懂时序数据库⑷- 分级存储](https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ==&mid=2653054941&idx=1&sn=0aa2aaa30929c68205621834dc53ba0f&chksm=8b684afdbc1fc3eb33d2e46a2920474549f2ea1f532c444b68f92d56cb16b560c1fba24ba648&mpshare=1&scene=1&srcid=0620Xhf12Gd0S2DyIMMDRWIj&pass_ticket=6DV4IYaehQe9PJDoxndHK7QnkgCWr5DZhGErVZMvCKWyD8QoRbP8Ne5s3GkbVQKo#rd) 
-* [eBay如何自建平台，对多达35个Elasticsearch集群进行全生命周期管理](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162573&idx=1&sn=a774a6beb4c9c3ef4f57512f11f28ac6&chksm=8b493123bc3eb8359466109317acf4bcd5cb756c91e1ce1ef21f94d7d07990a2f5b61148fbcc&mpshare=1&scene=1&srcid=0621vLZPw2VEzUgVDmp1fMt9&pass_ticket=LOZ3EgVxZVnS3%2FFGOZF7%2Bcfqf5cOJqpJgSHPg6PGh%2FzZAJG5W%2FXfkBlRKl9%2FjtbR#rd)
+* [Java 老矣，尚能饭否？](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650996546&idx=1&sn=deac56a3590975eafc8d4ddd9be28227&chksm=bdbf07118ac88e074f3207eee2548b75e88a8b6d7daa6d54c61d75d29147e9b3281bfaa84c3e&mpshare=1&scene=1&srcid=0621HwZGnpMa9381hAuQ5aIh&pass_ticket=EJ4TrkrNhN%2FO9TNvVj09T9%2BnN2lpHjZVj%2BuAs80Iv4UhFStyWbFK4XyxeOxRsDoW#rd) 
+* [深入了解 gRPC：协议](http://www.jianshu.com/p/48ad37e8b4ed) 
 
 > Misc
-* [刘慈欣访谈录（上）：《三体》创作与修改秘闻](http://wemedia.ifeng.com/19271392/wemedia.shtml) 
-* [为什么有争议的王坚把阿里云做起来了？](https://www.zhihu.com/question/30681093/answer/171177369?from=timeline) - 受到冷嘲热讽的时候，王坚背后有个马云爸爸。
+[《红楼梦》中的婚姻制度](http://cul.qq.com/a/20170621/017520.htm)
+[王阳明思想新论：人是一个不断超越自己的存在](http://cul.qq.com/a/20170621/013289.htm)
+[秦晖：信仰自由与神权专制是不能“多元共存”的](http://cul.qq.com/a/20170621/017178.htm)
+[87版《红楼梦》编剧之一周岭：最后6集是我一生之憾](http://cul.qq.com/a/20170621/014667.htm)
