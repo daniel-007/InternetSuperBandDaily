@@ -11,7 +11,7 @@
 * [emscripten](https://github.com/kripken/emscripten) - 一个新的基于LLVM的编译器，可以把C/C++代码转换为Js代码。Star: 12417. Lang: Python+Js.
 * [gsync](https://github.com/c4milo/gsync) - golang实现的增量数据复制工具。Star: 74. Lang: Golang.
 * [centrifugo](https://github.com/centrifugal/centrifugo) - centrifugo是一个实时消息传递系统。Star: 1916. Lang: Golang.
-* [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 龙果支付系统是国内首款开源的互联网支付系统，其核心目标是汇聚所有主流支付渠道，打造一款轻量、便捷、易用，且集支付、资金对账、资金清结算于一体的支付系统，满足互联网业务系统的收款和业务资金管理需求。。Star: 928. Lang: Java.
+* [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 龙果支付系统是国内首款开源的互联网支付系统，其核心目标是汇聚所有主流支付渠道，打造一款轻量、便捷、易用，且集支付、资金对账、资金清结算于一体的支付系统，满足互联网业务系统的收款和业务资金管理需求。Star: 928. Lang: Java.
 * [Sia](https://github.com/NebulousLabs/Sia) - 基于区块链的文件存储系统。Star: 1116. Lang: Golang.
 * [superset](https://github.com/airbnb/superset) - 一款工业级健壮的WEB BI系统。Star: 14592. Lang: Python.
 
