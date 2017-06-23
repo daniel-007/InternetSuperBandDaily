@@ -1,26 +1,29 @@
-## 2017-06-22
+## 2017-06-23
 
 > News
-* [携程将购物团全部踢出“5钻”](https://news.cnblogs.com/n/572081/)
-* [罗永浩已从阿里巴巴手中赎回锤子科技质押股权](http://www.donews.com/it/201610/2941172.shtm)
-* [探探完成D轮7000万美元融资](http://www.donews.com/news/detail/1/2957602.html)
-* [举报4399媒体会见闻：一场基金内斗引发的IPO阻击战](http://www.donews.com/news/detail/3/2957491.html)
+* [云鼎实验室掌门人killer专访](www.freebuf.com/articles/people/137348.html)
+* [Swift 语言之父从特斯拉离职](https://www.oschina.net/news/86080/swift-creator-departs-tesla-after-just-six-months)
 
 > Github Repo
-* [srs](https://github.com/ossrs/srs) - SRS定位是运营级的互联网直播服务器集群，追求更好的概念完整性和最简单实现的代码。Star: 2296. Lang: C++.
-* [emscripten](https://github.com/kripken/emscripten) - 一个新的基于LLVM的编译器，可以把C/C++代码转换为Js代码。Star: 12417. Lang: Python+Js.
-* [gsync](https://github.com/c4milo/gsync) - golang实现的增量数据复制工具。Star: 74. Lang: Golang.
-* [centrifugo](https://github.com/centrifugal/centrifugo) - centrifugo是一个实时消息传递系统。Star: 1916. Lang: Golang.
-* [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 龙果支付系统是国内首款开源的互联网支付系统，其核心目标是汇聚所有主流支付渠道，打造一款轻量、便捷、易用，且集支付、资金对账、资金清结算于一体的支付系统，满足互联网业务系统的收款和业务资金管理需求。Star: 928. Lang: Java.
-* [Sia](https://github.com/NebulousLabs/Sia) - 基于区块链的文件存储系统。Star: 1116. Lang: Golang.
-* [superset](https://github.com/airbnb/superset) - 一款工业级健壮的WEB BI系统。Star: 14592. Lang: Python.
+* [arangodb](https://github.com/arangodb/arangodb) - 以Join和事务为主要feature的DB，支持KV、文档和图等数据模型，内置类SQL语言，又有一套Js接口可直接访问数据。Star: 3853. Lang: C++.
+* [mj_server](https://github.com/yuanfengyun/mj_server) - 房卡类麻将服务器。Star: 106. Lang: C++.
+* [chess_server](https://github.com/yuanfengyun/chess_server) - 开源棋牌服务器框架，使用skynet，网络协议使用pbc版的protobuf，数据库使用mongodb。Star: 92. Lang: Lua.
+* [HyperDex](https://github.com/rescrv/HyperDex) - 一个有强一致性、高HA、支持MongoDB API、文档的下一代KV数据库。Star: 1191. Lang: C++&Js.
+* [orientdb](https://github.com/orientechnologies/orientdb) - Orient DB 是一个基于JVM的可伸缩的文档数据库，支持许多高级特性，诸如ACID事务、快速索引，原生和SQL查询功能。可以JSON格式导入、导出文档。若不执行昂贵的JOIN操作的话，如同关系数据库可在几毫秒内可检索数以百记的链接文档图。Star: 3035. Lang: Java.
+* [Batsh](https://github.com/BYVoid/Batsh) - 一种新的脚本语言，可被编译成bash和windows bat脚本。Star: 3357. Lang: OCaml.
+* [ChaiScript](https://github.com/ChaiScript/ChaiScript) - 一种可嵌入C++的脚本语言。Star: 922. Lang: C++.
+* [rqlite](https://github.com/rqlite/rqlite) - 基于SQLite的一款轻量的分布式关系数据库。Star: 2863. Lang: Golang.
+* [lego](https://github.com/v2pro/lego) - 陶文出品的基于zap的log。Star: 1. Lang: Golang.
+* [raftscope](https://github.com/ongardie/raftscope) - 一款新的可视化Raft动画展示。Star: 156. Lang: Js.
 
 > Blog
-* [Java 老矣，尚能饭否？](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650996546&idx=1&sn=deac56a3590975eafc8d4ddd9be28227&chksm=bdbf07118ac88e074f3207eee2548b75e88a8b6d7daa6d54c61d75d29147e9b3281bfaa84c3e&mpshare=1&scene=1&srcid=0621HwZGnpMa9381hAuQ5aIh&pass_ticket=EJ4TrkrNhN%2FO9TNvVj09T9%2BnN2lpHjZVj%2BuAs80Iv4UhFStyWbFK4XyxeOxRsDoW#rd) 
-* [深入了解 gRPC：协议](http://www.jianshu.com/p/48ad37e8b4ed) 
+* [一致性协议Paxos](https://my.oschina.net/lhztt/blog/995114) 
+* [从摩拜和ofo投资人的互怼大战中我们学到了什么](http://blog.csdn.net/wemedia/details.html?id=37082) 
+* [Kafka Stream](http://geek.csdn.net/news/detail/203798) 
+* [企业安全建设之路：端口扫描](http://www.freebuf.com/articles/system/137016.html) 
+* [高通（Qualcomm）LK源码深度分析](http://www.freebuf.com/news/137530.html) 
+* [Windows、Linux后门解析](http://www.freebuf.com/articles/system/91791.html) 
 
 > Misc
-* [《红楼梦》中的婚姻制度](http://cul.qq.com/a/20170621/017520.htm)
-* [王阳明思想新论：人是一个不断超越自己的存在](http://cul.qq.com/a/20170621/013289.htm)
-* [秦晖：信仰自由与神权专制是不能“多元共存”的](http://cul.qq.com/a/20170621/017178.htm)
-* [87版《红楼梦》编剧之一周岭：最后6集是我一生之憾](http://cul.qq.com/a/20170621/014667.htm)
+* [王守仁“知行合一”思想的独特价值](http://cul.qq.com/a/20170622/002760.htm) 
+* [夜游朝阳怎么玩 这些地方越夜越撩人](http://bj.jjj.qq.com/a/20170622/015010.htm) 
