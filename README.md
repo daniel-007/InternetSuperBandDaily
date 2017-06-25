@@ -25,6 +25,7 @@
 * [像小强一样坚不可摧的数据库，CockroachDB是如何构建业务并进行盈利的？](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650689244&idx=1&sn=f3553c496a0387d3c7b4a1516005d44c&chksm=bea63f0f89d1b619ab81ffd1cab8a342ad1f6abb4545f5a9c03c0df2bb0d965f974ade2765b3&mpshare=1&scene=1&srcid=0625E9yfgdwoS6QTxgnwtQKp&pass_ticket=tozc1EUuNwe%2BRSADvcR9K2eAbVtodxWwMHlqI4QD9epaUE08FN65JjNyGDSmF4fG#rd) 
 * [超越 GVFS: 更多 Git 大存储库的优化细节](https://www.oschina.net/translate/optimizing-git-beyond-gvfs) 
 * [Nodejs之父这一年研究机器学习的心路历程](http://www.techug.com/post/google-brain-residency-program.html) 
+* [四五十岁之后，还在编程的程序员都有谁？个个大师级](http://www.techug.com/post/forty-years-who-programming.html)
 
 > Misc
 * [硅基生命](http://www.guokr.com/post/2824/) 
