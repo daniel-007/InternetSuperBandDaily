@@ -1,26 +1,27 @@
-## 2017-06-27
+## 2017-06-28
 
 > News
-* [李开复：AI 的真正威胁是贫富分化](https://news.cnblogs.com/n/572424/)
-* [张旭豪驳王兴：格局高的人不应该那样谈论自己的股东](http://www.donews.com/news/detail/4/2958116.html)
-* [陆奇先生和他的百度新千亿美金计划](http://www.donews.com/news/detail/4/2958073.html)
-* [熊猫TV签约女主播发表公开信讨要签约金](http://www.cnbeta.com/articles/tech/625995.htm)
+* [Google Talk/ Gchat谢幕，强制性接盘的Hangouts是怎样的？](https://mp.weixin.qq.com/s/Cn0KKmWz7T9bU2Z9IVRHmg)
+* [柳青：未来两到三年内滴滴将进军非洲和南美洲](http://www.donews.com/news/detail/1/2958345.html)
+* [WhatsApp在部分国家成为主要新闻传播平台](http://www.donews.com/news/detail/1/2958212.html)
 
 > Github Repo
-* [netdata](https://github.com/firehol/netdata) - 一款强大的附带UI的跨平台机器监视工具，出了常见的系统基础监控指标，还可监控Ngx、Mysql、Mongodb、Postgres、Redis、memcached、elasticsearch、HAproxy、Squid、PHP-FPM等常用组件。Star: 21950. Lang: C + Python + Bash.
-* [huststore](https://github.com/Qihoo360/huststore) - huststore 是一个高性能的分布式存储服务，不但提供了 100 thousand QPS 级别的 kv 存储的功能，还提供了 hash、set、sort set 等一系列数据结构的支持，并且支持 二进制 的 kv 存储，可以替代 Redis 相关的功能。此外，huststore 还结合特有的 HA 模块实现了分布式消息队列的功能，包括消息的流式推送，以及消息的 发布-订阅 等功能，可以替代 rabbitmq or gearman 相关的功能。huststore 分为 hustdb 以及 HA 模块两大部分。hustdb是自主研发的存储引擎。HA 以 nginx 模块的方式开发。Star: 665. Lang: C++.
-* [leaktest](https://github.com/fortytw2/leaktest) - 空闲goroutine检查工具。Star: 380. Lang: Golang.
-* [symphony](https://github.com/b3log/symphony) - 一个用 Java 实现的现代化社区（论坛/社交网络/博客）平台。。Star: 1560. Lang: Java.
-* [POC-T](https://github.com/Xyntax/POC-T) - 渗透测试插件化并发框架，用于渗透测试中 采集|爬虫|爆破|批量PoC 等需要并发的任务。Star: 423. Lang: Python.
-* [awesome-indie](https://github.com/mezod/awesome-indie) - 开源挣钱指南。Star: 3609. Lang: Markdown.
-* [opensource.guide](https://github.com/github/opensource.guide) - 开源实践指南。Star: 3097. Lang: Markdown.
-* [sso](https://github.com/aqzt/sso) - 项目主要是汇集整理服务器安全运维规范，包括运维工程师必须遵守的规范、服务器运维中注意事项、故障避免手段等文档，帮助运维工程师避免服务器安全和运维故障，方便运维工程师学习成长。Star: 24. Lang: Markdown.
+* [scalariform](https://github.com/scala-ide/scalariform) - Scala代码格式化工具。Star: 430. Lang: Scala.
+* [wabt](https://github.com/WebAssembly/wabt) - WebAssembly二进制工具包。Star: 326. Lang: C++.
+* [disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor的C++实现。Star: 276. Lang: C++.
+* [netcode.io](https://github.com/networkprotocol/netcode.io) - 基于udp实现的类似于TCP的安全数据传输协议。Star: 814. Lang: C & Go & Rust.
+* [scoobi](https://github.com/NICTA/scoobi) - 基于Hadoop业务的工业级的Sacala大数据框架。Star: 488. Lang: Java+Scala.
+* [mylg](https://github.com/mehrdadrad/mylg) - Go实现的带UI界面的网络侦查工具。Star: 1798. Lang: Golang.
+* [spinner](https://github.com/briandowns/spinner) - 终端字符库。Star: 338. Lang: Golang.
+* [gin](https://github.com/gin-gonic/gin) - Go HTTP web框架，有这类似于Martini的API，但是性能却是它的40倍以上。Star: 10472. Lang: Golang.
+* [gg](https://github.com/fogleman/gg) - Go 2D图形库。Star: 883. Lang: Golang.
+* [lz4](https://github.com/pierrec/lz4) - Golang lz4压缩算法实现。Star: 105. Lang: Golang.
+* [nsq](https://github.com/absolute8511/nsq) - 一个feature比官方多nsq分支。Star: 64. Lang: Golang.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) - 分布式系统设计入门。Star: 17622. Lang: Python.
+* [gixy](https://github.com/yandex/gixy) - Gixy 是一款用来分析 Nginx 配置的工具。 Gixy 的主要目标是防止安全配置错误，并自动进行缺陷检测。Star: 4670. Lang: Python.
 
 > Blog
-* [利用inotify+rsync实现linux文件批量更新 ](http://blog.chinaunix.net/uid-17085332-id-5766574.html) - 文章价值不大，高手慎入。
-* [Linux系统下init进程的前世今生](http://blog.chinaunix.net/uid-30200284-id-5766545.html) -
-* [FFmpeg组件爆高危漏洞，利用可读取任意文件内容](https://mp.weixin.qq.com/s?__biz=MzAxOTAzMDEwMA==&mid=2652503101&idx=2&sn=5d8a1851804c7c7d88a696b7f37b5407&chksm=80201506b7579c109c2ef37718979ab72dd88e6597937cd63502fbf7b2d8977373ebec77f744&mpshare=1&scene=1&srcid=0627jwPbJAYXOlsPltKjZ2xL&pass_ticket=x3sFXAbGlbEm8C%2FOIwXI0s2x6GpVJETWiF88kZc27SHEWA0vNlIok%2BmfdiYER%2Fyv#rd) -
-* [网络故障排除神器 traceroute 探秘](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651667091&idx=1&sn=ba370db67a42b0294f61614d1385e717&chksm=8bcbf93abcbc702c541dff2fbf06416fc03bde9d38aa136701d811932970420966dea4e1e3a7&mpshare=1&scene=1&srcid=0627jUG19eXOQDuSHVpOAoWv&pass_ticket=x3sFXAbGlbEm8C%2FOIwXI0s2x6GpVJETWiF88kZc27SHEWA0vNlIok%2BmfdiYER%2Fyv#rd) -
-* [程序员的《穷爸爸富爸爸》](https://mp.weixin.qq.com/s?__biz=MzA5MzY4NTQwMA==&mid=2650997645&idx=1&sn=2aa2ce6cc3ea39c9fd0c334bc7713875&chksm=8badb07abcda396cfc1ec78a7b64e871585e2fefe8d09ea5bcc18bfd33adbdedfd3e6b966df9&mpshare=1&scene=1&srcid=0627wrklFc1GYWMMtUrOKrS1&pass_ticket=x3sFXAbGlbEm8C%2FOIwXI0s2x6GpVJETWiF88kZc27SHEWA0vNlIok%2BmfdiYER%2Fyv#rd) -
-* [什么是跳跃表？](https://mp.weixin.qq.com/s?__biz=MzI5OTY0MTMyMg==&mid=2247485128&idx=1&sn=4dc56924eecbaec5f569187e8e2a4120&pass_ticket=x3sFXAbGlbEm8C%2FOIwXI0s2x6GpVJETWiF88kZc27SHEWA0vNlIok%2BmfdiYER%2Fyv) - 文章价值不大，高手慎入。
-* [MySQL 分支 MyRocks](http://chuansong.me/n/884552433720) 
+* [提高驾驶技术：用GAN去除(爱情)动作片中的马赛克和衣服](https://zhuanlan.zhihu.com/p/27199954?utm_source=wechat_timeline&utm_medium=social&from=timeline&isappinstalled=1) 
+* [TiDB 架构的演进和开发哲学](https://zhuanlan.zhihu.com/p/25142743) 
+* [7-10倍写入性能提升:剖析WiredTiger数据页无锁及压缩黑科技](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547449&idx=1&sn=f2854a3652fda00a0a25a7cd33b44045&scene=21#wechat_redirect) 
+* [微博数据库那些事儿：3个变迁阶段背后的设计思想](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=404194006&idx=1&sn=81ce1b82992d9535d84d7ce521f95dc4&scene=21#wechat_redirect)
