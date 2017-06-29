@@ -1,27 +1,28 @@
-## 2017-06-28
+## 2017-06-29
 
 > News
-* [Google Talk/ Gchat谢幕，强制性接盘的Hangouts是怎样的？](https://mp.weixin.qq.com/s/Cn0KKmWz7T9bU2Z9IVRHmg)
-* [柳青：未来两到三年内滴滴将进军非洲和南美洲](http://www.donews.com/news/detail/1/2958345.html)
-* [WhatsApp在部分国家成为主要新闻传播平台](http://www.donews.com/news/detail/1/2958212.html)
+* [JCP EC 投票通过 Java 模块化系统](https://www.oschina.net/news/86249/jcp-ec-java-pass)
+* [乐视金融卖15%高息产品](http://www.donews.com/news/detail/4/2958373.html)
+* [移动互联网的“脏话期”](http://www.donews.com/article/detail/4835/10000.html)
+* [张宏江：AI投资判断以数据为中心](http://www.donews.com/news/detail/1/2958393.html) - 在AI投资判断上，张宏江提出了三个判断标准，首先数据为先，有没有数据是关键；其次是是否可以生产和控制数据；最后是在数据占先和占优别他人做得更强。此外，张宏江还提醒投资人，目前AI真正强的地方是感知领域，图像识别、语音识别，但与感知领域相关的创业，还有不确定性。而对于AI芯片创业公司来说，成本是必须解决的问题。
 
 > Github Repo
-* [scalariform](https://github.com/scala-ide/scalariform) - Scala代码格式化工具。Star: 430. Lang: Scala.
-* [wabt](https://github.com/WebAssembly/wabt) - WebAssembly二进制工具包。Star: 326. Lang: C++.
-* [disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor的C++实现。Star: 276. Lang: C++.
-* [netcode.io](https://github.com/networkprotocol/netcode.io) - 基于udp实现的类似于TCP的安全数据传输协议。Star: 814. Lang: C & Go & Rust.
-* [scoobi](https://github.com/NICTA/scoobi) - 基于Hadoop业务的工业级的Sacala大数据框架。Star: 488. Lang: Java+Scala.
-* [mylg](https://github.com/mehrdadrad/mylg) - Go实现的带UI界面的网络侦查工具。Star: 1798. Lang: Golang.
-* [spinner](https://github.com/briandowns/spinner) - 终端字符库。Star: 338. Lang: Golang.
-* [gin](https://github.com/gin-gonic/gin) - Go HTTP web框架，有这类似于Martini的API，但是性能却是它的40倍以上。Star: 10472. Lang: Golang.
-* [gg](https://github.com/fogleman/gg) - Go 2D图形库。Star: 883. Lang: Golang.
-* [lz4](https://github.com/pierrec/lz4) - Golang lz4压缩算法实现。Star: 105. Lang: Golang.
-* [nsq](https://github.com/absolute8511/nsq) - 一个feature比官方多nsq分支。Star: 64. Lang: Golang.
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) - 分布式系统设计入门。Star: 17622. Lang: Python.
-* [gixy](https://github.com/yandex/gixy) - Gixy 是一款用来分析 Nginx 配置的工具。 Gixy 的主要目标是防止安全配置错误，并自动进行缺陷检测。Star: 4670. Lang: Python.
+* [prost](https://github.com/danburkert/prost) - Rust protobuf实现。Star: 48. Lang: Rust.
+* [ideavim_extension](https://github.com/hadix-lin/ideavim_extension) - idea vim插件扩展。Star: 16. Lang: Java.
+* [grace](https://github.com/facebookgo/grace) - go程序进程不停机方式优雅重启。Star: 2987. Lang: Golang.
+* [depscheck](https://github.com/divan/depscheck) - Go依赖包检查，如果某个依赖包较小，这个工具会检查出来。Star: 372. Lang: Golang.
+* [goconvey](https://github.com/smartystreets/goconvey) - 在浏览器端进行go test。Star: 2909. Lang: Golang.
+* [youtube-dl](https://github.com/rg3/youtube-dl) - youbute视频下载工具。Star: 26971. Lang: Python.
+* [magic-wormhole](https://github.com/warner/magic-wormhole) - 跨机器进程复制。Star: 3193. Lang: Python.
+* [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider) - 运用请求伪造，浏览器伪造,浏览器自动化，图像处理，ip处理等方式进行反爬虫技术的通用化代码库。Star: 1218. Lang: Python.
+* [WeFlow](https://github.com/Tencent/WeFlow) - 一个基于 tmt-workflow 前端工作流的开发工具。Star: 2314. Lang: Js.
+* [tensorflow](https://github.com/yao62995/tensorflow) - 图解tensorflow 源码。Star: 480.
+* [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - 强大的Mac命令行工具，减轻命令使用记忆负担。Star: 6697.
 
 > Blog
-* [提高驾驶技术：用GAN去除(爱情)动作片中的马赛克和衣服](https://zhuanlan.zhihu.com/p/27199954?utm_source=wechat_timeline&utm_medium=social&from=timeline&isappinstalled=1) 
-* [TiDB 架构的演进和开发哲学](https://zhuanlan.zhihu.com/p/25142743) 
-* [7-10倍写入性能提升:剖析WiredTiger数据页无锁及压缩黑科技](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547449&idx=1&sn=f2854a3652fda00a0a25a7cd33b44045&scene=21#wechat_redirect) 
-* [微博数据库那些事儿：3个变迁阶段背后的设计思想](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=404194006&idx=1&sn=81ce1b82992d9535d84d7ce521f95dc4&scene=21#wechat_redirect)
+* [自然语言处理技术（NLP）在推荐系统中的应用](http://geek.csdn.net/news/detail/208281) 
+* [Linux 基金会运作流程](http://www.techug.com/post/why-the-visit-china-of-linus-torvalds-late-20-years.html) 
+* [Kotlin的一些优点](http://www.techug.com/post/kotlin-is-a-important-language-or-speculation.html) 
+* [Stack Overflow迁移到HTTPS经验总结](http://www.techug.com/post/https-on-stack-overflow-the-end-of-a-long-road.html) 
+* [10大深网搜索引擎](http://www.techug.com/post/top-10-deep-web-search-engines-which-gives-deep-information.html) 
+* [再论AlphaGo](http://www.techug.com/post/alphago-creator-a-mistake-of-go.html) 
