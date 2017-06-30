@@ -1,28 +1,23 @@
-## 2017-06-30
+
+## 2017-07-01
 
 > News
-* [陈磊接任迅雷 CEO](http://finance.qq.com/a/20170629/044305.htm) - 陈布斯？
-* [Apache Kafka 0.11.0.0 发布](https://www.oschina.net/news/86282/apache-kafka-0-11-0-0) - 支持消息去重、事务等众多feature。
-* [乐视手机败走印度](http://www.donews.com/news/detail/4/2958576.html)
-* [Petya背后可能是一次国家级攻击](http://www.freebuf.com/news/138763.html)
+* [Uber迎来新里程碑 全球接单量突破50亿份](http://www.donews.com/news/detail/1/2958771.html)
+* [Uber为留住司机考虑发放股票薪酬](http://www.cnbeta.com/articles/tech/627467.htm)
+* [百度下周公布自动驾驶软件的首批汽车制造伙伴 含奇瑞](http://www.cnbeta.com/articles/tech/627497.htm)
 
 > Github Repo
-* [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - 一个C++实现的graphql parser。Star: 412. Lang: C++.
-* [json-to-go](https://github.com/mholt/json-to-go) - 根据json字符串定义一个Go Struct。Star: 728. Lang: Golang.
-* [zsocket](https://github.com/nathanjsweet/zsocket) - 一个实现了socket内容零拷贝的库。Star: 296. Lang: Golang.
-* [hyperloglog](https://github.com/axiomhq/hyperloglog) - hyperloglog的Golang实现。Star: 422. Lang: Golang.
-* [directio](https://github.com/ncw/directio) - 这个包可以绕过os系统的buffer直接读写磁盘，特别适用于重要的不能丢的数据，如数据库log等。Star: 74. Lang: Golang.
-* [otter](https://github.com/alibaba/otter) - otter支持整个机房的架构为双A，两边均可写，鼎鼎大名的canal是它的一个子项目。Star: 1. Lang: Java.
-* [ava](https://github.com/avajs/ava) - ava是mocha的替代品，虽然 JavaScript 是单线程，但在 Node.js 里由于其异步的特性使得 IO 可以并行。AVA 利用这个优点让你的测试可以并发执行，这对于 IO 繁重的测试特别有用。Star: 10589. Lang: Js.
-* [prettier](https://github.com/prettier/prettier) - Js、JSX、Flow、TypeScript、CSS、JSON和GraphQL代码格式化工具。Star: 11992. Lang: Js.
-* [metabase](https://github.com/metabase/metabase) - Metabase 把数据分析常用的查询通过通过一个易于操作的界面来操作，这样，不懂 SQL 的业务人员也可以快速掌握业务数据。Star: 6064. Lang: Js.
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - 开源系统管理工具清单。Star: 15400. Lang: Markdown.
+* [vagga](https://github.com/tailhook/vagga) - 用户态容器。Star: 1164. Lang: Rust.
+* [Familia](https://github.com/baidu/Familia) - Familia 开源项目包含文档主题推断工具、语义匹配计算工具以及基于工业级语料训练的三种主题模型：Latent Dirichlet Allocation(LDA)、SentenceLDA 和Topical Word Embedding(TWE)。 支持用户以“拿来即用”的方式进行文本分类、文本聚类、个性化推荐等多种场景的调研和应用。考虑到主题模型训练成本较高以及开源主题模型资源有限的现状，我们会陆续开放基于工业级语料训练的多个垂直领域的主题模型，以及这些模型在工业界的典型应用方式，助力主题模型技术的科研和落地。。Star: 312. Lang: C++.
+* [osv](https://github.com/cloudius-systems/osv) - 一种新的云操作系统。Star: 2480. Lang: C.
+* [influxdb-relay](https://github.com/influxdata/influxdb-relay) - 实现influxdb双写，保证两个influxdb的数据同步。Star: 246. Lang: Golang.
+* [go-torch](https://github.com/uber/go-torch) - uber出品的go火焰图工具。Star: 1956. Lang: Golang.
+* [unconvert](https://github.com/mdempsky/unconvert) - golang代码检查工具--检查无意义的类型转换。Star: 174. Lang: Golang.
+* [VirtualAPK](https://github.com/didi/VirtualAPK) - 滴滴出品的安卓插件系统。Star: 1607. Lang: Java.
 
 > Blog
-* [国内互联网公司github网址](http://www.cnblogs.com/cangqiongbingchen/p/7091626.html) 
-* [像牛人一样改进你的Go代码](http://www.techug.com/post/lint-your-golang-code-like-a-mad-man.html) 
-* [计算存储分离之“数据存储高可用性设计”](https://mp.weixin.qq.com/s?__biz=MzIxNTQ0MDQxNg==&mid=2247483891&idx=1&sn=36f042c4b5d161d89137321562f59bb4&chksm=97990cbca0ee85aab6a6bb7b2ee3c5f5ab6b6af3c6177d8f2095caa92a09f1a89d78b4969637&mpshare=1&scene=1&srcid=0630r36b2hza0FBveg899Zw5&pass_ticket=WjP7Hi4E1cVI97%2FN%2BfjHdrSmcsRNwF88PCYM7pDZaP2Adp8BuIEHGjg61%2B62kefX#rd) 
-
-> Misc
-* [45岁以后的人生](http://www.techug.com/post/ruanyifeng-life-after-45.html) 
-* [腾讯是如何培养人才的？](https://mp.weixin.qq.com/s?__biz=MzA3NzgxMjkxNg==&mid=2649998784&idx=1&sn=73f8b8d8f335d24215e87ce09d950271&pass_ticket=WjP7Hi4E1cVI97%2FN%2BfjHdrSmcsRNwF88PCYM7pDZaP2Adp8BuIEHGjg61%2B62kefX) 
+* [CPU、内存、IO虚拟化关键技术及其优化探索](https://yq.aliyun.com/articles/71295?utm_campaign=developer&utm_medium=images&utm_source=cnblogs&utm_content=m_23975) 
+* [搭建亿万级别短信服务发送平台](https://yq.aliyun.com/articles/114585?spm=5176.100239.bloglist.5.9ven5Z)
+* [程序八仙](http://blog.csdn.net/wemedia/details.html?id=36684) 
+* [Unix Tiny shell的使用与分析 da](http://www.freebuf.com/sectool/138350.html) 
+* [SL预证书](http://www.freebuf.com/articles/web/138062.html) 
