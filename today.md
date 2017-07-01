@@ -1,23 +1,29 @@
-
-## 2017-07-01
+## 2017-07-02
 
 > News
-* [Uber迎来新里程碑 全球接单量突破50亿份](http://www.donews.com/news/detail/1/2958771.html)
-* [Uber为留住司机考虑发放股票薪酬](http://www.cnbeta.com/articles/tech/627467.htm)
-* [百度下周公布自动驾驶软件的首批汽车制造伙伴 含奇瑞](http://www.cnbeta.com/articles/tech/627497.htm)
+* [余额宝规模1.43万亿](https://news.cnblogs.com/n/572889/)
+* [美国拒绝向阿富汗女子机器人技术团队发签证](http://www.cnbeta.com/articles/tech/627549.htm)
+* [WCTF世界黑客大师赛落幕 中国台湾团队荣膺冠军](https://mp.weixin.qq.com/s?__biz=MjM5MzgxMTgwOA==&mid=2658253855&idx=2&sn=10614c866a09169415fe8cab5116b5fe&chksm=bd1440108a63c906ca765e1670d1f03e7033711b3a62146beac3f8c49cdebca2f17f1b624dc6&mpshare=1&scene=1&srcid=0701SnrdTexMgqlqs4fhgLxG&pass_ticket=lDsKOxyl5dYcj8HKR4OCS45iVVtJhok8kPB6nfr%2BFGdKdrluBNhhsaqQPh6oDYep#rd)
+
 
 > Github Repo
-* [vagga](https://github.com/tailhook/vagga) - 用户态容器。Star: 1164. Lang: Rust.
-* [Familia](https://github.com/baidu/Familia) - Familia 开源项目包含文档主题推断工具、语义匹配计算工具以及基于工业级语料训练的三种主题模型：Latent Dirichlet Allocation(LDA)、SentenceLDA 和Topical Word Embedding(TWE)。 支持用户以“拿来即用”的方式进行文本分类、文本聚类、个性化推荐等多种场景的调研和应用。考虑到主题模型训练成本较高以及开源主题模型资源有限的现状，我们会陆续开放基于工业级语料训练的多个垂直领域的主题模型，以及这些模型在工业界的典型应用方式，助力主题模型技术的科研和落地。。Star: 312. Lang: C++.
-* [osv](https://github.com/cloudius-systems/osv) - 一种新的云操作系统。Star: 2480. Lang: C.
-* [influxdb-relay](https://github.com/influxdata/influxdb-relay) - 实现influxdb双写，保证两个influxdb的数据同步。Star: 246. Lang: Golang.
-* [go-torch](https://github.com/uber/go-torch) - uber出品的go火焰图工具。Star: 1956. Lang: Golang.
-* [unconvert](https://github.com/mdempsky/unconvert) - golang代码检查工具--检查无意义的类型转换。Star: 174. Lang: Golang.
-* [VirtualAPK](https://github.com/didi/VirtualAPK) - 滴滴出品的安卓插件系统。Star: 1607. Lang: Java.
+* [Nim](https://github.com/nim-lang/Nim) -  Nim是一种静态类型、命令式的系统级编程语言，其主要特性包括编译到C的原生代码生成，不依赖于虚拟机；非跟踪垃圾收集器；跨模块内联；编译器和标准库都用Nim实现；强大的元编程能力，《Unix in Rust》的作者为它放弃了Rust。Star: 3751. Lang: Nim.
+* [go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - golang工具集合及使用示例。Star: 393. Lang: Golang & Markdown.
+* [kubeval](https://github.com/garethr/kubeval) - k8s配置文件校验工具。Star: 72. Lang: Golang.
+* [olap](https://github.com/ruisibi/olap) - 睿思BI-OLAP系统支持对数据表的多维查询，用户只需通过拖拽就可搭建自己的立方体并进行数据多维分析及可视化展现。Star: 8. Lang: Java.
+* [matrix](https://github.com/gonum/matrix) - matrix golang包。Star: 470. Lang: Golang.
+* [flutter](https://github.com/flutter/flutter) - Google 的工程师团队打造的一种新型的方式,用于创建高性能、跨平台的移动应用UI框架。Star: 5454. Lang: dart.
 
 > Blog
-* [CPU、内存、IO虚拟化关键技术及其优化探索](https://yq.aliyun.com/articles/71295?utm_campaign=developer&utm_medium=images&utm_source=cnblogs&utm_content=m_23975) 
-* [搭建亿万级别短信服务发送平台](https://yq.aliyun.com/articles/114585?spm=5176.100239.bloglist.5.9ven5Z)
-* [程序八仙](http://blog.csdn.net/wemedia/details.html?id=36684) 
-* [Unix Tiny shell的使用与分析 da](http://www.freebuf.com/sectool/138350.html) 
-* [SL预证书](http://www.freebuf.com/articles/web/138062.html) 
+* [浅谈CAS在分布式ID生成方案上的应用 | 架构师之路](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960223&idx=1&sn=121716347174eedd6636b1c2c0b96047&chksm=bd2d06438a5a8f55d35add7dc99940c280264fa7caeacb21f7dc79884d00c050d0367a745f87&mpshare=1&scene=1&srcid=0701OP7blmSnmaBlQlneXX9T&pass_ticket=lDsKOxyl5dYcj8HKR4OCS45iVVtJhok8kPB6nfr%2BFGdKdrluBNhhsaqQPh6oDYep#rd) 
+* [MySQL双主一致性架构优化](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960253&idx=1&sn=cce01d9d305024b5cc7e1e7149507ae9&pass_ticket=lDsKOxyl5dYcj8HKR4OCS45iVVtJhok8kPB6nfr%2BFGdKdrluBNhhsaqQPh6oDYep) 
+* [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&mpshare=1&scene=1&srcid=0701XakO0NH0mCnGW7oD0Qws&pass_ticket=lDsKOxyl5dYcj8HKR4OCS45iVVtJhok8kPB6nfr%2BFGdKdrluBNhhsaqQPh6oDYep#rd) 
+
+> Misc
+* [金山帮江湖史](https://news.cnblogs.com/n/572899/) 
+	1 雷军说，女生写程序是没有前途的；
+	2 三十岁之前要入对行，三十岁之后要跟对人；
+	3 每个人心中都住着一个庄子，一个孔子——这是中国人底层的 DNA。当你春风得意的时候，家国情怀就出来了，你愿意扬帆起航，出发上路。而当你失意的时候，老庄的部分又升起了，你会更理性、客观的去看这个世界；
+	4 冯鑫说，在天地之间要找一个自己的位置；
+	5 陈睿说，这件事儿做不做得成，跟你我的努力都没有关系，要放宽心；
+	6 王欣认为，一个人的成长，不在于年龄，而在于内省的能力，我也曾那么努力，努力过后那么沮丧，其实是模糊了努力和精进两个词之间的区别，努力只是量的横向增加，是体力上劳累，但没有内省，没有自我觉察，精进是每次做完以后都要回顾一下我从这里学会和收获什么，佛家讲，你只要能够内省看自己，就能够获得成长；
