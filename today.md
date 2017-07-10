@@ -1,22 +1,19 @@
-
-## 2017-07-09
+## 2017-07-10
 
 > News
-* [微软首席信息官离职](https://news.cnblogs.com/n/573403/)
-* [美军研发新型飞鼠无人机 主要用于侦查](http://www.cnbeta.com/articles/tech/629825.htm)
-* [Windows Store可下载Linux发行版](http://www.linuxdiyf.com/viewarticle.php?id=567901)
+
+* [glibc 创始人兼维护者辞职](http://www.cnbeta.com/articles/soft/629989.htm)
+* [Petya 勒索软件作者公开解密主密钥](http://www.cnbeta.com/articles/tech/629977.htm)
 
 > Github Repo
-* [gg](https://github.com/fogleman/gg) - Golang 2D图形库。Star: 943. Lang: Golang.
-* [doorman](https://github.com/youtube/doorman) - 一个客户端限速解决方案。Star: 1006. Lang: Golang.
-* [orchestrator](https://github.com/github/orchestrator) -  MySQL 复制拓扑管理和可视化工具。Star: 721. Lang: Golang.
-* [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Netflix专门开发的一系列捣乱工具之一，这是一套用来故意把服务器搞下线的软件，可以测试云环境的恢复能力。Star: 2573. Lang: Golang.
-* [getlantern](https://github.com/getlantern/forum) - lantern官方论坛。Star: 6226. Lang: Markdown.
-* [mqtt](https://github.com/mcxiaoke/mqtt) - mqtt 3.1.1协议 中文翻译。Star: 1064. Lang: Markdown.
-
-> Blog
-* [etcd raft library设计原理和使用](http://www.cnblogs.com/foxmailed/p/7137431.html) 
-* [Raft一致性协议](http://www.cnblogs.com/foxmailed/p/3418143.html) 
+* [bcc](https://github.com/iovisor/bcc) - 内核跟踪调试工具。Star: 3203. Lang: C++&Lua.
+* [pool](https://github.com/silenceper/pool) - Golang连接池。Star: 44. Lang: Golang.
+* [envoy-microservices-patterns](https://github.com/christian-posta/envoy-microservices-patterns) - 基于proxy的微服务框架范例。Star: 28. Lang: Bash.
+* [GoAgent-Always-Available](https://github.com/out0fmemory/GoAgent-Always-Available) - 一直可用的GoAgent，会定时扫描可用的google gae ip，提供可自动化获取ip运行的版本。Star: 645. Lang: Python.
+* [wxpy](https://github.com/youfou/wxpy) - 微信机器人工具包。Star: 2548. Lang: Python.
+* [easy-admin](https://github.com/happen-zhang/easy-admin) - 快速搭建一个方便的企业后台信息管理系统，并且提供简洁易用的管理界面。Star: 246. Lang: PHP.
+* [rust-anthology](https://github.com/brson/rust-anthology) - rust编程最佳实践。Star: 26. Lang: Markdown.
 
 > Misc
-* [开源改变世界 GitHub 对软件开发业造成的冲击](https://www.oschina.net/news/86592/github-impact) 
+* [对开发者有用的英文网站合集](http://www.techug.com/post/english-websites-for-developer.html) 
+* [揭秘华为、百度、腾讯、阿里员工高工资背后的辛酸](http://ifinance.ifeng.com/15519583/news.shtml?&back) 
