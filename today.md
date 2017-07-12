@@ -1,27 +1,23 @@
-## 2017-07-11
+## 2017-07-12
 
 > News
-* [Stripe 宣布与支付宝达成全球合作](https://news.cnblogs.com/n/573516/)
-* [乐视本月暂不发离职员工的工资](https://news.cnblogs.com/n/573520/)
-* [全球70%比特币挖自中国](https://news.cnblogs.com/n/573521/) 
-* [极客帮蒋涛和36氪撕逼](https://news.cnblogs.com/n/573522/)
-* [流氓软件SpyDealer利用Baidu Easy Root盗取QQ、微信等40多款应用的数据](http://www.donews.com/news/detail/1/2959790.html)
+* [TypeScript 2.4发布](https://news.cnblogs.com/n/573583/)
+* [火狐准备完全取消对沃通、Startcom和CNNIC的信任](https://news.cnblogs.com/n/573584/)
+* [Fedora 26 正式发布](https://www.oschina.net/news/86667/fedora-26-released)
+* [腾讯发行1787万新股奖励10800名员工](http://www.toutiao.com/i6441318830768652802/?tt_from=weixin&utm_campaign=client_share&from=timeline&app=news_article&utm_source=weixin&iid=11424067984&utm_medium=toutiao_ios&wxshare_count=2&pbid=6439138562561951246)
 
 > Github Repo
-* [dolphin](https://github.com/dolphin-emu/dolphin) - 天堂游戏主机 GameCube 和 Wii 的模拟器。它可以让电脑玩家以全高清 (1080p) 画质体验这两款主机的游戏，还具有兼容电脑手柄、加速、多人联网等增强功能。Star: 3542. Lang: C++ & Java.
-* [pcsx2](https://github.com/PCSX2/pcsx2) - Playstation2模拟器。Star: 1756. Lang: C++.
-* [apfree_wifidog](https://github.com/liudf0716/apfree_wifidog) - ApFree WiFiDog 在完全兼容原版WiFiDog的基础上，在功能、性能和稳定性方面做了大量工作、改进及优化，目前在坤腾固件中广泛使用。Star: 178. Lang: C.
-* [mobx](https://github.com/mobxjs/mobx) - Js状态机，MobX 是一个经过战火洗礼的库，它通过透明的函数响应式编程(transparently applying functional reactive programming - TFRP)使得状态管理变得简单和可扩展。MobX背后的哲学很简单:任何源自应用状态的东西都应该自动地获得，React 和 MobX 是一对强力组合。Star: 9920. Lang: Typescript.
-* [TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - Youtube TensorFlow学习资源集合。Star: 1369. Lang: Python.
-* [docker-mailserver](https://github.com/tomav/docker-mailserver) - 一个全栈的可用docker部署的邮件服务器。Star: 1741. Lang: Bash.
-* [UniLua](https://github.com/xebecnan/UniLua) - C#实现的lua 5.2，完全兼容Unity。Star: 842. Lang: C#.
-* [api-guidelines](https://github.com/Microsoft/api-guidelines) - 微软REST API开发指南。Star: 6581. Lang: Markdown.
+* [ggez](https://github.com/ggez/ggez) - 一款Rust实现的游戏。Star: 158. Lang: Rust.
+* [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Rust实现的kv db， 可以实现ACID类型事务。Star: 823. Lang: Rust.
+* [tiedot](https://github.com/HouzuoGuo/tiedot) - Go实现的一种NoSQL文档数据库，数据以JSON形式存储。Star: 1855. Lang: Golang.
+* [the-coding-interview](https://github.com/mre/the-coding-interview) - 程序员面试题集锦。Star: 228. Lang: Java & Rust etc.
+* [eta](https://github.com/typelead/eta) - 能在JVM上运行的Haskell方言，兼容GHC 7.10.3's Haskell。Star: 1316. Lang: Haskell & C++ & Java & Python & Rust.
 
 > Blog
-* [一个可以绕过多数杀软的木马生成框架](http://www.freebuf.com/sectool/139455.html) 
-* [一种利用远程桌面的新型攻击方式](http://www.freebuf.com/articles/system/139156.html) 
-* [使用redis和zookeeper实现分布式锁](https://segmentfault.com/a/1190000010108583) 
+* [Zookeeper原理](http://www.cnblogs.com/java-wgm/p/7150509.html) - 初级入门，高手慎入！
+* [Go 原生socket由浅入深](https://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=2653369968&idx=1&sn=b2a762077c5a0dede36dd2f6eb6f0de2&chksm=bce4d66a8b935f7cd5ba128e89ddaeed2a754d5b7d48e04c328953abc1ab706767d8a2eb8104&mpshare=1&scene=1&srcid=0712wyGe2diuOQi16J90w5ZY&pass_ticket=XFVLMqww2v0YY%2BfJoZQaVHZ%2BUA3LCT12y7i%2FnwdmR5KF4PH2%2BQ5%2FFiNpZWIvLR94#rd) 
 
 > Misc
-* [老司机血泪劝告：买MacBook Pro一定不要买顶配！](https://news.cnblogs.com/n/573424/) 
-* [商人罗振宇：随风而变 不耽误打脸](http://www.donews.com/news/detail/4/2959793.html) - 如果一个人没有天赋但能把一件事做到「死磕」。
+* [深度解密个性化资讯推荐技术](https://mp.weixin.qq.com/s?__biz=MzA3MjY1MTQwNQ==&mid=2649823442&idx=1&sn=05a1a974b38c5c43c0c5b07636642424&chksm=871ebf30b06936260cf537084c9dc783c75477b78a0a3e9bd7b59ff985751e115f0ed8d4f442&mpshare=1&scene=1&srcid=0712eyuUIQk9FIAYMzw74VlD&pass_ticket=XFVLMqww2v0YY%2BfJoZQaVHZ%2BUA3LCT12y7i%2FnwdmR5KF4PH2%2BQ5%2FFiNpZWIvLR94#rd) 
+* [金融行业数据库的新选择---OceanBase](https://mp.weixin.qq.com/s?__biz=MzI5OTUxMDk1Mw==&mid=2247483786&idx=1&sn=af912b0b101d8abee6ca8878f1507119&chksm=ec943c4cdbe3b55ad6941973188de35bdaa19cf3072b7032f88bf6a30c807cdef93be83bb733&mpshare=1&scene=1&srcid=0711LcaxANue8LvXLRWMxdHd&pass_ticket=XFVLMqww2v0YY%2BfJoZQaVHZ%2BUA3LCT12y7i%2FnwdmR5KF4PH2%2BQ5%2FFiNpZWIvLR94#rd)
+
