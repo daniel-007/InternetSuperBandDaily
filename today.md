@@ -1,25 +1,20 @@
-## 2017-07-13
+## 2017-07-14
 
 > News
-* [《英雄联盟》斥国产游戏重度抄袭](https://news.cnblogs.com/n/573703/)
-* [斯坦福开源无Bug的随机计算图Certigrad](https://news.cnblogs.com/n/573690/)
+* [癌症治疗方法-诺华CAR-T疗法获FDA专家全票推荐批准上市](https://news.cnblogs.com/n/573764/)
+* [互联网大佬出生地地图](https://news.cnblogs.com/n/573773/)
+* [腾讯走进麻省理工，全球选拔AI创业团队](http://www.donews.com/news/detail/4/2960433.html)
+* [博通芯片 BroadPwn曝大漏洞，影响到数百万Android及iOS设备](http://www.freebuf.com/news/139773.html)
 
 > Github Repo
-* [mock-io](https://github.com/carllerche/mock-io) - Rust io::Read & io::Write两个库的mock实现。Star: 6. Lang: Rust.
-* [joda-time](https://github.com/JodaOrg/joda-time) - Java的date和time替代库实现。star: 2989. Lang: Java.
-* [ws](https://github.com/gobwas/ws) - 一 依据RFC6455实现websocket。Star: 313. Lang: Golang.
-* [mesh](https://github.com/weaveworks/mesh) - 构建分布式应用系统工具，它实现了gossip协议，可以做到单播、广播等，它自身可以认为是一种AP系统。Star: 176. Lang: Golang.
-* [timeout](https://github.com/yaman/timeout) - 一个简洁的http和tcp mock实现。Star: 5. Lang: Golang.
-* [go-socks5](https://github.com/armon/go-socks5) - socks5 golang实现。Star: 303. Lang: Golang.
-* [go-pry](https://github.com/d4l3k/go-pry) - 实现Golang以脚本方式在命令行进行交互式编程。Star: 388. Lang: Golang.
-* [go-chart](https://github.com/wcharczuk/go-chart) - chart绘制库Golang实现。Star: 1. Lang: Golang.
-* [miniredis](https://github.com/alicebob/miniredis) - redis单元测试库stub实现，可以作为redis server的mock。Star: 341. Lang: Golang.
-* [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 跟我学习部署k8s集群。Star: 656. Lang: Markdown.
+* [timescaledb](https://github.com/timescale/timescaledb) - 一个PostgreSQL扩展库，可以做到基于时间和空间大小自动进行分区。Star: 1. Lang: C.
+* [sky-walking](https://github.com/wu-sheng/sky-walking) - 支持OpenTracing的分布式追踪系统，可支持dubbo和motan。Star: 863. Lang: Java.
+* [gotty](https://github.com/yudai/gotty) - GoTTY是一个用Go语言开发的工具，这个工具可以把你的Uinx系列操作系统的命令字符终端，共享成普通的网页应用展示出来。使用tmux工具进行终端分屏。Star: 7941. Lang: Golang.
+* [freecache](https://github.com/coocood/freecache) - 是一个 Go 语言的缓存库,无额外的 GC 负荷。数百万对象的垃圾收集延迟仅在数百毫秒。Star: 1358. Lang: Golang.
+* [jvm.go](https://github.com/zxh0/jvm.go) - Go实现的JVM。Star: 1918. Lang: Golang.
+* [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Js 3D游戏框架。Star: 1. Lang: Js.
+* [hyperledger](https://github.com/hyperledger/hyperledger) - 超级账本（hyperledger）是Linux基金会于2015年发起的推进区块链数字技术和交易验证的开源项目。Star: 2087. Lang: Markdown.
+* [awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB用法大全。Star: 2711. Lang: Markdown.
 
 > Blog
-* [火球（Fireball）病毒分析](http://www.freebuf.com/news/139691.html) 
-* [Apache Ambry架构](https://mp.weixin.qq.com/s?__biz=MzIwMjE5MDU4OA==&mid=2653121957&idx=1&sn=4574b8898887405b4a2ec47f90b5a630&chksm=8d35b636ba423f209eae7c2456ce011ff8c38752f371ffdfaf9d131aa31ca4811e6b55a01c39&scene=21#wechat_redirect) 
-* [新浪微博混合云架构如何轻松应对热点事件的高峰值流量](https://mp.weixin.qq.com/s?__biz=MzIwMjE5MDU4OA==&mid=2653121965&idx=1&sn=6866294d7da486e71d6323629077c3ac&chksm=8d35b63eba423f28beaf959cd5d2e6376de24b965da1b2e2b2d36b8499de2ca380d19f90ea38&scene=21#wechat_redirect) 
-
-> Misc
-* [饿了么四大创始人之一汪渊访谈](http://www.donews.com/news/detail/4/2960214.html) 
+* [raft如何实现Linearizable Read](http://www.cnblogs.com/foxmailed/p/7161878.html) - 推荐看看作者的其他blog，对分布式系统了解很深。
