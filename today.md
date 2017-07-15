@@ -1,20 +1,22 @@
-## 2017-07-14
+## 2017-07-15
 
 > News
-* [癌症治疗方法-诺华CAR-T疗法获FDA专家全票推荐批准上市](https://news.cnblogs.com/n/573764/)
-* [互联网大佬出生地地图](https://news.cnblogs.com/n/573773/)
-* [腾讯走进麻省理工，全球选拔AI创业团队](http://www.donews.com/news/detail/4/2960433.html)
-* [博通芯片 BroadPwn曝大漏洞，影响到数百万Android及iOS设备](http://www.freebuf.com/news/139773.html)
+* [Redis 4.0.0 正式发布](https://www.oschina.net/news/86769/redis-4-0-0?from=timeline) 
+* [Rocket Lab的廉价火箭](https://news.cnblogs.com/n/573823/)
+* [Facebook印度活跃用户超美国成全球第一](https://news.cnblogs.com/n/573859/)
+* [海底河流](http://www.cnbeta.com/articles/tech/631827.htm)
+* [Pin的开发者钟颖与锤子科技撕逼](http://www.cnbeta.com/articles/tech/631819.htm)
+* [腾讯宣布放弃朋友网](http://www.donews.com/news/detail/1/2960595.html)
 
 > Github Repo
-* [timescaledb](https://github.com/timescale/timescaledb) - 一个PostgreSQL扩展库，可以做到基于时间和空间大小自动进行分区。Star: 1. Lang: C.
-* [sky-walking](https://github.com/wu-sheng/sky-walking) - 支持OpenTracing的分布式追踪系统，可支持dubbo和motan。Star: 863. Lang: Java.
-* [gotty](https://github.com/yudai/gotty) - GoTTY是一个用Go语言开发的工具，这个工具可以把你的Uinx系列操作系统的命令字符终端，共享成普通的网页应用展示出来。使用tmux工具进行终端分屏。Star: 7941. Lang: Golang.
-* [freecache](https://github.com/coocood/freecache) - 是一个 Go 语言的缓存库,无额外的 GC 负荷。数百万对象的垃圾收集延迟仅在数百毫秒。Star: 1358. Lang: Golang.
-* [jvm.go](https://github.com/zxh0/jvm.go) - Go实现的JVM。Star: 1918. Lang: Golang.
-* [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Js 3D游戏框架。Star: 1. Lang: Js.
-* [hyperledger](https://github.com/hyperledger/hyperledger) - 超级账本（hyperledger）是Linux基金会于2015年发起的推进区块链数字技术和交易验证的开源项目。Star: 2087. Lang: Markdown.
-* [awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB用法大全。Star: 2711. Lang: Markdown.
-
-> Blog
-* [raft如何实现Linearizable Read](http://www.cnblogs.com/foxmailed/p/7161878.html) - 推荐看看作者的其他blog，对分布式系统了解很深。
+* [brotli](https://github.com/google/brotli) - Brotli无损压缩算法实现，其详细实现在RFC 7932中有详细描述。Star: 1. Lang: C.
+* [pp](https://github.com/k0kubun/pp) - golang struct彩色pretty输出。Star: 452. Lang: Golang.
+* [bigcache](https://github.com/allegro/bigcache) - 针对长数据的、可并发访问的、不会出现gc卡顿的缓存实现。Star: 1013. Lang: Golang.
+* [finn](https://github.com/tidwall/finn) - 采用Redis协议的快速Raft框架实现。Star: 337. Lang: Golang.
+* [gomodifytags](https://github.com/fatih/gomodifytags) - 一个可以为Golang struct生成tag的工具。Star: 218. Lang: Golang.
+* [uuid](https://github.com/google/uuid) - Golang uuid实现库。Star: 268. Lang: Golang.
+* [Hawkeye](https://github.com/0xbug/Hawkeye) - 监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。Star: 65. Lang: Python + Js.
+* [pgbadger](https://github.com/dalibo/pgbadger) - PostgreSQL Log快速解析器。Star: 1067. Lang: Js.
+* [mpeditor](https://github.com/ksky521/mpeditor) - MPEditor是专注于微信公众号的编辑阅读器，利用MPEditor可以使用 Markdown 语法编写微信公众号文章，编辑完后可以复制到公众号发布平台直接发布，真正的实现即看即所得（保证不会乱~）。Star: 31. Lang: Js.
+* [ethereumbook](https://github.com/ethereumbook/ethereumbook) - 以太币开发手册。Star: 400. Lang: Js.
+* [nginx-resources](https://github.com/fcambus/nginx-resources) - Nginx, Nginx + Lua, OpenResty and Tengine awesome readme。Star: 1919. Lang: Markdown.
