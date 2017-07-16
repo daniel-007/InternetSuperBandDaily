@@ -1,22 +1,23 @@
-## 2017-07-15
+## 2017-07-16
 
 > News
-* [Redis 4.0.0 正式发布](https://www.oschina.net/news/86769/redis-4-0-0?from=timeline) 
-* [Rocket Lab的廉价火箭](https://news.cnblogs.com/n/573823/)
-* [Facebook印度活跃用户超美国成全球第一](https://news.cnblogs.com/n/573859/)
-* [海底河流](http://www.cnbeta.com/articles/tech/631827.htm)
-* [Pin的开发者钟颖与锤子科技撕逼](http://www.cnbeta.com/articles/tech/631819.htm)
-* [腾讯宣布放弃朋友网](http://www.donews.com/news/detail/1/2960595.html)
+* [俄罗斯Uber与Yandex Taxi合并](https://news.cnblogs.com/n/573912/)
+* [贾跃亭美国有豪宅](https://news.cnblogs.com/n/573909/)
+* [彩虹5远远领先俄罗斯](http://mil.huanqiu.com/observation/2017-07/10984769.html) - 用了落后的活塞发动机，竟然被当成安静作为卖点，一脸懵逼
 
 > Github Repo
-* [brotli](https://github.com/google/brotli) - Brotli无损压缩算法实现，其详细实现在RFC 7932中有详细描述。Star: 1. Lang: C.
-* [pp](https://github.com/k0kubun/pp) - golang struct彩色pretty输出。Star: 452. Lang: Golang.
-* [bigcache](https://github.com/allegro/bigcache) - 针对长数据的、可并发访问的、不会出现gc卡顿的缓存实现。Star: 1013. Lang: Golang.
-* [finn](https://github.com/tidwall/finn) - 采用Redis协议的快速Raft框架实现。Star: 337. Lang: Golang.
-* [gomodifytags](https://github.com/fatih/gomodifytags) - 一个可以为Golang struct生成tag的工具。Star: 218. Lang: Golang.
-* [uuid](https://github.com/google/uuid) - Golang uuid实现库。Star: 268. Lang: Golang.
-* [Hawkeye](https://github.com/0xbug/Hawkeye) - 监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。Star: 65. Lang: Python + Js.
-* [pgbadger](https://github.com/dalibo/pgbadger) - PostgreSQL Log快速解析器。Star: 1067. Lang: Js.
-* [mpeditor](https://github.com/ksky521/mpeditor) - MPEditor是专注于微信公众号的编辑阅读器，利用MPEditor可以使用 Markdown 语法编写微信公众号文章，编辑完后可以复制到公众号发布平台直接发布，真正的实现即看即所得（保证不会乱~）。Star: 31. Lang: Js.
-* [ethereumbook](https://github.com/ethereumbook/ethereumbook) - 以太币开发手册。Star: 400. Lang: Js.
-* [nginx-resources](https://github.com/fcambus/nginx-resources) - Nginx, Nginx + Lua, OpenResty and Tengine awesome readme。Star: 1919. Lang: Markdown.
+* [vegeta](https://github.com/tsenart/vegeta) - Golang HTTP压测工具。Star: 5991. Lang: Golang.
+* [gcvis](https://github.com/davecheney/gcvis) - Go 1.6 数据GC可视化工具。Star: 705. Lang: Golang.
+* [oklog](https://github.com/oklog/oklog) - OK Log是一个分布式的协同免费 coördination 日志管理系统，用于大的集群。该方案的理念是：简单易懂，操作方便，易于推广。Star: 1690. Lang: Golang.
+* [mmap-go](https://github.com/edsrzf/mmap-go) - mmap golang实现。Star: 245. Lang: Golang.
+* [tile38](https://github.com/tidwall/tile38) - 地理位置空间数据库，可以存储经纬度、外包矩形、空间xyz坐标、地理位置hash和GeoJSON。Star: 3246. Lang: Golang.
+* [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - 各种代码规范。Star: 646. Lang: Markdown.
+
+> Blog
+* [再论接口](http://www.cppblog.com/huaxiazhihuo/archive/2017/07/15/215105.html) 
+* [stl的缺陷抽象不足](http://www.cppblog.com/huaxiazhihuo/archive/2017/07/09/215067.html) 
+* [非完美的stl](http://www.cppblog.com/huaxiazhihuo/archive/2017/07/07/215060.html) 
+* [Google Go 语言从入门到应用所需要的开源项目](https://www.ctolib.com/topics-102797.html) 
+
+> Misc
+* [华大基因汪建](http://www.cnbeta.com/articles/tech/631945.htm) - 软文。
