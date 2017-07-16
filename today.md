@@ -4,6 +4,7 @@
 * [俄罗斯Uber与Yandex Taxi合并](https://news.cnblogs.com/n/573912/)
 * [贾跃亭美国有豪宅](https://news.cnblogs.com/n/573909/)
 * [彩虹5远远领先俄罗斯](http://mil.huanqiu.com/observation/2017-07/10984769.html) - 用了落后的活塞发动机，竟然被当成安静作为卖点，一脸懵逼
+* [中美分别着手研发非冯•诺依曼处理器](https://mp.weixin.qq.com/s?__biz=MzI3ODEwNDk4OQ==&mid=2654344696&idx=1&sn=b73937a6286c75a9130c61de6f72a6d0&chksm=f09eab0ac7e9221cdd35f5a965af178d88a218afbf7d39461957995c46ddf26501eb17f7c6f0&mpshare=1&scene=1&srcid=0716XhQJD9cK7skVKBVOlYc1&pass_ticket=tmfyr7gpuLSZdeUh4H3E6RtSwHL9%2Bc%2B0h%2BtrwiRicye1nvufaL1b9KcsBUwF%2FYBf#rd)
 
 > Github Repo
 * [vegeta](https://github.com/tsenart/vegeta) - Golang HTTP压测工具。Star: 5991. Lang: Golang.
