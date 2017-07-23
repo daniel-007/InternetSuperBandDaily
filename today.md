@@ -1,14 +1,21 @@
 
-## 2017-07-22
+## 2017-07-23
+
+> News
+* [比特币避免了分裂](https://news.cnblogs.com/n/574386/)
 
 > Github Repo
-* [crystal](https://github.com/crystal-lang/crystal) - 名为crystal的语言，语法类似Ruby，可进行静态类型语法检查，可调用C函数库。Star: 1. Lang: Golang.
-* [ginkgo](https://github.com/onsi/ginkgo) - Go单测框架。Star: 1614. Lang: Golang.
-* [httpfake](https://github.com/maxcnunes/httpfake) - Golang http测试server端mock框架。Star: 55. Lang: Golang.
-* [remix](https://github.com/ethereum/remix) - 以太坊编程IDE和工具集合。Star: 153. Lang: Js.
-* [platform.js](https://github.com/bestiejs/platform.js) - 浏览器平台检测工具。Star: 1623. Lang: Js.
-* [clientjs](https://github.com/jackspirou/clientjs) - 获取设备指纹Js库。Star: 356. Lang: Js.
-* [art-of-node](https://github.com/maxogden/art-of-node) - node.js编程指南。Star: 6621. Lang: Markdown.
+* [namazu](https://github.com/cuichengji/namazu) - 一款全文检索引擎。Star: 1. Lang: C.
+* [whsnbg](https://github.com/homewsn/whsnbg) - 一个C实现的可在嵌入式设备上运行的MQTT broker、MQTT-SN网关。Star: 14. Lang: C.
+* [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - 在Amazon Linux之上收集系统log or docker log or ecs-agent log。Star: 49. Lang: Bash.
+* [algorithms-primer](https://github.com/stacygohyunsi/algorithms-primer) - 以图形显示。Star: 1. Lang: Golang.
+* [tensorflow-ecosystem](https://github.com/tensorflow/ecosystem) - tensorflow生态系统集合描述。Star: 344. Lang: Markdown.
 
 > Blog
-* [Hadoop之父谈hadoop](http://geek.csdn.net/news/detail/216523) 
+* [log4go的全局封装Wrapper和标准log库函数的兼容](http://www.cnblogs.com/ccpaging/p/7218626.html) 
+* [路由器固件安全分析技术](https://www.vulbox.com/knowledge/detail/?id=42) 
+* [github编程语言分析](http://www.techug.com/post/analyzing-github-how-developers-change-programming-languages-over-time.html) 
+* [Go 实现泛型展开以及展开时计算](https://gocn.io/article/398) 
+
+> Misc
+* [计算机图形史之一只茶壶](http://www.techug.com/post/the-most-important-object-in-computer-graphics-history-is-this-teapot.html) 
