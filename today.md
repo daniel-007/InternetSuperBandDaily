@@ -1,21 +1,16 @@
-
-## 2017-07-23
+## 2017-07-24
 
 > News
-* [比特币避免了分裂](https://news.cnblogs.com/n/574386/)
+* [乐视之疯狂](https://news.cnblogs.com/n/574425/)
+* [Lyft宣布加入自动驾驶](http://www.donews.com/news/detail/1/2961214.html)
 
 > Github Repo
-* [namazu](https://github.com/cuichengji/namazu) - 一款全文检索引擎。Star: 1. Lang: C.
-* [whsnbg](https://github.com/homewsn/whsnbg) - 一个C实现的可在嵌入式设备上运行的MQTT broker、MQTT-SN网关。Star: 14. Lang: C.
-* [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - 在Amazon Linux之上收集系统log or docker log or ecs-agent log。Star: 49. Lang: Bash.
-* [algorithms-primer](https://github.com/stacygohyunsi/algorithms-primer) - 以图形显示。Star: 1. Lang: Golang.
-* [tensorflow-ecosystem](https://github.com/tensorflow/ecosystem) - tensorflow生态系统集合描述。Star: 344. Lang: Markdown.
+* [libquic](https://github.com/devsisters/libquic) - libquic C库。Star: 766. Lang: C.
+* [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - shadowsocks go实现。Star: 2869. Lang: Golang.
+* [sqlparser](https://github.com/xwb1989/sqlparser) - sql解析器。Star: 153. Lang: Golang.
+* [jobqueue](https://github.com/olivere/jobqueue) - 任务调度器。Star: 6. Lang: Golang.
+* [resume.github.com](https://github.com/resume/resume.github.com) - 根据你的github repo自动生成你的简历。Star: 29889. Lang: Js.
 
 > Blog
-* [log4go的全局封装Wrapper和标准log库函数的兼容](http://www.cnblogs.com/ccpaging/p/7218626.html) 
-* [路由器固件安全分析技术](https://www.vulbox.com/knowledge/detail/?id=42) 
-* [github编程语言分析](http://www.techug.com/post/analyzing-github-how-developers-change-programming-languages-over-time.html) 
-* [Go 实现泛型展开以及展开时计算](https://gocn.io/article/398) 
-
-> Misc
-* [计算机图形史之一只茶壶](http://www.techug.com/post/the-most-important-object-in-computer-graphics-history-is-this-teapot.html) 
+* [制造阿尔法狗手臂](http://www.freebuf.com/news/140586.html) 
+* [柏林噪声算法](http://www.cnblogs.com/leoin2012/p/7218033.html) 
