@@ -1,21 +1,19 @@
 
-## 2017-07-27
+## 2017-07-28
 
 > News
-* [大众承认欺诈美国](https://news.cnblogs.com/n/574652/)
-* [惠特曼辞去惠普公司董事长](http://www.cnbeta.com/articles/tech/635603.htm)
+* [上海广升科技大量收集Android手机短信、联系人等信息](http://www.freebuf.com/news/142075.html) 
 
 > Github Repo
-* [rustfmt](https://github.com/rust-lang-nursery/rustfmt) - rust代码格式化工具。Star: 1192. Lang: Rust.
-* [bleve](https://github.com/blevesearch/bleve) - Bleve是一个由Couchbase 团队基于Go语言开发的索引/检索库，它支持常用的检索和索引功能，如索引、检索、过滤、排序、聚合、高亮等。Star: 3396. Lang: Golang.
-* [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) - 一个idea IDE插件，可以通过wifi连接android手机进行调试，避免使用usb。Star: 2904. Lang: Java.
-* [wifi-password](https://github.com/rauchg/wifi-password) - wifi密码破解与生成。Star: 2479. Lang: bash.
-* [vagrant-persistent-storage](https://github.com/kusnier/vagrant-persistent-storage) - 给vagrant虚机创建固化的文件系统。Star: 181. Lang: Ruby.
-* [vagrant-lists](https://github.com/vagrant-lists/vagrant-lists.github.io) - 一些有用的vagrant插件。Star: 42. Lang: html.
+* [seastar](https://github.com/scylladb/seastar) - 一款高性能的无状态的网络库。Star: 2805. Lang: C++.
+* [highwayhash](https://github.com/google/highwayhash) - SipHash/HighwayHash实现。Star: 457. Lang: C++.
+* [go-git](https://github.com/src-d/go-git) - go实现的git。Star: 1399. Lang: Golang.
+* [sha256-simd](https://github.com/minio/sha256-simd) - 为intel和arm优化的sha256实现。Star: 119. Lang: Golang.
+* [cfilter](https://github.com/irfansharif/cfilter) - Cuckoo filter（基于bloom filter的一种更先进的可进行删除操作的filter）实现。Star: 671. Lang: Golang.
+* [git-tips](https://github.com/521xueweihan/git-tips) - git命令用法集锦。Star: 674. Lang: Markdown.
 
 > Blog
-* [“异鬼Ⅱ”Bootkit木马详细分析](http://www.freebuf.com/articles/web/141633.html) 
-* [一个生成各种进制格式IP的小工具](http://www.freebuf.com/sectool/140982.html) 
-* [Windows是如何把SQL Server引入到Linux的](http://geek.csdn.net/news/detail/227794) 
-* [服务治理](http://www.cnblogs.com/Zachary-Fan/p/service_manage_discovery.html) 
-* [mysql复制](http://www.cnblogs.com/magicsoar/p/7241441.html) 
+* [一款短小精致的SSH后门分析](http://www.freebuf.com/articles/system/140880.html) 
+* [利用木马进行挖矿](http://www.freebuf.com/news/141004.html) 
+* [旧瓶新酒之ngx_lua & fail2ban实现主动诱捕](http://www.freebuf.com/news/141469.html) 
+* [nmap使用](http://www.freebuf.com/news/141607.html) 
