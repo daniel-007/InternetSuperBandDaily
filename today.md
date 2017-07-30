@@ -9,7 +9,7 @@
 
 > Github Repo
 * [sentry](https://github.com/getsentry/sentry) - 跨平台多语言程序crash信息收集器。Star: 13347. Lang: Python.
-* [vice](https://github.com/matryer/vice) - 基于MQ（NATS/REDIS/NSQ etc），像进程内使用go channel一样实现跨进程通信。Star: 1. Lang: Golang.
+* [vice](https://github.com/matryer/vice) - 基于MQ（NATS/REDIS/NSQ etc），像进程内使用go channel一样实现跨进程通信。Star: 315. Lang: Golang.
 * [DrQA](https://github.com/facebookresearch/DrQA) - 依据从wikipedia获取资料制作的自动问答机器人。Star: 1026. Lang: Python.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - awesome bigdata list。Star: 4947. Lang: Markdown.
 
