@@ -1,18 +1,21 @@
-## 2017-07-30
+
+## 2017-08-01
 
 > News
-* [ChinaJoy 2017](http://hot.cnbeta.com/articles/game/636233.htm)
-* [Cellebrite又帮忙FBI破了台iPhone](http://www.cnbeta.com/articles/tech/636553.htm)
-* [卡巴斯基惹恼美国](http://www.cnbeta.com/articles/tech/636543.htm)
-* [贾跃亭在美国](http://www.cnbeta.com/articles/tech/636465.htm)
-* [许朝军涉赌博罪被批捕](http://www.cnbeta.com/articles/tech/636427.htm)
+* [Oculus首席科学家谈人机交互的未来](https://news.cnblogs.com/n/574907/)
 
 > Github Repo
-* [sentry](https://github.com/getsentry/sentry) - 跨平台多语言程序crash信息收集器。Star: 13347. Lang: Python.
-* [vice](https://github.com/matryer/vice) - 基于MQ（NATS/REDIS/NSQ etc），像进程内使用go channel一样实现跨进程通信。Star: 315. Lang: Golang.
-* [DrQA](https://github.com/facebookresearch/DrQA) - 依据从wikipedia获取资料制作的自动问答机器人。Star: 1026. Lang: Python.
-* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - awesome bigdata list。Star: 4947. Lang: Markdown.
+* [presto-ethereum](https://github.com/xiaoyao1991/presto-ethereum) - 在以太坊上执行SQL。Star: 252. Lang: Java.
+* [logger](https://github.com/orhanobut/logger) - Android平台java logger实现。Star: 7030. Lang: Java.
+* [go-fuzz](https://github.com/dvyukov/go-fuzz) - 一款随机测试工具。。Star: 1896. Lang: Golang.
+* [markdown-js](https://github.com/evilstreak/markdown-js) - js实现的markdown分析器。Star: 6051. Lang: Js.
+* [pouchdb](https://github.com/pouchdb/pouchdb) - 运行在浏览器里的db。Star: 9192. Lang: Js.
+* [what-happens-when](https://github.com/alex/what-happens-when) - google搜索过程详解。Star: 15423. Lang: Markdown.
 
 > Blog
-* [攻击者侵入系统后如何提升账户权限：提权技术详细分析](http://www.freebuf.com/news/141335.html) 
-* [seastar网络框架](http://www.seastar-project.org/) 
+* [Leveldb的实现原理](http://www.codeweblog.com/leveldb的实现原理/) 
+* [乌克兰如何会沦为俄罗斯的网络战试验场](http://www.freebuf.com/news/141277.html) 
+
+> Misc
+* [Winamp兴衰史](http://www.cnbeta.com/articles/soft/630023.htm) 
+* [亚洲金融风暴与发展中国家民族主义狂飙](http://cul.qq.com/a/20170730/003538.htm) 
