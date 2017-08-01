@@ -1,24 +1,27 @@
-
 ## 2017-08-01
 
 > News
-* [Oculus首席科学家谈人机交互的未来](https://news.cnblogs.com/n/574907/)
+* [暗网并不真正存在](https://www.oschina.net/news/87293/tor-dark-web)
+* [spotify准备上市](http://www.donews.com/news/detail/1/2962050.html)
 
 > Github Repo
-* [presto-ethereum](https://github.com/xiaoyao1991/presto-ethereum) - 在以太坊上执行SQL。Star: 252. Lang: Java.
-* [logger](https://github.com/orhanobut/logger) - Android平台java logger实现。Star: 7030. Lang: Java.
-* [go-fuzz](https://github.com/dvyukov/go-fuzz) - 一款随机测试工具。。Star: 1896. Lang: Golang.
-* [markdown-js](https://github.com/evilstreak/markdown-js) - js实现的markdown分析器。Star: 6051. Lang: Js.
-* [pouchdb](https://github.com/pouchdb/pouchdb) - 运行在浏览器里的db。Star: 9192. Lang: Js.
-* [what-happens-when](https://github.com/alex/what-happens-when) - google搜索过程详解。Star: 15423. Lang: Markdown.
+* [sql-parser](https://github.com/hyrise/sql-parser) - C++实现的SQL parser。Star: 1. Lang: C++.
+* [aurora](https://github.com/xuri/aurora) - 跨平台队列beanstalk server端console实现。Star: 195. Lang: Golang.
+* [depth](https://github.com/KyleBanks/depth) - go依赖树可视化。Star: 133. Lang: Golang.
+* [gost](https://github.com/ginuerzh/gost) - GO语言实现的安全隧道，gost可以自己处理请求，或者将请求转发给任意一个或多个代理节点。Star: 1008. Lang: Golang.
+* [gopacket](https://github.com/google/gopacket) - 类似于tcpdump的基于libcap的抓包工具golang实现。Star: 1342. Lang: Golang.
+* [bloom](https://github.com/willf/bloom) - 一个高质量的bloom filter实现。Star: 340. Lang: Golang.
+* [dnsproxy](https://github.com/ARwMq9b6/dnsproxy) - 防 DNS 缓存污染，兼顾查询质量与速度。Star: 61. Lang: Golang.
+* [Awesome-Deep-Learning-for-Chinese](https://github.com/Sambor123/Awesome-Deep-Learning-for-Chinese) - 最全的中文版深度学习资源索引，包括论文，慕课，开源框架，数据集等等。Star: 17. Lang: Markdown.
+* [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) - 谷歌全新开源人工智能系统TensorFlow官方文档中文版 。Star: 5912. Lang: Markdown.
+* [docs-cn](https://github.com/pingcap/docs-cn) - TiDB 中文技术文档。Star: 504. Lang: Markdown.
 
 > Blog
-* [Leveldb的实现原理](http://www.codeweblog.com/leveldb的实现原理/) 
-* [乌克兰如何会沦为俄罗斯的网络战试验场](http://www.freebuf.com/news/141277.html) 
-* [MySQL 死锁与日志二三事](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650073233&idx=1&sn=cc8fbb5fe2fb89655627ee7788f8b957&chksm=bedb33ff89acbae90b6782a5f47d0765b17f39f59ff51b547ac84a064b363c935dcd9d8b27c8&mpshare=1&scene=1&srcid=0731Ey9FcUOGfEFvAcUEm8vd&pass_ticket=1QKhTVgVBRmPZ3ydH1A0aBLDXxaZvHAMucNWfLV5aSAKPKbT9N6OPxG4D2zgt3xa#rd)
-* [神秘的Mac恶意软件“果蝇”曝光，已感染受害者多年](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650689458&idx=2&sn=d83104f1373c13f669fc8606f0fd19f2&chksm=bea63e6189d1b7776e8274f7590c3b6afb24a7a60b6509de28c11f21f54cb46e76dff339d693&mpshare=1&scene=1&srcid=07311I9LdhO4SUaJQqUr53SQ&pass_ticket=1QKhTVgVBRmPZ3ydH1A0aBLDXxaZvHAMucNWfLV5aSAKPKbT9N6OPxG4D2zgt3xa#rd)
-* [Sysdig：Linux服务器监控和排障利器](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651667567&idx=1&sn=974039d4b51d0c3a859fdf9ef1b96307&chksm=8bcbffc6bcbc76d0b924a7ec9bdac705d21797c47470b0a5a85df8a45db647ef6a7b62acba59&mpshare=1&scene=1&srcid=0731672TaBvpBECtntRa9gkh&pass_ticket=1QKhTVgVBRmPZ3ydH1A0aBLDXxaZvHAMucNWfLV5aSAKPKbT9N6OPxG4D2zgt3xa#rd)
+* [浅谈家用路由器安全变迁](http://www.freebuf.com/special/140817.html) 
+* [汇编、逆向工程基础篇](http://www.freebuf.com/news/others/86147.html) 
+* [pika及pika_hub binlog性能分析](https://mp.weixin.qq.com/s?__biz=MzI0NzAxMTgxNg==&mid=2456160427&idx=1&sn=01f56541f626c5abd556d505293146cf&chksm=fe24282cc953a13a886365196b38602880e845b377a288a9978d20b29f266f5e767e10e757f6&mpshare=1&scene=1&srcid=0801MWSgagizXGGaP1QaStRH&pass_ticket=Xp22wOK5xj%2FDKG6Dju65HaBDSIA5CFT3ALt%2BUcQ4x4G9JN1sM0efcECVwMyTKLlF#rd) 
+* [有赞延迟队列设计](https://mp.weixin.qq.com/s?__biz=MjM5NTY0MTY1OQ==&mid=2654510780&idx=1&sn=6f6dc70cac2f0abc388416ad2e9bcb3c&chksm=bd395ee88a4ed7febd78f7b48be0a875ead05acd6bd31b26b7e53e0c054362af470eac506009&mpshare=1&scene=1&srcid=0731BMIFmJr5ouULbqVqUuww&pass_ticket=Xp22wOK5xj%2FDKG6Dju65HaBDSIA5CFT3ALt%2BUcQ4x4G9JN1sM0efcECVwMyTKLlF#rd) 
+* [浅谈分布式消息技术 Kafka](https://mp.weixin.qq.com/s?__biz=MzA3MjY1MTQwNQ==&mid=2649823484&idx=1&sn=323e0d46052b14a411002ede2b1dd465&chksm=871ebf1eb06936087799618f71e8130fff80899182e41bad5257096471d80ff383a56cc513d9&mpshare=1&scene=1&srcid=0730vvSkyDYcopHjIbrK20g3&pass_ticket=Xp22wOK5xj%2FDKG6Dju65HaBDSIA5CFT3ALt%2BUcQ4x4G9JN1sM0efcECVwMyTKLlF#rd) 
 
-> Misc
-* [Winamp兴衰史](http://www.cnbeta.com/articles/soft/630023.htm) 
-* [亚洲金融风暴与发展中国家民族主义狂飙](http://cul.qq.com/a/20170730/003538.htm) 
+> Misc 
+* [张口知人](http://hot.cnbeta.com/articles/funny/636981.htm) 
