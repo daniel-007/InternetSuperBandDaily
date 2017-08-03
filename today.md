@@ -1,22 +1,27 @@
 
-## 2017-08-02
+## 2017-08-03
 
 > News
-* [京东员工可内部贷款100万](https://news.cnblogs.com/n/575084/)
-* [朝鲜动用国家机器开挖比特币](https://mp.weixin.qq.com/s?__biz=MjM5MDU4MjY2MA==&mid=2652854570&idx=1&sn=d3d6bcdd00b0789e61afebc1d539630d&chksm=bda96bc18adee2d7555b532d85b3c612acadc19c0c3fd2307f0b953b0d84f970dcc9776e00bf&mpshare=1&scene=1&srcid=0801MuNSX56KUqa0KLD7TkVo&pass_ticket=J3hJEFURhVrGK%2BITn6l2bMKhxtY1WL328%2FmvEds3zc5XFCV6MWoRU6uVLjX64vN3#rd)
-* [盛大游戏结束股权之争 回归A股更近一步](http://stock.qq.com/a/20170620/008641.htm)
+* [陈天桥完整对话视频](https://news.cnblogs.com/n/575154/)
+* [韩春雨NgAgo论文被自然撤稿](http://www.cnbeta.com/articles/tech/637741.htm)
+* [特斯拉工伤率高于屠宰场](http://www.cnbeta.com/articles/tech/637699.htm) 
+* [搅局者BCC不是比特币](http://www.cnbeta.com/articles/tech/637767.htm)
 
 > Github Repo
-* [dns](https://github.com/miekg/dns) - golang dns库实现。Star: 2261. Lang: Golang.
-* [go-astar](https://github.com/beefsack/go-astar) - A* 算法实现。Star: 201. Lang: Golang.
-* [wechat-spider](https://github.com/bowenpay/wechat-spider) - 微信公众号爬虫。Star: 1081. Lang: Python.
-* [zhihu-crawler](https://github.com/cpselvis/zhihu-crawler) - 知乎爬虫。Star: 15. Lang: Python.
-* [go-styleguide](https://github.com/bahlo/go-styleguide) - golang编码指南。Star: 69. Lang: Markdown.
+* [corollary](https://github.com/tcr/corollary) - 把Haskell代码编译为Rust代码。Star: 23. Lang: Rust.
+* [sonyflake](https://github.com/sony/sonyflake) - snakeoverflow算法变种实现。Star: 338. Lang: Golang.
+* [Sia](https://github.com/NebulousLabs/Sia) - 基于区块链的文件存储系统。Star: 1403. Lang: Golang.
+* [infectious](https://github.com/vivint/infectious) - Reed-Solomon前向纠错算法实现。Star: 20. Lang: Golang.
+* [collectdwin](https://github.com/bloomberg/collectdwin) - windows版collectd，用于数据收集。Star: 67. Lang: C#.
+* [medis](https://github.com/luin/medis) - mac redis客户端数据可视化工具。Star: 4435. Lang: Js.
+* [0x](https://github.com/davidmarkclements/0x) - Js火焰图。Star: 547. Lang: Js.
+* [GoBooks](https://github.com/dariubs/GoBooks) - 免费go电子书。Star: 3760. Lang: Markdown.
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md#%E5%90%88%E5%B9%B6%E5%88%86%E6%94%AF) - github使用手册。Star: 22656. Lang: Markdown.
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - github使用手册。Star: 22656. Lang: Markdown.
 
 > Blog
-* [将Windows的动态链接库移植到Linux下](http://www.freebuf.com/sectool/141767.html) 
-* [如何使用HackRF做一个简单的IMSI捕获器](http://www.freebuf.com/news/141988.html) 
-
-> Misc
-* [浅谈家用路由器安全变迁](https://mp.weixin.qq.com/s/vYW7MBvPEfPu4zoIlWKVBA) 
-* [这位老教授多年心血练就的最实用统计学](http://blog.csdn.net/wemedia/details.html?id=41788) 
+* [从字节码和 JVM 的角度解析 Java 核心类 String 的不可变特性](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650073299&idx=3&sn=94600481c17f756c88b4c2895aced01b&chksm=bedb33bd89acbaabc12fa602003e7359dc847b0d184233e82a7cc6dee3d154646500e78a81ed&mpshare=1&scene=1&srcid=08021vwm3TYNcCHEQdOn0FE4&pass_ticket=J3hJEFURhVrGK%2BITn6l2bMKhxtY1WL328%2FmvEds3zc5XFCV6MWoRU6uVLjX64vN3#rd) -
+* [Raft协议安全性保证](http://www.cnblogs.com/gaorong/p/7274681.html) 
+* [使用Go语言与Ethereum智能合约进行交互](http://geek.csdn.net/news/detail/229047) 
+* [用SSH解决大局域网反向端口转发问题](http://www.freebuf.com/articles/network/142034.html) 
+* [恶意充电宝的克星——USB安全接口](http://www.freebuf.com/news/141833.html) 
