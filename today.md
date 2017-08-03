@@ -6,6 +6,7 @@
 * [韩春雨NgAgo论文被自然撤稿](http://www.cnbeta.com/articles/tech/637741.htm)
 * [特斯拉工伤率高于屠宰场](http://www.cnbeta.com/articles/tech/637699.htm) 
 * [搅局者BCC不是比特币](http://www.cnbeta.com/articles/tech/637767.htm)
+* [乐视讨债人新诉求：接受股票房产电脑甚至酒水抵债](http://www.cnbeta.com/articles/tech/637315.htm)
 
 > Github Repo
 * [corollary](https://github.com/tcr/corollary) - 把Haskell代码编译为Rust代码。Star: 23. Lang: Rust.
@@ -25,3 +26,6 @@
 * [使用Go语言与Ethereum智能合约进行交互](http://geek.csdn.net/news/detail/229047) 
 * [用SSH解决大局域网反向端口转发问题](http://www.freebuf.com/articles/network/142034.html) 
 * [恶意充电宝的克星——USB安全接口](http://www.freebuf.com/news/141833.html) 
+
+> Misc
+* [贾跃亭迎来了白武士，却输了乐视](http://cj.sina.com.cn/article/detail/2949462582/147977)
