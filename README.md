@@ -9,7 +9,8 @@
 ## 2017-08-07
 
 > News
-* [Go&Scala最赚钱](https://www.oschina.net/news/87499/go-scala-are-the-most-lucrative-languages)
+* [富士康将在密歇根设立自动驾驶研发中心](http://www.donews.com/news/detail/1/2962621.html)
+* [马斯克透露特斯拉在中国建立超级工厂计划](http://www.donews.com/news/detail/1/2962601.html)
 
 > Github Repo
 * [blog_os](https://github.com/phil-opp/blog_os) - 用Rust写的一款os。Star: 877. Lang: Rust.
@@ -113,7 +114,7 @@
 * [0x](https://github.com/davidmarkclements/0x) - Js火焰图。Star: 547. Lang: Js.
 * [GoBooks](https://github.com/dariubs/GoBooks) - 免费go电子书。Star: 3760. Lang: Markdown.
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md#%E5%90%88%E5%B9%B6%E5%88%86%E6%94%AF) - github使用手册。Star: 22656. Lang: Markdown.
-* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - github使用手册。Star: 22656. Lang: Markdown.
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - 各个语言微服务架构以及相关技术列表。Star: 4323. Lang: Markdown.
 
 > Blog
 * [从字节码和 JVM 的角度解析 Java 核心类 String 的不可变特性](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650073299&idx=3&sn=94600481c17f756c88b4c2895aced01b&chksm=bedb33bd89acbaabc12fa602003e7359dc847b0d184233e82a7cc6dee3d154646500e78a81ed&mpshare=1&scene=1&srcid=08021vwm3TYNcCHEQdOn0FE4&pass_ticket=J3hJEFURhVrGK%2BITn6l2bMKhxtY1WL328%2FmvEds3zc5XFCV6MWoRU6uVLjX64vN3#rd) -

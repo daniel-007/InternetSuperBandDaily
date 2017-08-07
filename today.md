@@ -1,7 +1,8 @@
 ## 2017-08-07
 
 > News
-* [Go&Scala最赚钱](https://www.oschina.net/news/87499/go-scala-are-the-most-lucrative-languages)
+* [富士康将在密歇根设立自动驾驶研发中心](http://www.donews.com/news/detail/1/2962621.html)
+* [马斯克透露特斯拉在中国建立超级工厂计划](http://www.donews.com/news/detail/1/2962601.html)
 
 > Github Repo
 * [blog_os](https://github.com/phil-opp/blog_os) - 用Rust写的一款os。Star: 877. Lang: Rust.
