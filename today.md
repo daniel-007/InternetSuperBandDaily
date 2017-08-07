@@ -1,21 +1,20 @@
-
-## 2017-08-06
+## 2017-08-07
 
 > News
-* [豆瓣将要上市](https://news.cnblogs.com/n/575355/) - 重点在文中的景小姐，你懂得
+* [Go&Scala最赚钱](https://www.oschina.net/news/87499/go-scala-are-the-most-lucrative-languages)
 
 > Github Repo
-* [mockers](https://github.com/kriomant/mockers) - Rust mock库。Star: 88. Lang: Rust.
-* [meshbird](https://github.com/meshbird/meshbird) - go实现的分布式私有网络。Star: 1986. Lang: Golang.
-* [nakama](https://github.com/heroiclabs/nakama) - 社交游戏server实现。Star: 1. Lang: Golang.
-* [go-fs](https://github.com/mitchellh/go-fs) - 用go实现的FAT32文件系统。Star: 1. Lang: Golang.
-* [dcrd](https://github.com/decred/dcrd) - 区块链decred golang实现。Star: 112. Lang: Golang.
-* [uncompyle2](https://github.com/wibiti/uncompyle2) - python代码反编译工具。Star: 888. Lang: Python.
-* [tattle](https://github.com/kippandrew/tattle) - gossip协议实现。Star: 8. Lang: Python.
-* [faker.js](https://github.com/Marak/faker.js) - 可以为node.js程序和浏览器生成大量假数据。Star: 10920. Lang: Js.
+* [blog_os](https://github.com/phil-opp/blog_os) - 用Rust写的一款os。Star: 877. Lang: Rust.
+* [shellcheck](https://github.com/koalaman/shellcheck) - bash代码静态检查工具。Star: 8412. Lang: Haskell.
+* [FreeRouter_V2](https://github.com/lifetyper/FreeRouter_V2) - 一个适用于OpenWRT的全平台翻墙路由方案。Star: 997. Lang: Bash.
+* [virtualgo](https://github.com/GetStream/vg) - 根据配置自动构建go workspace。Star: 309. Lang: Golang.
+* [lighthouse](https://github.com/GoogleChrome/lighthouse) - chrome团队开源的网站性能评测工具。Star: 9854. Lang: Js.
 
 > Blog
-* [腾讯重磅AI产业报告：美国芯片、算法、NLP等领域全面压制中国](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652002024&idx=1&sn=49a40ea5a94e4ab2d947e59454553e78&chksm=f1212219c656ab0fc74cf19b972fba594ad8e2e59fe1c19c7accc0842514547d6e11fa5ff1e6&mpshare=1&scene=1&srcid=0803xJ644rxroYGyirj4KqEV&pass_ticket=dEAgXOiBTZ2rjv8mmWg%2B9sd8npePJh%2BIzC0SXjtIECZ6I21p41F3WwFTQUjCMDyx#rd) 
-* [PhxSQL设计与实现（详细版）](https://mp.weixin.qq.com/s?__biz=MzI4NDMyNTU2Mw==&mid=2247484012&idx=1&sn=9ee173ea254477d241a1e9505386d112&chksm=ebfc61b8dc8be8ae91eed7d465de85c53dfbd7eada4873af2139951280b8a47dd6dc680416a1&mpshare=1&scene=1&srcid=0803QZjQoSyPBdFSiXtfVvZo&pass_ticket=dEAgXOiBTZ2rjv8mmWg%2B9sd8npePJh%2BIzC0SXjtIECZ6I21p41F3WwFTQUjCMDyx#rd) 
-* [Motan RPC最新进展：新增跨语言及服务治理支持](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548939&idx=1&sn=28049e89ff66e2e3eb2e860b3d74030c&chksm=813a6013b64de905d8292a8e2e42652f823261af5077fa189a1dbf2e73b5cacc5e14b9b5c856&mpshare=1&scene=1&srcid=0803VCu1pyAxTSMdPnuqoaOD&pass_ticket=dEAgXOiBTZ2rjv8mmWg%2B9sd8npePJh%2BIzC0SXjtIECZ6I21p41F3WwFTQUjCMDyx#rd)
-* [Rust 语言如何帮助你防止 bug](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650073352&idx=3&sn=38250749b91188c3401e5eb5793d38ad&chksm=bedb326689acbb70d44accdd77f8fdf42a566d45c70892e9c91164d3b7172fc19b67ad10c490&mpshare=1&scene=1&srcid=0806GtNF6NQ0i3FZgIqeMyec&pass_ticket=dEAgXOiBTZ2rjv8mmWg%2B9sd8npePJh%2BIzC0SXjtIECZ6I21p41F3WwFTQUjCMDyx#rd)
+* [Iaas、Paas和Saas的区别](https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxOTAzMDEwMA%3D%3D%26mid%3D2652503495%26idx%3D1%26sn%3D3d83f004f8aa72783b7cad1cf04dd4a9%26chksm%3D802014fcb7579deac8f6636bc195da2ad7e153799ccc9406818e3a439fe083383f123758a27b%26mpshare%3D1%26scene%3D1%26srcid%3D0807aDPeYJOxbr4IlliYAvBg%23rd&skey=%40crypt_e40cda0f_985f0a7ec0d5ef0ff9e0b0000c4ca808&deviceid=e841539620482633&pass_ticket=yAhMGcRcTg7RKDYULVoryUPBht9xmrJi%252Boi4RT5rZR8b9CD3jULMIFHt4ap51NVy&opcode=2&scene=1&username=@adf6e37a451109de891f182f374f95ee6afa617c75b192c8adc6ce09baa2bd01) 
+* [Redis Cluster实战](https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NjkxMjA1MA%3D%3D%26mid%3D2247483829%26idx%3D1%26sn%3Da0ca27b17265c94101d8c8ef0dad2d73%26chksm%3Da6e34f689194c67ee8568a0154d55e36d67485b535812e6aa83a471c9cba1e681c3f5890abad%26mpshare%3D1%26scene%3D1%26srcid%3D0807HhHcdhpj8SVrozS7d2Jf%23rd&skey=%40crypt_e40cda0f_985f0a7ec0d5ef0ff9e0b0000c4ca808&deviceid=e841539620482633&pass_ticket=yAhMGcRcTg7RKDYULVoryUPBht9xmrJi%252Boi4RT5rZR8b9CD3jULMIFHt4ap51NVy&opcode=2&scene=1&username=@adf6e37a451109de891f182f374f95ee6afa617c75b192c8adc6ce09baa2bd01) 
+* [微博Redis6年优化历程](https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NjkxMjA1MA%3D%3D%26mid%3D2247483828%26idx%3D1%26sn%3D045ffcd05def7c4403221eb57485cb8c%26chksm%3Da6e34f699194c67f39a2a9b648fadcf444cc702ecfee5721c8638c06494cdaf4448d5c2b0f70%26mpshare%3D1%26scene%3D1%26srcid%3D0807tgZVKFgSdJy82lx3EwlX%23rd&skey=%40crypt_e40cda0f_985f0a7ec0d5ef0ff9e0b0000c4ca808&deviceid=e841539620482633&pass_ticket=yAhMGcRcTg7RKDYULVoryUPBht9xmrJi%252Boi4RT5rZR8b9CD3jULMIFHt4ap51NVy&opcode=2&scene=1&username=@adf6e37a451109de891f182f374f95ee6afa617c75b192c8adc6ce09baa2bd01) 
+* [每个DBA都需要知道的10个提升MySQL性能的基本技巧](http://www.techug.com/post/10-essential-performance-tips-for-mysql.html) 
+* [你也许理解错了：Docker、Kubernetes和Apache Mesos之间的正确关系](http://www.techug.com/post/docker-vs-kubernetes-vs-apache-mesos.html) 
+* [为什么要用Rust取代C/C ++重写Python底层？](http://www.techug.com/post/rewrite-python-with-rust.html) 
+* [C++程序员是如何评价GO语言的](http://www.techug.com/post/how-cpp-developer-think-golang.html) 
