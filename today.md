@@ -19,3 +19,7 @@
 * [你也许理解错了：Docker、Kubernetes和Apache Mesos之间的正确关系](http://www.techug.com/post/docker-vs-kubernetes-vs-apache-mesos.html) 
 * [为什么要用Rust取代C/C ++重写Python底层？](http://www.techug.com/post/rewrite-python-with-rust.html) 
 * [C++程序员是如何评价GO语言的](http://www.techug.com/post/how-cpp-developer-think-golang.html) 
+* [用Python做六百万字的歌词分析](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650689494&idx=1&sn=b4277970ee22fd4efa53866ea25393e1&chksm=bea63e0589d1b7132ea9083c4a7d89a95b25938f6e9694a62856770fe1be711930caf929354b&mpshare=1&scene=1&srcid=0807bxwVVk545L1iu3D4Uk8C&pass_ticket=eTW7P3dzj29uBeIT2qZcw9%2BbHIWtMZjm155dSEgdj3VOrR%2BtM%2B9Z3ft3IHRsNIpw#rd)
+
+> Misc
+* [央行下死命令，所有网络支付要通过网联](https://mp.weixin.qq.com/s?__biz=MjM5NjAyNjI2MA==&mid=2657221618&idx=1&sn=c0d8d8e13a3f6e877c3990e2dde121be&chksm=bd7ad9098a0d501f30c31def52a5453740c548f6093eeb92313aa5e2ed4dbf002365e0845520&mpshare=1&scene=1&srcid=0806g9xPhLjmkZN9KVUcGPEl&pass_ticket=eTW7P3dzj29uBeIT2qZcw9%2BbHIWtMZjm155dSEgdj3VOrR%2BtM%2B9Z3ft3IHRsNIpw#rd)

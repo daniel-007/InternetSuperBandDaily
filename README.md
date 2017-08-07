@@ -48,6 +48,10 @@
 * [PhxSQL设计与实现（详细版）](https://mp.weixin.qq.com/s?__biz=MzI4NDMyNTU2Mw==&mid=2247484012&idx=1&sn=9ee173ea254477d241a1e9505386d112&chksm=ebfc61b8dc8be8ae91eed7d465de85c53dfbd7eada4873af2139951280b8a47dd6dc680416a1&mpshare=1&scene=1&srcid=0803QZjQoSyPBdFSiXtfVvZo&pass_ticket=dEAgXOiBTZ2rjv8mmWg%2B9sd8npePJh%2BIzC0SXjtIECZ6I21p41F3WwFTQUjCMDyx#rd) 
 * [Motan RPC最新进展：新增跨语言及服务治理支持](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548939&idx=1&sn=28049e89ff66e2e3eb2e860b3d74030c&chksm=813a6013b64de905d8292a8e2e42652f823261af5077fa189a1dbf2e73b5cacc5e14b9b5c856&mpshare=1&scene=1&srcid=0803VCu1pyAxTSMdPnuqoaOD&pass_ticket=dEAgXOiBTZ2rjv8mmWg%2B9sd8npePJh%2BIzC0SXjtIECZ6I21p41F3WwFTQUjCMDyx#rd)
 * [Rust 语言如何帮助你防止 bug](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650073352&idx=3&sn=38250749b91188c3401e5eb5793d38ad&chksm=bedb326689acbb70d44accdd77f8fdf42a566d45c70892e9c91164d3b7172fc19b67ad10c490&mpshare=1&scene=1&srcid=0806GtNF6NQ0i3FZgIqeMyec&pass_ticket=dEAgXOiBTZ2rjv8mmWg%2B9sd8npePJh%2BIzC0SXjtIECZ6I21p41F3WwFTQUjCMDyx#rd)
+* [用Python做六百万字的歌词分析](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650689494&idx=1&sn=b4277970ee22fd4efa53866ea25393e1&chksm=bea63e0589d1b7132ea9083c4a7d89a95b25938f6e9694a62856770fe1be711930caf929354b&mpshare=1&scene=1&srcid=0807bxwVVk545L1iu3D4Uk8C&pass_ticket=eTW7P3dzj29uBeIT2qZcw9%2BbHIWtMZjm155dSEgdj3VOrR%2BtM%2B9Z3ft3IHRsNIpw#rd)
+
+> Misc
+* [央行下死命令，所有网络支付要通过网联](https://mp.weixin.qq.com/s?__biz=MjM5NjAyNjI2MA==&mid=2657221618&idx=1&sn=c0d8d8e13a3f6e877c3990e2dde121be&chksm=bd7ad9098a0d501f30c31def52a5453740c548f6093eeb92313aa5e2ed4dbf002365e0845520&mpshare=1&scene=1&srcid=0806g9xPhLjmkZN9KVUcGPEl&pass_ticket=eTW7P3dzj29uBeIT2qZcw9%2BbHIWtMZjm155dSEgdj3VOrR%2BtM%2B9Z3ft3IHRsNIpw#rd)
 
 ## 2017-08-05
 
