@@ -9,7 +9,6 @@
 * [chatbot](https://github.com/jwilm/chatbot) - Rust实现的聊天机器人。Star: 80. Lang: Rust.
 * [gotrace](https://github.com/divan/gotrace) - 可视化go tool trace结果。Star: 900. Lang: Golang.
 * [gosh](https://github.com/mkouhei/gosh) - 命令行交互式golang编程。Star: 296. Lang: Golang.
-* []() - 。Star: 1. Lang: Golang.
 * [xo](https://github.com/knq/xo) - 一款支持go项目的sql语句自动生成工具，支持目前所有主流的SQL db。Star: 1190. Lang: Golang.
 * [mgmt](https://github.com/purpleidea/mgmt) - 分布式的、事件驱动的配置项管理系统。Star: 863. Lang: Golang.
 * [trust](https://github.com/ncase/trust) - 一款2d页游，称为信任的进化。Star: 1631. Lang: Js.
