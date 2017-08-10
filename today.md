@@ -1,20 +1,25 @@
-## 2017-08-09
+## 2017-08-10
 
 > News
-* [乐视讨债记](https://news.cnblogs.com/n/575537/)
-* [中国数据库的江湖恩怨与传奇](https://news.cnblogs.com/n/575588/)
-* [工信部回应华为腾讯数据之争：正组织调查协调](http://www.donews.com/news/detail/1/2962907.html)
+* [龙芯3B1500处理器全面升级 性能大幅提升并保持兼容](http://www.cnbeta.com/articles/tech/639955.htm)
+* [三星将推出更大容量的消费级固态硬盘：单芯片1.5TB](http://www.cnbeta.com/articles/tech/640089.htm)
 
 > Github Repo
-* [capnp-rpc-rust](https://github.com/capnproto/capnp-rpc-rust) - Cap'n Proto RPC Rust实现。Star: 103. Lang: Rust.
-* [OpenRefine](https://github.com/OpenRefine/OpenRefine) - 数据清洗工具。Star: 4625. Lang: Java.
-* [goviz](https://github.com/hirokidaichi/goviz) - go工程依赖可视化，可以绘制出依赖图表，环形依赖解决之必备神器。Star: 526. Lang: Golang.
-* [memguard](https://github.com/awnumar/memguard) - 通过syscall越过gc通过syscall直接申请内存，且申请到的内存块被protect起来不会被交换到disk上。Star: 497. Lang: Golang.
-* [netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl) - 网易云音乐下载器。Star: 23. Lang: Python.
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 安全研究相关资源、研究机构和人员列表。Star: 11836. Lang: Markdown.
-* [my-git](https://github.com/xirong/my-git) - 关于分布式版本管理工具 Git 及托管商 Github 的使用方面资料的集合。Star: 3702. Lang: Markdown.
+* [rqlite](https://github.com/rqlite/rqlite) - 在sqlite之上基于raft添加了分布式一致性能力的db。Star: 3094. Lang: Golang.
+* [redisvo](https://github.com/taomin597715379/redisvo) - 360出品的Redis运行情况可视化工具。Star: 10. Lang: Golang.
+* [dejavu](https://github.com/appbaseio/dejavu) - 基于 React 的 Elasticsearch 数据浏览器。Star: 851. Lang: Js.
+* [shadowsocks_install](https://github.com/iMeiji/shadowsocks_install) - 一键安装 shadowsocks server。Star: 1316. Lang: Bash.
+* [sandwich](https://github.com/ZhangXiaoyu-Chief/sandwich) - 一个自动化运维工具，包括CMDB等，目前还在开发过程中。Star: 2. Lang: Python.
+* [rust-lang](https://github.com/rust-lang/book) - Rust语言官方手册。Star: 1170. Lang: Markdown.
 
 > Blog
-* [Golang Runtime](https://pastebin.com/LEsB8FVW) 
-* [goroutine调度器](http://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/?nsukey=LHM0%2Bp%2FvSKhQ9q9pCcfKm2FgxsM9VviIKFDHO9zqzJb9WLjsCaFF50seRcZd%2B1BcBVNEYamQuHn1A5LCHBtOMUUCT5TD%2FEqElNPDnzTWjilwF4%2BHuu91IZpvncviA1h0sv6nSXo7NSQlLXKHpR%2Fne9vFdxrrYbKSZGC%2FmTYTbZW%2FPmeO3ZnvXIsa2%2BPFS51M) 
-* [关于go代码中for{}的讨论](https://github.com/golang/go/issues/15442) - 讨论中给出了两个建议：1，go runtime埋点解决相关问题，但是影响性能；2，使用runtime.Gosched()。
+* [Lua 语言模型与 Redis 应用](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650862099&idx=1&sn=214551960cb66673bee0421db1d835f2&chksm=8b661556bc119c4018b8ad1e8740f567fd4c78e7e3a1b9585af7693c917c6b4edf1ad9208945&mpshare=1&scene=1&srcid=0810ZzFLJzkOnn3KfhN4g547&pass_ticket=5a3EdpQQQyt8rJTgyFl%2BMB3YwgEcmCnufO1lpJkDkK%2BDup4qbUY8x7JpcqROHyf5#rd) 
+* [微服务在微信的架构实践](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650997325&idx=1&sn=04bf17ba4ee4d506483b0ccda4a8d123&chksm=bdbefa1e8ac97308a9ccb7b93ac4d479fc2b5e81518a95390374b7be42b9af9a082985f0cc5c&mpshare=1&scene=1&srcid=0810szFLUJiWAVdAULIu18iS&pass_ticket=5a3EdpQQQyt8rJTgyFl%2BMB3YwgEcmCnufO1lpJkDkK%2BDup4qbUY8x7JpcqROHyf5#rd) 
+* [Go runtime调度器](https://imkira.com/a5.html?nsukey=kY3Gg0GDfA1xFeqGl%2BHdUdKppX283NxtEDsvTt0kmU9qFgASRyjWWm7jlFkrz0eargrthUVGJdz%2Fq%2FZNqb6ICwg1WGWQ6K0JfSpOt0BIF%2B6T56%2B%2FsPHeGdaDG8SQTMhk6MISiW7eNN1zp6KG85vygN7HU9xdDE%2F2Z0CNNifph8TybZ7XE3%2Fh3a%2BYUr2MW3A0) - 可以通过GOMAXPROCS修改P的数量;sysmon goroutine单独占有一个P，周期性检查所有其他的goroutine，随时把处于阻塞状态的goroutine调整出P的执行队列，或者强制长时间内没有gc的goroutine执行gc。
+* [Go Channel 源码剖析](http://legendtkl.com/2017/08/06/golang-channel-implement/) 
+
+> Misc 
+* [被微软抛弃的 Windows XP 为什么还活着？](https://mp.weixin.qq.com/s/p2gYOKOGCyuksX3u22Wxkg) 
+* [不为人知的地下暗流：揭秘色情推广“影科技”家族背后的流量生意](http://www.freebuf.com/articles/network/143728.html) 
+* [00后要开始成年了，他们都喜欢什么互联网产品](http://www.cnbeta.com/articles/tech/639905.htm)
+
