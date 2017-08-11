@@ -22,6 +22,7 @@
 > Blog
 * [天天P图如何应对10亿流量的后台承载](http://www.cnblogs.com/wetest/p/7338089.html) 
 * [mysql5.7 MGR集群搭建 ](http://blog.chinaunix.net/uid-23916356-id-5765908.html) 
+* [万字长文剖析AliSQL X-Cluster](https://mp.weixin.qq.com/s?src=3&timestamp=1502415821&ver=1&signature=dLgAoBsKg8-yyZDhqIpk7uHXpKEqxm9qEV36xu8QxjtWmNwzOJVzyIs4OHI1Hw9hQXUhU1iz8vA9G3RHh3g67OKNBy-3w4*lGxMOuH7fUtApg6GdjqHd3rznINk9FFVp1AIK4D09Sh6snHV3JkMHVe4AM0jfuaBgvaq3CLPI45E=)
 
 > Misc
 * [复杂密码并不能提高安全性](https://news.cnblogs.com/n/575716/) 
