@@ -1,23 +1,18 @@
-
-## 2017-08-11
+## 2017-08-12
 
 > News
-* [小米支付合作银行已达50家](https://news.cnblogs.com/n/575806/)
-* [卡巴斯基打败微软](https://www.oschina.net/news/87635/win-10-compromise)
-* [京东与百度推出京度计划](http://www.donews.com/news/detail/1/2963182.html)
+* [今日头条将融资20亿美元](http://www.donews.com/news/detail/1/2963241.html)
+* [微信可以永久注销账号了](http://www.donews.com/news/detail/1/2963235.html)
+* [Q币体系创立者，腾讯71号员工，做股票界今日头条，A轮融资数千万](https://mp.weixin.qq.com/s?__biz=MzA3ODQ1NjYyOQ==&mid=2651731954&idx=1&sn=e03153953e41433ab2f5e51306118ba9&chksm=84b8e5a8b3cf6cbe5918bdb50e11a192163c1ff0e24ee31687b5be2fddd9bbfdcb02db882e19&mpshare=1&scene=1&srcid=0812VADh8SwQHarZr1hOBNQj&pass_ticket=U52U0vD8ZMjhG3Kw3MovSoyFvkKlY4yAQblsLqYaUWnaT9SN1jiwN3joZBR6bQfM#rd)
 
 > Github Repo
-* [palo](https://github.com/baidu/palo) - 类似于impala的olap实现。Star: 119. Lang: C++.
-* [pedis](https://github.com/fastio/pedis) - 基于seastar框架的并行Redis实现。Star: 500. Lang: C++.
-* [hashcat](https://github.com/hashcat/hashcat) - 快速密码破解工具。Star: 3101. Lang: C++.
-* [engineering-blogs](https://github.com/sumodirjo/engineering-blogs) - 一些知名企业的blog site。Star: 400. Lang: Markdown.
+* [fswatch](https://github.com/codeskyblue/fswatch) - 文件看门狗，当文件发生改变的时候发出相关命令。Star: 190. Lang: Golang.
+* [go-enum](https://github.com/abice/go-enum) - 自动生成enum相关代码。Star: 4. Lang: Golang.
+* [cron](https://github.com/robfig/cron) - Golang cron实现。Star: 1624. Lang: Golang.
+* [LuaAssemblyTools](https://github.com/mlnlover11/LuaAssemblyTools) - Lua脚本反编译工具。Star: 105. Lang: Lua.
+* [EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - Tensorflow最佳实践。Star: 285. Lang: Python.
 
 > Blog
-* [天天P图如何应对10亿流量的后台承载](http://www.cnblogs.com/wetest/p/7338089.html) 
-* [mysql5.7 MGR集群搭建 ](http://blog.chinaunix.net/uid-23916356-id-5765908.html) 
-* [万字长文剖析AliSQL X-Cluster](https://mp.weixin.qq.com/s?src=3&timestamp=1502415821&ver=1&signature=dLgAoBsKg8-yyZDhqIpk7uHXpKEqxm9qEV36xu8QxjtWmNwzOJVzyIs4OHI1Hw9hQXUhU1iz8vA9G3RHh3g67OKNBy-3w4*lGxMOuH7fUtApg6GdjqHd3rznINk9FFVp1AIK4D09Sh6snHV3JkMHVe4AM0jfuaBgvaq3CLPI45E=)
-
-> Misc
-* [复杂密码并不能提高安全性](https://news.cnblogs.com/n/575716/) 
-* [程序员一定要尝试的8种编程语言](http://www.techug.com/post/8-programming-languages-you-should-try.html)
-* [每个程序员都应该记住的十大编程语言之父](http://www.techug.com/post/creators-of-top-10-programming-languages.html)
+* [micropython使用入门](http://www.freebuf.com/column/135412.html) 
+* [Reddit 的代码部署演化史](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486734&idx=1&sn=6d7fe43d734436b99f3e827df2299302&chksm=96c9bb6ea1be32788c3fe5e46fdc0ebee3a0123e20cf523d9c529fc6eabc81992d8c91f622be&mpshare=1&scene=1&srcid=0812w939fcv9mu0PhV4JBMyH&pass_ticket=U52U0vD8ZMjhG3Kw3MovSoyFvkKlY4yAQblsLqYaUWnaT9SN1jiwN3joZBR6bQfM#rd) 
+* [阿里HBase使用干货](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247485513&idx=1&sn=f7275efc33501335d27c9d7af5d180f9&chksm=e9293546de5ebc508a84b347b59e777414a6d307d537cee55565cc63579509387b0d4ac560c3&mpshare=1&scene=1&srcid=0812A5fWgN3XcgHlpP1lIOkQ&pass_ticket=U52U0vD8ZMjhG3Kw3MovSoyFvkKlY4yAQblsLqYaUWnaT9SN1jiwN3joZBR6bQfM#rd) 
