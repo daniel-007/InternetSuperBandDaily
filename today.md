@@ -1,18 +1,22 @@
-## 2017-08-12
+## 2017-08-13
 
 > News
-* [今日头条将融资20亿美元](http://www.donews.com/news/detail/1/2963241.html)
-* [微信可以永久注销账号了](http://www.donews.com/news/detail/1/2963235.html)
-* [Q币体系创立者，腾讯71号员工，做股票界今日头条，A轮融资数千万](https://mp.weixin.qq.com/s?__biz=MzA3ODQ1NjYyOQ==&mid=2651731954&idx=1&sn=e03153953e41433ab2f5e51306118ba9&chksm=84b8e5a8b3cf6cbe5918bdb50e11a192163c1ff0e24ee31687b5be2fddd9bbfdcb02db882e19&mpshare=1&scene=1&srcid=0812VADh8SwQHarZr1hOBNQj&pass_ticket=U52U0vD8ZMjhG3Kw3MovSoyFvkKlY4yAQblsLqYaUWnaT9SN1jiwN3joZBR6bQfM#rd)
+* [FB的“早鸟”警报系统 - 收购或抄袭](https://news.cnblogs.com/n/575918/)
+* [3D高精地图决定自动驾驶的未来](http://www.cnbeta.com/articles/tech/640903.htm)
 
 > Github Repo
-* [fswatch](https://github.com/codeskyblue/fswatch) - 文件看门狗，当文件发生改变的时候发出相关命令。Star: 190. Lang: Golang.
-* [go-enum](https://github.com/abice/go-enum) - 自动生成enum相关代码。Star: 4. Lang: Golang.
-* [cron](https://github.com/robfig/cron) - Golang cron实现。Star: 1624. Lang: Golang.
-* [LuaAssemblyTools](https://github.com/mlnlover11/LuaAssemblyTools) - Lua脚本反编译工具。Star: 105. Lang: Lua.
-* [EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - Tensorflow最佳实践。Star: 285. Lang: Python.
+* [skynet-mingw](https://github.com/dpull/skynet-mingw) - skynet windows版。Star: 108. Lang: C.
+* [goaccess](https://github.com/allinurl/goaccess) - 一款开源、实时，运行在命令行终端下的web日志分析工具，还提供一个显示统计结果的dashboard。Star: 5636. Lang: Golang.
+* [redis](https://github.com/gosexy/redis) - redis客户端。Star: 159. Lang: Golang.
+* [annotate-grpc-go](https://github.com/liangzhiyang/annotate-grpc-go) - grpc源码注解。Star: 5. Lang: Golang.
+* [db-readings](https://github.com/rxin/db-readings) - 如何造database。Star: 4562. Lang: Markdown.
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 安全、黑客以及破解方面的awesome列表集合。Star: 14095. Lang: Markdown.
+* [Windows](https://github.com/Hack-with-Github/Windows) - windows相关工具以及powershell方面awesome list集合。Star: 208. Lang: Markdown.
 
 > Blog
-* [micropython使用入门](http://www.freebuf.com/column/135412.html) 
-* [Reddit 的代码部署演化史](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486734&idx=1&sn=6d7fe43d734436b99f3e827df2299302&chksm=96c9bb6ea1be32788c3fe5e46fdc0ebee3a0123e20cf523d9c529fc6eabc81992d8c91f622be&mpshare=1&scene=1&srcid=0812w939fcv9mu0PhV4JBMyH&pass_ticket=U52U0vD8ZMjhG3Kw3MovSoyFvkKlY4yAQblsLqYaUWnaT9SN1jiwN3joZBR6bQfM#rd) 
-* [阿里HBase使用干货](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247485513&idx=1&sn=f7275efc33501335d27c9d7af5d180f9&chksm=e9293546de5ebc508a84b347b59e777414a6d307d537cee55565cc63579509387b0d4ac560c3&mpshare=1&scene=1&srcid=0812A5fWgN3XcgHlpP1lIOkQ&pass_ticket=U52U0vD8ZMjhG3Kw3MovSoyFvkKlY4yAQblsLqYaUWnaT9SN1jiwN3joZBR6bQfM#rd) 
+* [分布式锁的设计](http://www.cnblogs.com/kingreatwill/p/7344469.html) 
+* [TCP 协议简介](https://mp.weixin.qq.com/s?__biz=MzAxOTAzMDEwMA==&mid=2652503567&idx=1&sn=dbf009e527d52013ff3e565618ce4cb1&chksm=80201734b7579e22759c5f771c6f6e59611354e9992e75e294db1ff76c7ebcd107f37f1b94c2&mpshare=1&scene=1&srcid=0813HCaKsCuCZC87kDXajsdr&pass_ticket=Nzm2mAprK9rEIDV2aed%2By7%2BNS4HA7U10zRaVxq0jM0AlmUGBGk28%2F9A3xN79DF%2B8#rd) 
+* [级互联网公司都使用了哪些技术和工具](https://mp.weixin.qq.com/s?__biz=MzI5OTY0MTMyMg==&mid=2247485668&idx=2&sn=13344b5c765f0f37d346051342620f4a&chksm=ec923861dbe5b17724f9794252b4576a317c5d0c3e1b477835868f8afe0de765ec450c05ce15&mpshare=1&scene=1&srcid=0812HcSsRWSeHJMnakWQ6t7W&pass_ticket=Nzm2mAprK9rEIDV2aed%2By7%2BNS4HA7U10zRaVxq0jM0AlmUGBGk28%2F9A3xN79DF%2B8#rd) 
+
+> Misc
+* [吴海：被逼三次创业后，我明白了做公司大哥的样子](https://mp.weixin.qq.com/s?__biz=MzA3ODQ1NjYyOQ==&mid=2651731956&idx=1&sn=129ad59d3653a688f291d01b0cc1558b&chksm=84b8e5aeb3cf6cb8e6b8179ebf62969f5d2e25d01fcadc8510f4e8a90a78ee85f39ac8fe6471&mpshare=1&scene=1&srcid=0813uCt1oigSfg7alMjfRMzX&pass_ticket=Nzm2mAprK9rEIDV2aed%2By7%2BNS4HA7U10zRaVxq0jM0AlmUGBGk28%2F9A3xN79DF%2B8#rd) 
