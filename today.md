@@ -1,22 +1,22 @@
-## 2017-08-13
+## 2017-08-14
 
 > News
-* [FB的“早鸟”警报系统 - 收购或抄袭](https://news.cnblogs.com/n/575918/)
-* [3D高精地图决定自动驾驶的未来](http://www.cnbeta.com/articles/tech/640903.htm)
+* [青云黄允松：如果一定要下定义，我们是 ICT 运营商](https://news.cnblogs.com/n/575966/)
+* [花2000块 打造了一个国际网红](http://hot.cnbeta.com/articles/funny/640991.htm)
 
 > Github Repo
-* [skynet-mingw](https://github.com/dpull/skynet-mingw) - skynet windows版。Star: 108. Lang: C.
-* [goaccess](https://github.com/allinurl/goaccess) - 一款开源、实时，运行在命令行终端下的web日志分析工具，还提供一个显示统计结果的dashboard。Star: 5636. Lang: Golang.
-* [redis](https://github.com/gosexy/redis) - redis客户端。Star: 159. Lang: Golang.
-* [annotate-grpc-go](https://github.com/liangzhiyang/annotate-grpc-go) - grpc源码注解。Star: 5. Lang: Golang.
-* [db-readings](https://github.com/rxin/db-readings) - 如何造database。Star: 4562. Lang: Markdown.
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 安全、黑客以及破解方面的awesome列表集合。Star: 14095. Lang: Markdown.
-* [Windows](https://github.com/Hack-with-Github/Windows) - windows相关工具以及powershell方面awesome list集合。Star: 208. Lang: Markdown.
+* [graphhopper](https://github.com/graphhopper/graphhopper) - 开源地图引擎。Star: 1270. Lang: Java.
+* [toxiproxy](https://github.com/Shopify/toxiproxy) - tcp代理，可模拟网络环境，进行系统自动化测试。Star: 2049. Lang: Golang.
+* [grpc-streaming-demo](https://github.com/ridha/grpc-streaming-demo) - grpc streaming demo。Star: 53. Lang: Golang.
+* [doorman](https://github.com/youtube/doorman) - Doorman 是一个客户端速率限制的解决方案，客户端与共享资源进行通讯，包括数据库、gRPC 服务、RESTful API 等等可使用 Doorman 来限制对资源的调用。Doorman 使用 Go 语言开发，使用 gRPC 的通讯协议。其高可用特性需要一个分布式的锁管理器，当前支持 etcd，也可使用 Zookeeper 替代。Star: 1035. Lang: Golang.
+* [go-wrk](https://github.com/adjust/go-wrk) - go实现的http/https压测工具。Star: 301. Lang: Golang.
+* [mobile](https://github.com/golang/mobile) - go on mobile。Star: 2357. Lang: Golang.
+* [Opserver](https://github.com/opserver/Opserver) - stack exchange的运维监控系统。Star: 3124. Lang: C#.
 
 > Blog
-* [分布式锁的设计](http://www.cnblogs.com/kingreatwill/p/7344469.html) 
-* [TCP 协议简介](https://mp.weixin.qq.com/s?__biz=MzAxOTAzMDEwMA==&mid=2652503567&idx=1&sn=dbf009e527d52013ff3e565618ce4cb1&chksm=80201734b7579e22759c5f771c6f6e59611354e9992e75e294db1ff76c7ebcd107f37f1b94c2&mpshare=1&scene=1&srcid=0813HCaKsCuCZC87kDXajsdr&pass_ticket=Nzm2mAprK9rEIDV2aed%2By7%2BNS4HA7U10zRaVxq0jM0AlmUGBGk28%2F9A3xN79DF%2B8#rd) 
-* [级互联网公司都使用了哪些技术和工具](https://mp.weixin.qq.com/s?__biz=MzI5OTY0MTMyMg==&mid=2247485668&idx=2&sn=13344b5c765f0f37d346051342620f4a&chksm=ec923861dbe5b17724f9794252b4576a317c5d0c3e1b477835868f8afe0de765ec450c05ce15&mpshare=1&scene=1&srcid=0812HcSsRWSeHJMnakWQ6t7W&pass_ticket=Nzm2mAprK9rEIDV2aed%2By7%2BNS4HA7U10zRaVxq0jM0AlmUGBGk28%2F9A3xN79DF%2B8#rd) 
-
-> Misc
-* [吴海：被逼三次创业后，我明白了做公司大哥的样子](https://mp.weixin.qq.com/s?__biz=MzA3ODQ1NjYyOQ==&mid=2651731956&idx=1&sn=129ad59d3653a688f291d01b0cc1558b&chksm=84b8e5aeb3cf6cb8e6b8179ebf62969f5d2e25d01fcadc8510f4e8a90a78ee85f39ac8fe6471&mpshare=1&scene=1&srcid=0813uCt1oigSfg7alMjfRMzX&pass_ticket=Nzm2mAprK9rEIDV2aed%2By7%2BNS4HA7U10zRaVxq0jM0AlmUGBGk28%2F9A3xN79DF%2B8#rd) 
+* [当 Thrift 遇到 JDK Epoll Bug](https://my.oschina.net/johnnyliao/blog/1507141) 
+* [利用GPGPU计算大规模群落仿真行为](http://www.cnblogs.com/murongxiaopifu/p/7308366.html) 
+* [Base：一种 Acid 的替代方案](http://www.cnblogs.com/savorboard/p/base-an-acid-alternative.html) 
+* [分布式事务,EventBus 解决方案:CAP](http://www.cnblogs.com/savorboard/p/cap-document.html) 
+* [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects) 
+* [高可用日志探险——基于 Kubernetes 中的 ELK](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694776&idx=1&sn=40308b7514d8fe772710df5f4dd739d2&chksm=88931d5bbfe4944dabd515e6c33f7fd32bbb48a20ec3934515a8ba33070fcc826e258e324219&mpshare=1&scene=1&srcid=0810ZeGF3QuasUR1BwfPF8JR&pass_ticket=%2BeVuR1booKnO7N%2FznUXVL0UfH3rZIELT5EGaWubwRRindJv9GW%2B7qn8jziRXhb82#rd) 
