@@ -1,22 +1,22 @@
-## 2017-08-14
+## 2017-08-15
 
 > News
-* [青云黄允松：如果一定要下定义，我们是 ICT 运营商](https://news.cnblogs.com/n/575966/)
-* [花2000块 打造了一个国际网红](http://hot.cnbeta.com/articles/funny/640991.htm)
+* [漂洋过海的游戏心：外国游戏人的“中国梦”](http://www.donews.com/news/detail/4/2950253.html)
+* [一封写给丁磊的致歉信](http://www.donews.com/flashnews/detail/22872)
+* [北大硕士丁树凯：我的十年游戏开发人生](https://mp.weixin.qq.com/s?__biz=MzI5OTY0MTMyMg==&mid=2247485693&idx=1&sn=c96bdb214e683f4c5480e89fad349326&chksm=ec923878dbe5b16eff68e346a2dceda5dbf4bbac8c939fafe7df7ba05830ddc0b985d359c4ab&mpshare=1&scene=1&srcid=0815T6oE5yZkQmDd7zqKBqve&pass_ticket=bUL8CDWFnfkQdEqinLXgGE6V3S2PpswzTi%2BBmffQvhDsH2b2IKv5ilEIwCH0esKD#rd)
 
 > Github Repo
-* [graphhopper](https://github.com/graphhopper/graphhopper) - 开源地图引擎。Star: 1270. Lang: Java.
-* [toxiproxy](https://github.com/Shopify/toxiproxy) - tcp代理，可模拟网络环境，进行系统自动化测试。Star: 2049. Lang: Golang.
-* [grpc-streaming-demo](https://github.com/ridha/grpc-streaming-demo) - grpc streaming demo。Star: 53. Lang: Golang.
-* [doorman](https://github.com/youtube/doorman) - Doorman 是一个客户端速率限制的解决方案，客户端与共享资源进行通讯，包括数据库、gRPC 服务、RESTful API 等等可使用 Doorman 来限制对资源的调用。Doorman 使用 Go 语言开发，使用 gRPC 的通讯协议。其高可用特性需要一个分布式的锁管理器，当前支持 etcd，也可使用 Zookeeper 替代。Star: 1035. Lang: Golang.
-* [go-wrk](https://github.com/adjust/go-wrk) - go实现的http/https压测工具。Star: 301. Lang: Golang.
-* [mobile](https://github.com/golang/mobile) - go on mobile。Star: 2357. Lang: Golang.
-* [Opserver](https://github.com/opserver/Opserver) - stack exchange的运维监控系统。Star: 3124. Lang: C#.
+* [rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - rust thread pool。Star: 146. Lang: Rust.
+* [deadcode](https://github.com/tsenart/deadcode) - 无用代码检测工具。Star: 16. Lang: Golang.
+* [traefik](https://github.com/containous/traefik) - 反向代理。Star: 9211. Lang: Golang.
+* [minimock](https://github.com/gojuno/minimock) - 能够根据interface自动生成mock实现。Star: 71. Lang: Golang.
+* [zbus](https://github.com/rushmore/zbus) - 一款mq，同时实现了rpc。Star: 20. Lang: Golang.
+* [acorn](https://github.com/ternjs/acorn) - Js实现的Js parser。Star: 2684. Lang: Golang.
+* [learn-regex](https://github.com/zeeshanu/learn-regex) - 正则表达式相关知识。Star: 8370. Lang: Markdown.
+* [r4cppp](https://github.com/nrc/r4cppp) - C++程序员如何学习Rust。Star: 665. Lang: Markdown.
 
 > Blog
-* [当 Thrift 遇到 JDK Epoll Bug](https://my.oschina.net/johnnyliao/blog/1507141) 
-* [利用GPGPU计算大规模群落仿真行为](http://www.cnblogs.com/murongxiaopifu/p/7308366.html) 
-* [Base：一种 Acid 的替代方案](http://www.cnblogs.com/savorboard/p/base-an-acid-alternative.html) 
-* [分布式事务,EventBus 解决方案:CAP](http://www.cnblogs.com/savorboard/p/cap-document.html) 
-* [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects) 
-* [高可用日志探险——基于 Kubernetes 中的 ELK](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694776&idx=1&sn=40308b7514d8fe772710df5f4dd739d2&chksm=88931d5bbfe4944dabd515e6c33f7fd32bbb48a20ec3934515a8ba33070fcc826e258e324219&mpshare=1&scene=1&srcid=0810ZeGF3QuasUR1BwfPF8JR&pass_ticket=%2BeVuR1booKnO7N%2FznUXVL0UfH3rZIELT5EGaWubwRRindJv9GW%2B7qn8jziRXhb82#rd) 
+* [如何使用Airgeddon找回WiFi密码](http://www.freebuf.com/articles/wireless/143796.html) 
+* [使用Docker环境快速搭建靶机环境](http://www.freebuf.com/articles/system/143711.html) - 高手慎入
+* [Android 音视频开发入门指南](https://mp.weixin.qq.com/s?__biz=MzAxNTc1MjM0Mw==&mid=2652213291&idx=1&sn=8d14c87dce51fb7874d798a107d96ea4&chksm=801e7dd3b769f4c5465ff529e3c6722fa8890c2777974130cad47c19e731d3474f9fb975c058&mpshare=1&scene=1&srcid=0814VGWAQROPANeh4YWsqv3z&pass_ticket=bUL8CDWFnfkQdEqinLXgGE6V3S2PpswzTi%2BBmffQvhDsH2b2IKv5ilEIwCH0esKD#rd) 
+
