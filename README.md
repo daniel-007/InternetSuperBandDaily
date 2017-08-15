@@ -19,7 +19,7 @@
 * [traefik](https://github.com/containous/traefik) - 反向代理。Star: 9211. Lang: Golang.
 * [minimock](https://github.com/gojuno/minimock) - 能够根据interface自动生成mock实现。Star: 71. Lang: Golang.
 * [zbus](https://github.com/rushmore/zbus) - 一款mq，同时实现了rpc。Star: 20. Lang: Golang.
-* [acorn](https://github.com/ternjs/acorn) - Js实现的Js parser。Star: 2684. Lang: Golang.
+* [acorn](https://github.com/ternjs/acorn) - Js实现的Js parser。Star: 2684. Lang: Js.
 * [learn-regex](https://github.com/zeeshanu/learn-regex) - 正则表达式相关知识。Star: 8370. Lang: Markdown.
 * [r4cppp](https://github.com/nrc/r4cppp) - C++程序员如何学习Rust。Star: 665. Lang: Markdown.
 
