@@ -1,22 +1,22 @@
-## 2017-08-15
+## 2017-08-16
 
 > News
-* [漂洋过海的游戏心：外国游戏人的“中国梦”](http://www.donews.com/news/detail/4/2950253.html)
-* [一封写给丁磊的致歉信](http://www.donews.com/flashnews/detail/22872)
-* [北大硕士丁树凯：我的十年游戏开发人生](https://mp.weixin.qq.com/s?__biz=MzI5OTY0MTMyMg==&mid=2247485693&idx=1&sn=c96bdb214e683f4c5480e89fad349326&chksm=ec923878dbe5b16eff68e346a2dceda5dbf4bbac8c939fafe7df7ba05830ddc0b985d359c4ab&mpshare=1&scene=1&srcid=0815T6oE5yZkQmDd7zqKBqve&pass_ticket=bUL8CDWFnfkQdEqinLXgGE6V3S2PpswzTi%2BBmffQvhDsH2b2IKv5ilEIwCH0esKD#rd)
+* [高通联发科在中端芯片争相降价](https://news.cnblogs.com/n/576151/)
+* [RocksDB 5.7.2 发布](https://www.oschina.net/news/87769/rocksdb-5-7-2)
+* [微软跨平台.NET Core 2.0版发布](https://news.cnblogs.com/n/576122/)
+* [小猿搜题披露百度作业员工发布色情内容](http://www.donews.com/news/detail/4/2963561.html)
 
 > Github Repo
-* [rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - rust thread pool。Star: 146. Lang: Rust.
-* [deadcode](https://github.com/tsenart/deadcode) - 无用代码检测工具。Star: 16. Lang: Golang.
-* [traefik](https://github.com/containous/traefik) - 反向代理。Star: 9211. Lang: Golang.
-* [minimock](https://github.com/gojuno/minimock) - 能够根据interface自动生成mock实现。Star: 71. Lang: Golang.
-* [zbus](https://github.com/rushmore/zbus) - 一款mq，同时实现了rpc。Star: 20. Lang: Golang.
-* [acorn](https://github.com/ternjs/acorn) - Js实现的Js parser。Star: 2684. Lang: Js.
-* [learn-regex](https://github.com/zeeshanu/learn-regex) - 正则表达式相关知识。Star: 8370. Lang: Markdown.
-* [r4cppp](https://github.com/nrc/r4cppp) - C++程序员如何学习Rust。Star: 665. Lang: Markdown.
+* [osquery](https://github.com/facebook/osquery) - 基于SQL的操作系统操作、监控和分析。Star: 9672. Lang: C++.
+* [proxysql](https://github.com/sysown/proxysql) - mysql proxy。Star: 1235. Lang: C++.
+* [baidu/Elasticsearch](https://github.com/baidu/Elasticsearch) - 百度改进的Elasticsearch，支持SQL并兼容MySQL链接协议，内置多租户管理功能，改进了Elasticsearch的脑裂问题等。Star: 15. Lang: Java.
+* [validator](https://github.com/go-playground/validator) - 用于验证 Struct 的属性是否满足特定的规范。Star: 1097. Lang: Golang.
+* [dkron](https://github.com/victorcoder/dkron) - 分布式任务调度系统。Star: 1138. Lang: Golang.
+* [goconst](https://github.com/jgautheron/goconst) - 在go项目中寻找重复出现的string字符串并定义成一个常量替代之。Star: 81. Lang: Golang.
+* [ngrok-one-key-install](https://github.com/clangcn/ngrok-one-key-install) - Ngrok服务器一键安装脚本。Star: 90. Lang: Python.
 
 > Blog
-* [如何使用Airgeddon找回WiFi密码](http://www.freebuf.com/articles/wireless/143796.html) 
-* [使用Docker环境快速搭建靶机环境](http://www.freebuf.com/articles/system/143711.html) - 高手慎入
-* [Android 音视频开发入门指南](https://mp.weixin.qq.com/s?__biz=MzAxNTc1MjM0Mw==&mid=2652213291&idx=1&sn=8d14c87dce51fb7874d798a107d96ea4&chksm=801e7dd3b769f4c5465ff529e3c6722fa8890c2777974130cad47c19e731d3474f9fb975c058&mpshare=1&scene=1&srcid=0814VGWAQROPANeh4YWsqv3z&pass_ticket=bUL8CDWFnfkQdEqinLXgGE6V3S2PpswzTi%2BBmffQvhDsH2b2IKv5ilEIwCH0esKD#rd) 
-
+* [如何规避 interface{} == nil 判断](https://my.oschina.net/linker/blog/1510802) - 高手慎入
+* [百度Palo数据库](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162799&idx=1&sn=ff2cdde2464a2db08aab29e04f7b05a8&chksm=8b493041bc3eb95753adf5f79238374d252e724819b7db1fbce33accd7d8e06345ba80d8e9cf&mpshare=1&scene=1&srcid=0815inw2Jl17E5rO8mck2j3a&pass_ticket=m9u%2FENrIeJsDNunDJJDjGXMe01AKBsdsYs3Q0nbQUE7ahqvsPctUFWj7EuWc52ld#rd) 
+* [阿里云新一代关系型数据库PolarDB ](http://www.infoq.com/cn/news/2017/08/ali-polardb?from=timeline&isappinstalled=0#tt_daymode=1&tt_font=m?&tt_from=weixin_moments&utm_source=weixin_moments&utm_medium=toutiao_ios&utm_campaign=client_share&wxshare_count=1) 
+* [Memsniff：一个健壮的Memcached流量分析工具](http://www.infoq.com/cn/news/2017/08/Memsniff-Memcached) 
