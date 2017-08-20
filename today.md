@@ -1,25 +1,27 @@
-## 2017-08-19
+## 2017-08-20
 
 > News
-* [GitHub CEO将辞去 CEO 职务](https://www.oschina.net/news/87880/github-ceo-chris-wanstrath-is-stepping-down)
-* [色情片观众调查](http://hot.cnbeta.com/articles/funny/642917.htm)
+* [开放Java EE？甲骨文考虑将Java EE移至开源社区](https://news.cnblogs.com/n/576480/)
+* [ofo联创张巳丁：共享单车捕捉的是用户需求，不是资本风口](https://news.cnblogs.com/n/576477/)
+* [美团正式入局共享充电宝](http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=4266490)
 
 > Github Repo
-* [NativeJIT](https://github.com/BitFunnel/NativeJIT) - 可以在程序运行时动态执行C++代码，实现动态编译C++代码并执行。Star: 750. Lang: C++.
-* [ponzu](https://github.com/ponzu-cms/ponzu) - 基于http2的推送系统。Star: 3020. Lang: Golang.
-* [poolproxy](https://github.com/bjdgyc/poolproxy) - go实现的redis proxy，自己实现了相关连接池。Star: 15. Lang: Golang.
-* [fastcgo](https://github.com/petermattis/fastcgo) - 受rustgo启发，实现另一个快速但非安全的cgo。Star: 20. Lang: Golang.
-* [redsync](https://github.com/go-redsync/redsync) - 基于redis的分布式锁。Star: 86. Lang: Golang.
-* [ed25519-dalek-rustgo](https://github.com/FiloSottile/ed25519-dalek-rustgo) - 方便地让go调用rust代码。Star: 36. Lang: Golang.
-* [covertutils](https://github.com/operatorequals/covertutils) - 一个木马框架，方便你快速实现一个木马。Star: 255. Lang: Python.
+* [gotham](https://github.com/gotham-rs/gotham) - 安全、快速且稳定的rust web框架。Star: 297. Lang: Rust.
+* [mac-keyboard-brightness](https://github.com/pirate/mac-keyboard-brightness) - 通过命令控制mac的亮度。Star: 47. Lang: C&Swift&Python.
+* [roaring](https://github.com/RoaringBitmap/roaring) - roaring bitmap golang实现。Star: 269. Lang: Golang.
+* [gopher-os](https://github.com/achilleasa/gopher-os) - 用go实现的os，仅仅为了证明go也能实现一款os。Star: 1044. Lang: Golang.
+* [zsh-histdb](https://github.com/larkery/zsh-histdb) - 利用db存储zsh command。Star: 311. Lang: Zsh.
+* [ezfio](https://github.com/earlephilhower/ezfio) -  NVME/SAS/SATA SSD性能测试工具。Star: 18. Lang: Python.
+* [wait-for-it](https://github.com/vishnubob/wait-for-it) - 测试Tcp Host&port是否可用，并可用于计算ttl。Star: 1281. Lang: Bash.
+* [OneDrive-Uninstaller](https://github.com/TERRAOperative/OneDrive-Uninstaller) - windows bat脚本工具，卸载win10上的Onedrive。Star: 20. Lang: bat.
 
 > Blog
-* [解密区块链生态的技术信任](https://mp.weixin.qq.com/s/CBudR7qRKZawFQYv5v-aRg) 
-* [智能卡破解入门二三事](http://www.freebuf.com/geek/143800.html) 
-* [利用Hackrf进行GPS劫持实验流程攻略](http://www.freebuf.com/articles/terminal/144296.html) 
-* [从零构建TCP/IP协议（这次叫PCT协议）](https://mp.weixin.qq.com/s?__biz=MzAxOTAzMDEwMA==&mid=2652503617&idx=1&sn=43548d2caabe134e6d7024deca54da03&chksm=8020177ab7579e6c31fec7c72f3b9394c0d616334673f666e76279f7bd722b4d72be036a5369&mpshare=1&scene=1&srcid=0819OpD25FKA50BRbgKUWNvi&pass_ticket=ylLtaxQtp1%2BlTH4JO%2BUvhUa%2FwpV8kbkNrPeyN6EsaCRDAn%2BsLwZIMw%2B00QnDV2oU#rd) 
-* [线上服务CPU100%问题快速定位实战](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960332&idx=1&sn=63cb23e04ac4bf926434f34001c0718a&chksm=bd2d01d08a5a88c6a01e62533162cc3535defb37cefa61a800e405edda8240ad17432e023d53&mpshare=1&scene=1&srcid=08192tXWFCizlOSID3SxHEn9&pass_ticket=ylLtaxQtp1%2BlTH4JO%2BUvhUa%2FwpV8kbkNrPeyN6EsaCRDAn%2BsLwZIMw%2B00QnDV2oU#rd) 
+* [再谈CGO!](http://www.jianshu.com/p/7a47c6f3456d) 
+* [Go语言的共享内存读写实验](http://1234n.com/?post/jsh0zf) 
+* [Docker与Golang的巧妙结合](https://mp.weixin.qq.com/s?src=3&timestamp=1503193076&ver=1&signature=HFuHqlus1V1tL85PydZomy5OrEw81PGBH68tU0-NnheQtrUX52olREFH3JG*OPTB8Io9-v6Yoe0a21UTjoXz2KrFyqeAa0pVApRY8ghKeiutzwPUm85MCeDnfVFzCJ8G0bwu-ATUqVeccOmSiofmHrXY*RLjqWVS19jri3B-QDU=) 
+* [从0开始打造一个独立内存的缓存系统](https://mp.weixin.qq.com/s?src=3&timestamp=1503193164&ver=1&signature=4cN2zbsuTbHDkotZNk6LgGJ3gu7wYAv0j0wN7AM-rNeIeZVfbK*SEaQ*wnmetigFgOan1kmJOi1u9xB3f95zXVkdh9Dx*4vb*X4eZRrbCTFFS2na4QGbrhRL5AKHi1rsau*eQd1j1tOyCotQWNo-3TtRLra4vpyBtVEfdpt7L*Y=) 
 
 > Misc
-* [到2020年，腾讯也许就能完全摘掉“游戏公司”的帽子了](https://mp.weixin.qq.com/s?__biz=MzA3NzgxMjkxNg==&mid=2649998908&idx=1&sn=b053509e4cd10b3f3e9c6a5c77063606&chksm=874b23e7b03caaf15e261984ae39c4a9fd65c711931430ef7ff86dda316753ec0d09796a3870&mpshare=1&scene=1&srcid=0819Duz5rGm5iHxhYAAzYfOl&pass_ticket=ylLtaxQtp1%2BlTH4JO%2BUvhUa%2FwpV8kbkNrPeyN6EsaCRDAn%2BsLwZIMw%2B00QnDV2oU#rd) 
+* [鸡走路时为什么脑袋一抖一抖的？](https://news.cnblogs.com/n/576483/) 
+* [制造伞都还没自动化](https://news.cnblogs.com/n/576482/) 
 
