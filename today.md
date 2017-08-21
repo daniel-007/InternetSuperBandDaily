@@ -1,27 +1,30 @@
-## 2017-08-20
+## 2017-08-21
 
 > News
-* [开放Java EE？甲骨文考虑将Java EE移至开源社区](https://news.cnblogs.com/n/576480/)
-* [ofo联创张巳丁：共享单车捕捉的是用户需求，不是资本风口](https://news.cnblogs.com/n/576477/)
-* [美团正式入局共享充电宝](http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=4266490)
+* [腾讯《王者荣耀》一将功成万骨枯，其他游戏股日子难过](https://news.cnblogs.com/n/576382/)
+* [Google 发布移除水印的算法](https://www.oschina.net/news/87920/google-removed-watermark)
+* [美国全力封杀卡巴斯基](https://www.oschina.net/news/87919/kaspersky-banned-by-american-government)
 
 > Github Repo
-* [gotham](https://github.com/gotham-rs/gotham) - 安全、快速且稳定的rust web框架。Star: 297. Lang: Rust.
-* [mac-keyboard-brightness](https://github.com/pirate/mac-keyboard-brightness) - 通过命令控制mac的亮度。Star: 47. Lang: C&Swift&Python.
-* [roaring](https://github.com/RoaringBitmap/roaring) - roaring bitmap golang实现。Star: 269. Lang: Golang.
-* [gopher-os](https://github.com/achilleasa/gopher-os) - 用go实现的os，仅仅为了证明go也能实现一款os。Star: 1044. Lang: Golang.
-* [zsh-histdb](https://github.com/larkery/zsh-histdb) - 利用db存储zsh command。Star: 311. Lang: Zsh.
-* [ezfio](https://github.com/earlephilhower/ezfio) -  NVME/SAS/SATA SSD性能测试工具。Star: 18. Lang: Python.
-* [wait-for-it](https://github.com/vishnubob/wait-for-it) - 测试Tcp Host&port是否可用，并可用于计算ttl。Star: 1281. Lang: Bash.
-* [OneDrive-Uninstaller](https://github.com/TERRAOperative/OneDrive-Uninstaller) - windows bat脚本工具，卸载win10上的Onedrive。Star: 20. Lang: bat.
+* [upx](https://github.com/upx/upx) - 跨平台二进制文件压缩器，通过去除bin文件符号表，可以把size缩减60%-70%左右。Star: 1202. Lang: C++.
+* [gcc](https://github.com/gcc-mirror/gcc)
+* [linux](https://github.com/torvalds/linux)
+* [llvm](https://github.com/llvm-mirror/llvm)
+* [clang](https://github.com/llvm-mirror/clang)
+* [libcxx](https://github.com/llvm-mirror/libcxx) 
+* [go-proto-validators](https://github.com/mwitkow/go-proto-validators) - 根据proto idl文件生成相关struct有效性检验的validate方法。Star: 86. Lang: Golang.
+* [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - go-grpc各种中间件。Star: 500. Lang: Golang.
+* [go-callvis](https://github.com/TrueFurby/go-callvis) - 用dot图可视化Go程序函数调用顺序。Star: 872. Lang: Golang.
+* [oexec](https://github.com/amalfra/oexec) - 按照用户指定顺序执行脚本。star: 3. Lang: Golang.
+* [moviepy](https://github.com/Zulko/moviepy) - 视频编辑工具。Star: 2874. Lang: Python.
+* [geetest_break](https://github.com/FanhuaandLuomu/geetest_break) - 验证码破解，附加源码和破解手册。Star: 13. Lang: Markdown.
+* [awesome-os](https://github.com/jubalh/awesome-os) - awesome os。Star: 10. Lang: Markdown.
 
 > Blog
-* [再谈CGO!](http://www.jianshu.com/p/7a47c6f3456d) 
-* [Go语言的共享内存读写实验](http://1234n.com/?post/jsh0zf) 
-* [Docker与Golang的巧妙结合](https://mp.weixin.qq.com/s?src=3&timestamp=1503193076&ver=1&signature=HFuHqlus1V1tL85PydZomy5OrEw81PGBH68tU0-NnheQtrUX52olREFH3JG*OPTB8Io9-v6Yoe0a21UTjoXz2KrFyqeAa0pVApRY8ghKeiutzwPUm85MCeDnfVFzCJ8G0bwu-ATUqVeccOmSiofmHrXY*RLjqWVS19jri3B-QDU=) 
-* [从0开始打造一个独立内存的缓存系统](https://mp.weixin.qq.com/s?src=3&timestamp=1503193164&ver=1&signature=4cN2zbsuTbHDkotZNk6LgGJ3gu7wYAv0j0wN7AM-rNeIeZVfbK*SEaQ*wnmetigFgOan1kmJOi1u9xB3f95zXVkdh9Dx*4vb*X4eZRrbCTFFS2na4QGbrhRL5AKHi1rsau*eQd1j1tOyCotQWNo-3TtRLra4vpyBtVEfdpt7L*Y=) 
+* [掌握所有开源数据库的现状](https://mp.weixin.qq.com/s?src=3&timestamp=1503275627&ver=1&signature=OHXa87n8bBbb6zk0JheVJRkbR7db*44d4QkpzzLtveYYFZH5O2E59D2jj2yAvadzU7F-gQoOTOOhkTWWFZB6qVemtin2tzfJYaNVuRmPSma1Jz0i11dxni1xX2DEEkMezX-PR2kvVLfN7hd2F63It1g6erx*3rdV5G9FrkKCgW0=) 
+* [GroupCache的使用](https://mp.weixin.qq.com/s?src=3&timestamp=1503275627&ver=1&signature=xPSye3v7miF7aVeLHb*6ZbJfWAx9xy2kN1w156ZDMXVzlZZiAG9rZRpxdH5x5ge5YXRdfufyWxUW0dop2rm4Q1mQKxNjfVuJg7zZpEskcjaGktE*bShG46k2nvoUb5PizBZDN7e33fYRP1lS3JE-PZIAqzO-SzNlpFMQnSZLRyw=) 
 
 > Misc
-* [鸡走路时为什么脑袋一抖一抖的？](https://news.cnblogs.com/n/576483/) 
-* [制造伞都还没自动化](https://news.cnblogs.com/n/576482/) 
+* [一个漏洞能潜伏多少年？](http://www.freebuf.com/special/142923.html) 
+
 
