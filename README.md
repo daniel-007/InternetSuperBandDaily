@@ -24,6 +24,9 @@
 * [利用WiFi Pineapple Nano渗透客户端获取SHELL](http://www.freebuf.com/sectool/144862.html) 
 * [Nmap的高级漏洞扫描模块Vulscan](http://www.freebuf.com/sectool/144821.html) 
 * [PgBouncer in action](https://huoding.com/2015/12/29/485) 
+* [github/github 迁移到Kubernetes 背后的思考](http://dwz.cn/6q0aXe)
+* [如何使用Elasticsearch构建企业级搜索方案？](http://dwz.cn/6q0br8)
+* [基于mybatis读写分离插件](http://dwz.cn/6q0beA)
 
 > Misc
 * [阿里逍遥子](https://news.cnblogs.com/n/576628/) 
