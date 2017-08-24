@@ -1,25 +1,32 @@
-## 2017-08-23
+## 2017-08-24
 
 > News
-* [人人影视发文求网友支持](https://news.cnblogs.com/n/576655/)
-* [微软宣布帝国时代4，以及全系列最终版重制](https://news.cnblogs.com/n/576612/)
-* [川普正式宣布将网络司令部升格，独立于国家安全局](http://www.freebuf.com/news/145148.html)
+* [AMD中国放大招：联合百度成立GPU技术实验室](https://news.cnblogs.com/n/576753/)
+* [安全企业root9B濒临破产](http://www.freebuf.com/news/145344.html)
+* [网易云音乐再被腾讯起诉：涉侵权200多首华语歌曲](http://www.donews.com/news/detail/1/2964652.html)
 
 > Github Repo
-* [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - 通过raw socket给UDP包加上TCP或ICMP header，进而绕过UDP屏蔽或QoS，或在UDP不稳定的环境下提升稳定性。可以有效防止在使用kcptun或者finalspeed的情况下udp端口被运营商限速。支持心跳保活、自动重连，重连后会恢复上次连接，在底层掉线的情况下可以保持上层不掉线。同时有加密、防重放攻击、信道复用的功能。Star: 478. Lang: C++.
-* [cobra](https://github.com/spf13/cobra) - 命令行工具。Star: 4948. Lang: Golang.
-* [parsopt](https://github.com/jawher/parsopt) - go getopts实现。Star: 4. Lang: Golang.
-* [oni](https://github.com/extr0py/oni) - 基于Neovim的编辑器，支持Ts、Js、C#、Go、Python等语言。Star: 1920. Lang: typescript.
-* [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - 关于安全方面的资料列表。Star: 1784. Lang: Markdown.
+* [weld](https://github.com/weld-project/weld) - 一个能加快数据分析的框架。Star: 554. Lang: Rust.
+* [trinity](https://github.com/kernelslacker/trinity) - linux系统API模糊测试框架，黑客们的最爱，用于挖掘系统漏洞。Star: 448. Lang: C.
+* [android-shmem](https://github.com/pelya/android-shmem) - 在android系统上实现System V的共享内存相关API，如shmget，shmat，shmdt等。Star: 34. Lang: C.
+* [go-github](https://github.com/google/go-github) - 谷歌出品的一个Go语言库，对github api进行了封装。Star: 2825. Lang: Golang.
+* [go-slab](https://github.com/couchbase/go-slab) - go 内存池实现，可以让用户绕过gc自己手工管理内存，每个内存块都会有相关引用计数，引用计数为0的时候会被底层库回收。Star: 229. Lang: Golang.
+* [gxui](https://github.com/google/gxui) - 谷歌出品的go实现的跨平台ui库。Star: 3839. Lang: Golang.
+* [GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码数据操作标准库，有Python、Js、Ruby、Java、PHP、Go、Elixir和Swift等实现。Star: 657. Lang: Golang & Python & Java & Js etc.
+* [ngender](https://github.com/observerss/ngender) - 根据姓名来判断性别。Star: 63. Lang: Python.
+* [image-match](https://github.com/ascribe/image-match) - 相似图片查找。Star:1346. Lang: Python.
+* [websocket-client](https://github.com/websocket-client/websocket-client) - websocket python client. Star: 914. Lang: Python.
+* [vanilla](https://github.com/vanilla/vanilla) - 一个类似于discuz的论坛实现。Star: 1689. Lang: PHP.
 
 > Blog
-* [利用WiFi Pineapple Nano渗透客户端获取SHELL](http://www.freebuf.com/sectool/144862.html) 
-* [Nmap的高级漏洞扫描模块Vulscan](http://www.freebuf.com/sectool/144821.html) 
-* [PgBouncer in action](https://huoding.com/2015/12/29/485) 
-* [github/github 迁移到Kubernetes 背后的思考](http://dwz.cn/6q0aXe)
-* [如何使用Elasticsearch构建企业级搜索方案？](http://dwz.cn/6q0br8)
-* [基于mybatis读写分离插件](http://dwz.cn/6q0beA)
+* [高性能 RPC 开发框架 Tars](https://www.oschina.net/question/2720166_2264499?sort=default&p=2) 
+* [欢乐逛大数据平台的架构设计](http://dwz.cn/6qcgSB) 
+* [为什么离职最能暴露一个人的格局](http://dwz.cn/6qcgLU) 
+* [58速运“里程计算”优化与演进](http://dwz.cn/6qchDO) 
+* [kafka监控实战(jmxtrans+InfluxDb+Grafana)](http://dwz.cn/6qchgO) 
 
 > Misc
-* [阿里逍遥子](https://news.cnblogs.com/n/576628/) 
-* [再过5年，你还在写代码吗？](http://dwz.cn/6q0b4y)
+* [资深开发者带你看看 JVM 语言的浮沉史](https://www.oschina.net/news/88013/rise-fall-jvm-languages) 
+* [工作三年后，我选择离开腾讯](http://dwz.cn/6qcggo) 
+* [架构的重要性](http://dwz.cn/6qcho3) 
+
