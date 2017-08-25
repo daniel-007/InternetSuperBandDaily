@@ -1,32 +1,29 @@
-## 2017-08-24
+## 2017-08-25
 
 > News
-* [AMD中国放大招：联合百度成立GPU技术实验室](https://news.cnblogs.com/n/576753/)
-* [安全企业root9B濒临破产](http://www.freebuf.com/news/145344.html)
-* [网易云音乐再被腾讯起诉：涉侵权200多首华语歌曲](http://www.donews.com/news/detail/1/2964652.html)
+* [孙宏斌新乐视](http://www.cnbeta.com/articles/tech/644875.htm)
+* [windows 95依然活跃](http://www.cnbeta.com/articles/soft/644845.htm)
 
 > Github Repo
-* [weld](https://github.com/weld-project/weld) - 一个能加快数据分析的框架。Star: 554. Lang: Rust.
-* [trinity](https://github.com/kernelslacker/trinity) - linux系统API模糊测试框架，黑客们的最爱，用于挖掘系统漏洞。Star: 448. Lang: C.
-* [android-shmem](https://github.com/pelya/android-shmem) - 在android系统上实现System V的共享内存相关API，如shmget，shmat，shmdt等。Star: 34. Lang: C.
-* [go-github](https://github.com/google/go-github) - 谷歌出品的一个Go语言库，对github api进行了封装。Star: 2825. Lang: Golang.
-* [go-slab](https://github.com/couchbase/go-slab) - go 内存池实现，可以让用户绕过gc自己手工管理内存，每个内存块都会有相关引用计数，引用计数为0的时候会被底层库回收。Star: 229. Lang: Golang.
-* [gxui](https://github.com/google/gxui) - 谷歌出品的go实现的跨平台ui库。Star: 3839. Lang: Golang.
-* [GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码数据操作标准库，有Python、Js、Ruby、Java、PHP、Go、Elixir和Swift等实现。Star: 657. Lang: Golang & Python & Java & Js etc.
-* [ngender](https://github.com/observerss/ngender) - 根据姓名来判断性别。Star: 63. Lang: Python.
-* [image-match](https://github.com/ascribe/image-match) - 相似图片查找。Star:1346. Lang: Python.
-* [websocket-client](https://github.com/websocket-client/websocket-client) - websocket python client. Star: 914. Lang: Python.
-* [vanilla](https://github.com/vanilla/vanilla) - 一个类似于discuz的论坛实现。Star: 1689. Lang: PHP.
+* [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - EasyDarwin是由国内开源流媒体团队维护和迭代的一整套开源流媒体视频平台框架，从2012年12月创建并发展至今，包含有单点服务的开源流媒体服务器，和扩展后的流媒体云平台架构的开源框架，开辟了诸多的优质开源项目，能更好地帮助广大流媒体开发者和创业型企业快速构建流媒体服务平台，更快、更简单地实现最新的移动互联网(安卓、iOS、H5、微信)流媒体直播与点播的需求，尤其是安防行业与互联网行业的衔接，EasyDarwin流媒体技术，助力传统行业升级转型！Star: 1532. Lang: Golang.
+* [goversion](https://github.com/rsc/goversion) - 输出go binary编译时所使用的go的版本。Star: 33. Lang: Golang.
+* [sqlx](https://github.com/jmoiron/sqlx) - 可以和github.com/go-sql-driver/mysql配合使用的sql库。Star: 3191. Lang: Golang.
+* [sego](https://github.com/huichen/sego) - Go中文分词。Star: 816. Lang: Golang.
+* [lile](https://github.com/lileio/lile) - 一个grpc工具，能够快速产生grpc代码模板。Star: 18. Lang: Golang.
+* [interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理。Star: 1522. Lang: Markdown.
+* [Django-ERP](https://github.com/zhuinfo/Django-ERP) - Django-ERP是一款基于Django开发的ERP管理软件，包含常用的销售管理、采购管理、库存管理、组织管理等，支持按项目归集费用，支持工作流审批，支持采购单、报价单的批量导入。Star: 250. Lang: Python.
+* [livetv_mining](https://github.com/taogeT/livetv_mining) - 项目实现爬虫、数据挖掘/分析等功能。目前主要是扫描直播站点收集数据，后续会开发相关数据分析模块。Star: 122. Lang: Python.
+* [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - ios视频和图片处理工具。Star: 7658. Lang: OC.
+* [sensitive-stop-words](https://github.com/fwwdn/sensitive-stop-words) - 互联网常用敏感词及停止词库，包括：色情、政治、广告等。Star: 78. Lang: Markdown.
 
 > Blog
-* [高性能 RPC 开发框架 Tars](https://www.oschina.net/question/2720166_2264499?sort=default&p=2) 
-* [欢乐逛大数据平台的架构设计](http://dwz.cn/6qcgSB) 
-* [为什么离职最能暴露一个人的格局](http://dwz.cn/6qcgLU) 
-* [58速运“里程计算”优化与演进](http://dwz.cn/6qchDO) 
-* [kafka监控实战(jmxtrans+InfluxDb+Grafana)](http://dwz.cn/6qchgO) 
+* [借力单车轨迹大数据，如何更好规划自行车道？](https://news.cnblogs.com/n/576848/) 
+* [Rustgo详解](http://geek.csdn.net/news/detail/233396) 
+* [破解iPhone小工具](http://www.freebuf.com/sectool/145324.html) 
+* [360加固保关键技术浅析](http://www.freebuf.com/articles/terminal/145102.html) 
+* [微服务架构中使用的分布式调度器](http://dwz.cn/6qqWMD) 
+* [淘宝中台](http://dwz.cn/6qqX2y) 
 
 > Misc
-* [资深开发者带你看看 JVM 语言的浮沉史](https://www.oschina.net/news/88013/rise-fall-jvm-languages) 
-* [工作三年后，我选择离开腾讯](http://dwz.cn/6qcggo) 
-* [架构的重要性](http://dwz.cn/6qcho3) 
-
+* [如何靠股权制度设计战胜大公司病](https://news.cnblogs.com/n/576830/) 
+* [Flash兴衰史](http://www.freebuf.com/special/144157.html)
