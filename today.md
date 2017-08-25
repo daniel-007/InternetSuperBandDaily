@@ -23,6 +23,7 @@
 * [360加固保关键技术浅析](http://www.freebuf.com/articles/terminal/145102.html) 
 * [微服务架构中使用的分布式调度器](http://dwz.cn/6qqWMD) 
 * [淘宝中台](http://dwz.cn/6qqX2y) 
+* [NSQ](http://dwz.cn/6qr1fO)
 
 > Misc
 * [如何靠股权制度设计战胜大公司病](https://news.cnblogs.com/n/576830/) 
