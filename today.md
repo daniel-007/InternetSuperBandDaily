@@ -1,30 +1,28 @@
-## 2017-08-25
+## 2017-08-26
 
 > News
-* [孙宏斌新乐视](http://www.cnbeta.com/articles/tech/644875.htm)
-* [windows 95依然活跃](http://www.cnbeta.com/articles/soft/644845.htm)
+* [程序员Peter](http://geek.csdn.net/news/detail/233706)
+* [ICO与IPO争雄 虚拟货币投资风险重重](http://www.cnbeta.com/articles/tech/645291.htm)
 
 > Github Repo
-* [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - EasyDarwin是由国内开源流媒体团队维护和迭代的一整套开源流媒体视频平台框架，从2012年12月创建并发展至今，包含有单点服务的开源流媒体服务器，和扩展后的流媒体云平台架构的开源框架，开辟了诸多的优质开源项目，能更好地帮助广大流媒体开发者和创业型企业快速构建流媒体服务平台，更快、更简单地实现最新的移动互联网(安卓、iOS、H5、微信)流媒体直播与点播的需求，尤其是安防行业与互联网行业的衔接，EasyDarwin流媒体技术，助力传统行业升级转型！Star: 1532. Lang: Golang.
-* [goversion](https://github.com/rsc/goversion) - 输出go binary编译时所使用的go的版本。Star: 33. Lang: Golang.
-* [sqlx](https://github.com/jmoiron/sqlx) - 可以和github.com/go-sql-driver/mysql配合使用的sql库。Star: 3191. Lang: Golang.
-* [sego](https://github.com/huichen/sego) - Go中文分词。Star: 816. Lang: Golang.
-* [lile](https://github.com/lileio/lile) - 一个grpc工具，能够快速产生grpc代码模板。Star: 18. Lang: Golang.
-* [interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理。Star: 1522. Lang: Markdown.
-* [Django-ERP](https://github.com/zhuinfo/Django-ERP) - Django-ERP是一款基于Django开发的ERP管理软件，包含常用的销售管理、采购管理、库存管理、组织管理等，支持按项目归集费用，支持工作流审批，支持采购单、报价单的批量导入。Star: 250. Lang: Python.
-* [livetv_mining](https://github.com/taogeT/livetv_mining) - 项目实现爬虫、数据挖掘/分析等功能。目前主要是扫描直播站点收集数据，后续会开发相关数据分析模块。Star: 122. Lang: Python.
-* [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - ios视频和图片处理工具。Star: 7658. Lang: OC.
-* [sensitive-stop-words](https://github.com/fwwdn/sensitive-stop-words) - 互联网常用敏感词及停止词库，包括：色情、政治、广告等。Star: 78. Lang: Markdown.
+* [gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - GPS软实现，黑客常用工具。Star: 560. Lang:C.
+* [go-memdb](https://github.com/hashicorp/go-memdb) - 一个基于immutable radix trees实现的内存数据库，提供ACI、MMVC、Transaction、多种类型锁紧以及key监控能力。Star: 724. Lang: Golang.
+* [gotalk](https://github.com/rsms/gotalk) - 一个异步p2p通信库。Star: 809. Lang: Golang.
+* [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - 一个protoc插件，可以根据proto文件实现一个反向代理，能把RESTful JSON API请求转发到grpc服务端。Star: 2322. Lang: Golang.
+* [lile](https://github.com/lileio/lile) - 根据proto文件自动生成grpc服务。Star: 84. Lang: Golang.
+* [beats](https://github.com/elastic/beats) - 可以把各种格式化数据如logstash处理的数据存到es中。Star: 4375. Lang: Golang.
+* [dns](https://github.com/miekg/dns) - DNS库。Star: 2291. Lang: Golang.
+* [libgdx](https://github.com/libgdx/libgdx) - 一个跨平台的基于OpenGL(ES)的Java语言游戏框架，支持Windows、Android、HTML和iOS等多种平台。Star: 12248. Lang: Java.
+* [across](https://github.com/teddysun/across) - 一些翻墙脚本工具。Star: 453. Lang: Bash.
+* [js-yaml](https://github.com/nodeca/js-yaml) - js yaml读写库。Star: 2335. Lang: Js.
+* [english-level-up-tips-for-Chinese](https://github.com/byoungd/english-level-up-tips-for-Chinese) - 英语进阶指南。Star: 5621. Lang: Markdown.
 
 > Blog
-* [借力单车轨迹大数据，如何更好规划自行车道？](https://news.cnblogs.com/n/576848/) 
-* [Rustgo详解](http://geek.csdn.net/news/detail/233396) 
-* [破解iPhone小工具](http://www.freebuf.com/sectool/145324.html) 
-* [360加固保关键技术浅析](http://www.freebuf.com/articles/terminal/145102.html) 
-* [微服务架构中使用的分布式调度器](http://dwz.cn/6qqWMD) 
-* [淘宝中台](http://dwz.cn/6qqX2y) 
-* [NSQ](http://dwz.cn/6qr1fO)
+* [时序数据库之Influxdb集群及踩过的坑](http://www.cnblogs.com/tianqing/p/7153023.html) 
+* [互联网级监控平台之内存存储的设计和优化](http://www.cnblogs.com/tianqing/p/7425696.html) 
+* [Memsniff：一款开源的memcached流量分析工具](http://www.freebuf.com/sectool/144901.html) 
+* [使用Maltego进行互联网情报收集（入门篇）](http://www.freebuf.com/sectool/104949.html) 
+* [Java9新特性](http://dwz.cn/6qGjSK) 
 
 > Misc
-* [如何靠股权制度设计战胜大公司病](https://news.cnblogs.com/n/576830/) 
-* [Flash兴衰史](http://www.freebuf.com/special/144157.html)
+* [github创始人Tom Preston-Werner对开源的看法](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) 
