@@ -13,7 +13,7 @@
 
 > Github Repo
 * [SecondPaxos](https://github.com/huoyu820125/SecondPaxos) - 1张图论证Paxos，比数学论证好理解的多，让你秒懂Paxos。 本项目从理论与代码上双重论证Paxos。 我相信本项目会是你在网上所能找到的，最通俗，最简洁，最完整（表现在不仅有理论，而且有实现代码和测试代码）的Paxos讲解与论证资料。 提供c++ java版本paxos算法封装代码，以及正确性压测程序。Star: 5. Lang: C++&Java.
-* [predixy](https://github.com/joyieldInc/predixy) - 一种新的跨平台的redis proxy，支持包括pub/sub在内的几乎所有的redis命令，还可以连接redis sentinel，。Star: 45. Lang: C++.
+* [predixy](https://github.com/joyieldInc/predixy) - 一种新的跨平台的redis proxy，支持包括pub/sub在内的几乎所有的redis命令，还可以连接redis sentinel。Star: 45. Lang: C++.
 * [pybind11](https://github.com/pybind/pybind11) - 像Boost.Python一样可让Boost和Python相互调用，但是作者觉得Boost太庞大，于是有造了一个类似的东东称之为pybind11。Star: 2506. Lang: C++&Python.
 * [pbrt-v3](https://github.com/mmp/pbrt-v3) - 渲染引擎pbrt v3实现。Star: 1058. Lang: C++.
 * [xtensor](https://github.com/QuantStack/xtensor) - C++多维数组操作操作和计算库。Star: 304. Lang: C++.
