@@ -20,7 +20,7 @@
 * [WebSocket 实现原理](http://ios.jobbole.com/93226/) 
 * [MySQL 性能优化的那点事儿](http://dwz.cn/6r5WoQ) 
 * [Golang Generate命令说明与使用](http://dwz.cn/6r5Xpa)
-* [go generate使用](http://dwz.cn/6r5XUi)
+* [详解Serverless架构及应用](http://dwz.cn/6r5XUi)
 
 > Misc
 * [人工智能行业薪酬](https://www.oschina.net/news/88131/ai-salary) 
