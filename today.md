@@ -1,25 +1,28 @@
-## 2017-08-27
+## 2017-08-28
 
 > News
-* [独生子女为何不愿分享--大脑结构与他人有差别](http://www.cnbeta.com/articles/science/645485.htm)
+* [Meg Whitman成为最热候选人](http://www.donews.com/news/detail/1/2964995.html)
 
 > Github Repo
-* [SecondPaxos](https://github.com/huoyu820125/SecondPaxos) - 1张图论证Paxos，比数学论证好理解的多，让你秒懂Paxos。 本项目从理论与代码上双重论证Paxos。 我相信本项目会是你在网上所能找到的，最通俗，最简洁，最完整（表现在不仅有理论，而且有实现代码和测试代码）的Paxos讲解与论证资料。 提供c++ java版本paxos算法封装代码，以及正确性压测程序。Star: 5. Lang: C++&Java.
-* [predixy](https://github.com/joyieldInc/predixy) - 一种新的跨平台的redis proxy，支持包括pub/sub在内的几乎所有的redis命令，还可以连接redis sentinel。Star: 45. Lang: C++.
-* [pybind11](https://github.com/pybind/pybind11) - 像Boost.Python一样可让Boost和Python相互调用，但是作者觉得Boost太庞大，于是有造了一个类似的东东称之为pybind11。Star: 2506. Lang: C++&Python.
-* [pbrt-v3](https://github.com/mmp/pbrt-v3) - 渲染引擎pbrt v3实现。Star: 1058. Lang: C++.
-* [xtensor](https://github.com/QuantStack/xtensor) - C++多维数组操作操作和计算库。Star: 304. Lang: C++.
-* [tarantool](https://github.com/tarantool/tarantool) - 内置了一个内存db的app server，可调用lua脚本，数据协议格式采用MsgPack，数据可以B-tree形式序列化到disk上，索引类型有Hash,Tree,BTree,BITSET等，多个实例之间可采用多Master方式进行数据同步。Star: 1592. Lang: C++.
-* [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - sqlite数据浏览器。Star: 6598. Lang: C++.
-* [iris](https://github.com/kataras/iris) - 地球上（为啥不说宇宙）最后的web框架。Star: 7464. Lang: Golang.
-* [go-fastping](https://github.com/tatsushid/go-fastping) - go ping实现。Star: 212. Lang: Golang.
-* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - 网络攻击指南。Star: 58. Lang: Markdown.
+* [shio-rs](https://github.com/mehcode/shio-rs) - 一个快速简单的异步web框架。Star: 125. Lang: Rust.
+* [cronsun](https://github.com/shunfei/cronsun) - cronsun 是一个分布式任务系统，单个结点和 * nix 机器上的 crontab 近似。支持界面管理机器上的任务，支持任务失败邮件提醒，安装简单，使用方便，是替换 crontab 一个不错的选择。cronsun 是为了解决多台 * nix 机器上crontab 任务管理不方便的问题，同时提供任务高可用的支持（当某个节点死机的时候可以自动调度到正常的节点执行）。Star: 524. Lang: Golang.
+* [websocketd](https://github.com/joewalnes/websocketd) - websocketd是WebSocket守护进程，它负责处理WebSocket连接，启动您的程序来处理WebSockets，并在程序和Web浏览器之间传递消息，类似于cgi。Star: 8349. Lang: Golang.
+* [tendermint](https://github.com/tendermint/tendermint) - 拜占庭一致性容错算法实现。Star: 613. Lang: Golang.
+* [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 Node.js 和 MongoDB 开发的社区系统。Star: 6390. Lang: Js.
+* [nideshop](https://github.com/tumobi/nideshop) - 使用 Node.js 和 Mysql 开发的免费商城。Star: 435. Lang: Js.
+* [snownlp](https://github.com/isnowfy/snownlp) - 中文分词库。Star: 2198. Lang: Python.
+* [awesome-docke](https://github.com/veggiemonk/awesome-docker) - 。Star: 7873. Lang: Markdown.
+* [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。Star: 6236. Lang: Markdown.
 
 > Blog
-* [反侦察力最强木马解析](http://www.freebuf.com/articles/system/144792.html) 
-* [Filebeat 优化实践](http://dwz.cn/6qTP5i) 
+* [Zookeeper的坑](http://blog.jobbole.com/112233/) 
+* [Linux 开机引导和启动过程详解](http://blog.jobbole.com/112277/) 
+* [WebSocket 实现原理](http://ios.jobbole.com/93226/) 
+* [MySQL 性能优化的那点事儿](http://dwz.cn/6r5WoQ) 
+* [Golang Generate命令说明与使用](http://dwz.cn/6r5Xpa)
+* [go generate使用](http://dwz.cn/6r5XUi)
 
 > Misc
-* [CIA利用ExpressLane工具搜集FBI与NSA等机构的数据](http://www.freebuf.com/news/145583.html)
-
-
+* [人工智能行业薪酬](https://www.oschina.net/news/88131/ai-salary) 
+* [一个时代的结束：Solaris 系统的那些年，那些事](http://blog.jobbole.com/112268/) 
+* [七夕不是情人节](http://dwz.cn/6r5XiA)
