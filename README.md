@@ -24,11 +24,11 @@
 
 > Blog
 * [Zookeeper的坑](http://blog.jobbole.com/112233/) 
-* [Linux 开机引导和启动过程详解](http://blog.jobbole.com/112277/) 
+* [Linux 开机引导和启动过程详解](http://blog.jobbole.com/112277/) - 配合以前的《LINUX PID 1和SYSTEMD》一文一起阅读。
 * [WebSocket 实现原理](http://ios.jobbole.com/93226/) 
 * [MySQL 性能优化的那点事儿](http://dwz.cn/6r5WoQ) 
 * [Golang Generate命令说明与使用](http://dwz.cn/6r5Xpa)
-* [go generate使用](http://dwz.cn/6r5XUi)
+* [serverless详解](http://dwz.cn/6r5XUi)
 
 > Misc
 * [人工智能行业薪酬](https://www.oschina.net/news/88131/ai-salary) 
